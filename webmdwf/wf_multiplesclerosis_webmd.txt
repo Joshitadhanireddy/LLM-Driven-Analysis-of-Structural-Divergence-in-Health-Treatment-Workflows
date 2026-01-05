@@ -1,0 +1,34 @@
+MULTIPLE SCLEROSIS (MS) TREATMENT WORKFLOW (from WebMD-based plan)
+
+1. Core treatment goals
+   - Slow disease progression.
+   - Reduce relapses.
+   - Manage symptoms.
+   - Prevent complications.  fileciteturn11file2
+
+2. Disease-modifying therapies (DMTs)
+   2.1 Injectables:
+       - Beta interferons, glatiramer, ofatumumab.  fileciteturn11file2
+   2.2 Oral DMTs:
+       - Cladribine, dimethyl fumarate, diroximel fumarate, fingolimod, monomethyl fumarate, ozanimod, ponesimod, siponimod, teriflunomide.  fileciteturn11file2
+   2.3 IV infusions:
+       - Natalizumab, ocrelizumab, alemtuzumab, mitoxantrone.  fileciteturn11file2
+
+3. Relapse treatment
+   - High-dose steroids (IV methylprednisolone, ACTH).  fileciteturn11file2
+   - Plasmapheresis for steroid‑refractory relapses.  fileciteturn11file2
+
+4. Symptom-specific medications
+   - Spasticity: baclofen, tizanidine, clonazepam, diazepam.  fileciteturn11file2
+   - Fatigue: amantadine, modafinil, armodafinil.  fileciteturn11file2
+   - Depression: bupropion, fluoxetine, sertraline.  fileciteturn11file2
+   - Bladder issues: oxybutynin, tolterodine.  fileciteturn11file2
+
+5. Rehabilitation
+   - Physical therapy for mobility, gait training, assistive devices.  fileciteturn11file2
+
+6. Lifestyle guidance
+   - Rest, healthy diet, exercise, stress management, keep cool to avoid flare worsening.  fileciteturn11file2
+
+7. Complementary care
+   - Vitamin D, B vitamins, cranberry juice, acupuncture (symptom relief).  fileciteturn11file2

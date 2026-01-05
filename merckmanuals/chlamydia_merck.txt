@@ -1,0 +1,51 @@
+--- Chlamydia Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/infectious-diseases/sexually-transmitted-infections-stis/urogenital-chlamydial-infections?_gl=1*lhcwi9*_up*MQ..*_ga*MjEzNzMxMTAxNC4xNzY0MzQxNDU5*_ga_CJ792HFYYC*czE3NjQzNDE0NTkkbzEkZzAkdDE3NjQzNDE0NTkkajYwJGwwJGgw#Treatment_v1023743
+
+=== Treatment of Urogenital Chlamydial Infections ===
+
+  - Oral antibiotics
+
+  - Empiric treatment for gonorrhea if it has not been excluded
+
+  - Treatment of sex partners from past 60 days and/or most recent sex partner
+
+Empiric treatment for gonorrhea if it has not been excluded
+
+Treatment of sex partners from past 60 days and/or most recent sex partner
+
+Uncomplicated documented or suspected chlamydia is treated with doxycycline 100 mg orally 2 times a day for 7 days ( Uncomplicated documented or suspected chlamydia is treated with doxycycline 100 mg orally 2 times a day for 7 days ( 1 , 2 ).
+
+Azithromycin as a single 1-gram oral dose or levofloxacin 500 mg orally once/day for 7 days is an alternative medication. Azithromycin as a single 1-gram oral dose or levofloxacin 500 mg orally once/day for 7 days is an alternative medication.
+
+For pregnant patients, azithromycin as a single 1-gram oral dose should be used. Amoxicillin 500 mg orally 3 times a day for 7 days is the alternative therapy to For pregnant patients, azithromycin as a single 1-gram oral dose should be used. Amoxicillin 500 mg orally 3 times a day for 7 days is the alternative therapy to azithromycin . Pregnant patients should have a test of cure 4 weeks after treatment and be retested within 3 months.
+
+These regimens do not reliably treat gonorrhea, which coexists in many patients with chlamydia. Therefore, treatment should include a single dose of ceftriaxone 500 mg IM (1 g IM for patients weighing ≥ 150 kg) unless the patient has tested negative for gonorrhea ( These regimens do not reliably treat gonorrhea, which coexists in many patients with chlamydia. Therefore, treatment should include a single dose of ceftriaxone 500 mg IM (1 g IM for patients weighing ≥ 150 kg) unless the patient has tested negative for gonorrhea ( 2 ).
+
+In areas where trichomoniasis is prevalent, empiric treatment with metronidazole , tinidazole , or secnidazole is recommended for patients with chlamydia unless nucleic acid amplification testing (NAAT) indicates patients are negative for trichomoniasis. is prevalent, empiric treatment with metronidazole, tinidazole, or secnidazole is recommended for patients with chlamydia unless nucleic acid amplification testing (NAAT) indicates patients are negative for trichomoniasis.
+
+Patients who relapse (up to 13% within 12 months) ( 3 ) are usually coinfected with microbes that do not respond to antichlamydial therapy, or they were reinfected since treatment. They should be retested for chlamydia and gonorrhea and, if possible, for mycoplasma and trichomoniasis.
+
+Sex partners within the past 60 days and prior to the patient's development of symptoms (or the most recent sex partner if the last sexual contact was > 60 days) should be evaluated, tested, and presumptively treated ( 2 ). Patients should abstain from sexual activity until they and their partners have been treated for ≥ 1 week.
+
+Expedited partner therapy (EPT) is a practice in which patients with an infection are given a prescription or medications to deliver to their partner without a health care professional first examining the partner. EPT may enhance partner adherence and reduce treatment failure due to reinfection. It may be most appropriate for partners of women with gonorrhea or chlamydia. However, a health care examination is preferable to ascertain histories of medication allergies and to screen for other STIs ( 2 ).
+
+Postexposure prophylaxis with doxycycline taken orally within 72 hours of condomless sex has been shown to significantly reduce the incidence of chlamydia, gonorrhea, and syphilis in men who have sex with men and transgender women ( 4 ).
+
+If chlamydial genital infections are untreated, symptoms and signs subside within 4 weeks in about two-thirds of patients. However, in women, asymptomatic cervical infection may persist, resulting in chronic endometritis, salpingitis, or pelvic peritonitis and associated sequelae—pelvic pain, infertility, and increased risk of ectopic pregnancy. Because chlamydia can have serious long-term consequences for women, even when symptoms are mild or absent, detecting the infection in women and treating them and their sex partners is crucial.
+
+  - 1. Kong FYS,  Tabrizi SN,  Fairley CK, et al . The efficacy of azithromycin and doxycycline for the treatment of rectal chlamydia infection: a systematic review and meta-analysis. J Antimicrob Chemother . 2015;70:1290–1297. doi:10.1093/jac/dku574
+
+  - 2. Workowski KA, Bachmann LH, Chan PA, et al . Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep . 2021;70(4):1-187. Published 2021 Jul 23. doi:10.15585/mmwr.rr7004a1. Erratum: Vol. 70, No. RR-4. MMWR Morb Mortal Wkly Rep . 2023;72(4):107-108. Published 2023 Jan 27. doi:10.15585/mmwr.mm7204a5
+
+  - 3. Hosenfeld CB, Workowski KA, Berman S, et al . Repeat infection with Chlamydia and gonorrhea among females: a systematic review of the literature. Sex Transm Dis . 2009;36(8):478-489. doi:10.1097/OLQ.0b013e3181a2a933
+
+  - 4. Bachmann LH, Barbee LA, Chan P, et al . CDC Clinical Guidelines on the Use of Doxycycline Postexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024. MMWR Recomm Rep . 2024;73(2):1-8. Published 2024 Jun 6. doi:10.15585/mmwr.rr7302a1
+
+1. Kong FYS,  Tabrizi SN,  Fairley CK, et al . The efficacy of azithromycin and doxycycline for the treatment of rectal chlamydia infection: a systematic review and meta-analysis. J Antimicrob Chemother . 2015;70:1290–1297. doi:10.1093/jac/dku574
+
+2. Workowski KA, Bachmann LH, Chan PA, et al . Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep . 2021;70(4):1-187. Published 2021 Jul 23. doi:10.15585/mmwr.rr7004a1. Erratum: Vol. 70, No. RR-4. MMWR Morb Mortal Wkly Rep . 2023;72(4):107-108. Published 2023 Jan 27. doi:10.15585/mmwr.mm7204a5
+
+3. Hosenfeld CB, Workowski KA, Berman S, et al . Repeat infection with Chlamydia and gonorrhea among females: a systematic review of the literature. Sex Transm Dis . 2009;36(8):478-489. doi:10.1097/OLQ.0b013e3181a2a933
+
+4. Bachmann LH, Barbee LA, Chan P, et al . CDC Clinical Guidelines on the Use of Doxycycline Postexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024. MMWR Recomm Rep . 2024;73(2):1-8. Published 2024 Jun 6. doi:10.15585/mmwr.rr7302a1

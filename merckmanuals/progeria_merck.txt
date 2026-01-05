@@ -1,0 +1,6 @@
+--- Progeria Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/pediatrics/chromosome-and-gene-abnormalities/progeria?query=progeria%20treatment
+
+Lonafarnib is an oral medication that prevents defective progerin or progerin-like protein build-up. A multicenter prospective cohort study showed it lowers mortality (3.7% vs 33.3%) compared to placebo after 2.2 years of follow-up (2).
+

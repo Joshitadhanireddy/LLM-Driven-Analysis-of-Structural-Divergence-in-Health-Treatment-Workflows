@@ -1,0 +1,39 @@
+HEMOPHILIA MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Core treatment principle
+   - Replace missing clotting factor via IV infusion.
+   - Use:
+     * On-demand for active bleeds.
+     * Scheduled prophylaxis at home.
+     * Continuous replacement in selected severe cases.
+
+2. Factor replacement options
+   - Plasma-derived clotting factor concentrates.
+   - Recombinant clotting factors produced in lab (no human blood).
+
+3. Adjunctive therapies
+   - Desmopressin (DDAVP)
+     * For some mild hemophilia types.
+     * Stimulates endogenous factor release.
+     * IV or intranasal.
+   - Emicizumab (Hemlibra)
+     * Non–clotting factor biologic.
+     * Prevents bleeding in hemophilia A.
+   - Clot-preserving medications (antifibrinolytics)
+     * Help prevent breakdown of clots.
+   - Fibrin sealants
+     * Applied directly to wound sites (esp. dental work).
+
+4. Supportive care
+   - Physical therapy
+     * For joint damage from prior bleeding.
+     * Aim to preserve mobility; surgery if joints severely damaged.
+   - First aid for minor bleeding
+     * Direct pressure and bandage.
+     * Ice for small subcutaneous bleeds.
+     * Ice pops for minor oral bleeding.
+
+5. Long-term goals
+   - Prevent spontaneous and procedure-related bleeding.
+   - Protect joints and function.
+   - Enable home-based prophylaxis when possible.

@@ -1,0 +1,52 @@
+TYPE 2 DIABETES MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial Management Goals
+   - Normalize blood glucose (HbA1c target ~7–8%).
+   - Reduce cardiovascular risk (BP, lipids, kidney health).
+   - Educate on glucose monitoring (SMBG optional in non‑insulin users).
+
+2. Lifestyle Interventions (foundation)
+   2.1 Exercise
+       - Regular aerobic + resistance training.
+       - Improves glucose, fat, and lipid profile.
+   2.2 Diet
+       - Calorie restriction for weight loss.
+       - Consider DASH, Mediterranean, low‑fat, or low‑carb diets.
+       - High fiber; lower saturated fats.
+       - Tree nuts → reduced fasting glucose.
+       - Cultural/education-based programs improve control up to 24 months.
+   2.3 Stress Management
+       - Mindfulness may help; evidence under review.
+
+3. Medication Algorithm
+   3.1 First-Line
+       - Metformin (unless severe renal/hepatic disease).
+       - In patients with ASCVD, HF, CKD → start GLP‑1 RA or SGLT2 inhibitor first‑line.
+   3.2 Additional Drug Classes
+       - Sulfonylureas, TZDs, DPP‑4 inhibitors, SGLT2 inhibitors, GLP‑1 agonists.
+   3.3 Insulin
+       - Add long‑acting insulin if oral agents insufficient.
+       - Start nightly; titrate; consider BID if needed.
+
+4. Blood Pressure Management
+   - General target: <140/90 mmHg.
+   - Intensive lowering (<130 mmHg) not clearly beneficial; risk of harm.
+   - ACEi or ARB preferred if CKD or albuminuria.
+
+5. Lipid & Antiplatelet Management
+   - Statins for cardiovascular risk reduction.
+   - Aspirin only for secondary prevention or selected high‑risk individuals.
+
+6. Monitoring & Preventive Care
+   - Regular eye exams.
+   - Treat gum disease → improves glycemic control.
+   - Share health records → better patient engagement.
+
+7. Bariatric Surgery
+   - Consider for obese patients failing medical therapy.
+   - High remission rates but carries small surgical risk.
+
+8. Long‑Term Goals
+   - Maintain glycemic control.
+   - Prevent micro/macrovascular complications.
+   - Improve longevity & quality of life.

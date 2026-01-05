@@ -1,0 +1,213 @@
+--- Asthma Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/pulmonary-disorders/asthma-and-related-disorders/asthma?query=asthma#Treatment_v913897
+
+=== Treatment of Asthma ===
+
+  - Control of triggers
+
+  - Drug therapy
+
+  - Monitoring
+
+  - Patient education
+
+  - Treatment of acute exacerbations
+
+Treatment objectives are to minimize impairment and risk, including preventing exacerbations and minimizing chronic symptoms, including nocturnal awakenings; to minimize the need for emergency department visits or hospitalizations; to maintain baseline (normal) pulmonary function and activity levels; and to avoid adverse treatment effects.
+
+
+--- Control of triggering factors ---
+
+
+Triggering factors in some patients may be controlled with use of synthetic fiber pillows and impermeable mattress covers and frequent washing of bed sheets, pillowcases, and blankets in hot water. Ideally, upholstered furniture, soft toys, carpets, curtains, and pets should be removed, at least from the bedroom, to reduce dust mites and animal dander. Dehumidifiers should be used in basements and in other poorly aerated, damp rooms to reduce mold. Steam treatment of homes diminishes dust mite allergens. House cleaning and extermination to eliminate cockroach exposure are especially important. Although control of triggering factors is more difficult in urban environments, the importance of these measures is not diminished.
+
+High-efficiency particulate air (HEPA) vacuums and filters may relieve symptoms, but no beneficial effects on pulmonary function and on the need for drugs have been observed.
+
+Sulfite-sensitive patients should avoid sulfite-containing food (eg, certain wine and salad dressings).
+
+Nonallergenic triggers, such as cigarette smoke, strong odors, irritant fumes, cold temperatures, and high humidity should also be avoided or controlled when possible. Limiting exposure to people with viral upper respiratory infections is also important. However, exercise-induced asthma is not treated with exercise avoidance because exercise is important for health reasons. Instead, a short-acting bronchodilator is given prophylactically before exercise and as needed during or after exercise (rescue inhaler); controller therapy (step 2 and above in Table Steps of Asthma Management ) should be started if exercise-induced symptoms are not responsive to rescue inhalers or occur daily or more frequently.
+
+Patients with aspirin -sensitive asthma can use acetaminophen , choline magnesium salicylate , or highly selective NSAIDs like celecoxib when they need a pain reliever. -sensitive asthma can use acetaminophen, choline magnesium salicylate, or highly selective NSAIDs like celecoxib when they need a pain reliever.
+
+Asthma is a relative contraindication to the use of nonselective beta-blockers (eg, propranolol , timolol , carvedilol , nadolol , sotalol ), including topical formulations, but cardioselective drugs (eg, metoprolol , atenolol ) probably have no adverse effects. Asthma is a relative contraindication to the use of nonselective beta-blockers (eg, propranolol, timolol, carvedilol, nadolol, sotalol), including topical formulations, but cardioselective drugs (eg, metoprolol, atenolol) probably have no adverse effects.
+
+
+--- Drug therapy ---
+
+
+Major drug classes commonly used in the treatment of asthma and asthma exacerbations include
+
+  - Bronchodilators ( beta or beta-2 adrenergic receptor agonists , anticholinergics )
+
+  - Corticosteroids
+
+  - Leukotriene modifiers
+
+  - Mast cell stabilizers
+
+  - Methylxanthines
+
+  - Immunomodulators
+
+Bronchodilators ( beta or beta-2 adrenergic receptor agonists , anticholinergics )
+
+Drugs in these classes (see table Drug Treatment of Chronic Asthma ) are inhaled, taken orally, or injected subcutaneously or intravenously; inhaled drugs come in aerosolized and powdered forms. Use of aerosolized forms with a spacer or holding chamber facilitates deposition of the drug in the airways rather than the pharynx; patients are advised to wash and dry their spacers after each use to prevent bacterial contamination. In addition, use of aerosolized forms requires coordination between actuation of the inhaler (drug delivery) and inhalation; powdered forms reduce the need for coordination, because drug is delivered only when the patient inhales. For details, see Drug Treatment of Asthma .
+
+
+--- Bronchial thermoplasty ---
+
+
+Bronchial thermoplasty is a bronchoscopic technique in which heat is applied through a device that transfers localized controlled radiofrequency waves to the airways. The heat decreases the amount of airway smooth muscle remodeling (and thus the smooth muscle mass) that occurs with asthma. In clinical trials in patients with severe asthma not controlled with multiple therapies, there have been modest decreases in exacerbation frequency and improvement in asthma symptom control. However, some patients have experienced an immediate worsening of symptoms, sometimes requiring hospitalization immediately after the procedure. Expert recommendations are to avoid bronchial thermoplasty unless a patient places a low value on the potential for adverse outcomes and a high value on short-term potential benefits. If possible, bronchial thermoplasty should be done in centers where it is done routinely( 1 ).
+
+Criteria for consideration of bronchial thermoplasty include severe asthma not controlled with inhaled corticosteroids and long-acting beta agonists, intermittent or continuous use of oral corticosteroids, FEV1 ≥ 50% of predicted, and no history of life-threatening exacerbations. Patients should understand the risk of post-procedure asthma exacerbation and need for hospitalization before proceeding with the procedure. The long-term efficacy and safety of bronchial thermoplasty is not known. There are no data in patients with > 3 exacerbations per year or an FEV1 < 50% of predicted because these patients were excluded from the clinical trials.
+
+
+--- Monitoring response to treatment ---
+
+
+Guidelines recommend office use of spirometry (FEV1, FEV1/FVC, FVC) to measure airflow limitation and assess impairment and risk. Spirometry should be repeated at least every 1 to 2 years in patients with asthma to monitor disease progression, and a step-up in therapy might be required if lung function declines or becomes impaired with evidence of increased airflow obstruction (see table Classification of Asthma Control ). Outside the office, home peak expiratory flow (PEF) monitoring, in conjunction with patient symptom diaries and the use of an asthma action plan, is especially useful for charting disease progression and response to treatment in patients with moderate to severe persistent asthma. When asthma is quiescent, one PEF measurement in the morning suffices. Should PEF measurements fall to < 80% of the patient’s personal best, then twice/day monitoring to assess circadian variation is useful. Circadian variation of > 20% indicates airway instability and the need to re-evaluate the therapeutic regimen.
+
+
+--- Patient education ---
+
+
+The importance of patient education cannot be overemphasized. Patients do better when they know more about asthma—what triggers an exacerbation, what drug to use when, proper inhaler technique, how to use a spacer with a metered-dose inhaler (MDI), and the importance of early use of corticosteroids in exacerbations. Every patient should have a written action plan for day-to-day management, especially for management of acute exacerbations, that is based on the patient’s best personal peak flow rather than on a predicted normal value. Such a plan leads to much better asthma control, largely attributable to improved adherence to therapies.
+
+
+--- Treatment of acute asthma exacerbation ---
+
+
+The goal of asthma exacerbation treatment is to relieve symptoms and return patients to their best lung function. Treatment includes
+
+  - Inhaled bronchodilators (beta agonists and anticholinergics)
+
+  - Usually systemic corticosteroids
+
+Inhaled bronchodilators (beta agonists and anticholinergics)
+
+Details of the treatment of acute asthma exacerbations , including of severe attacks requiring hospitalization , are discussed elsewhere.
+
+
+--- Treatment of chronic asthma ---
+
+
+Current asthma guidelines recommend treatment based on the severity classification. Continuing therapy is based on assessment of control (see table Classification of Asthma Control ). Therapy is increased in a stepwise fashion (see table Steps of Asthma Management ) until the best control of impairment and risk is achieved (step-up). Before therapy is stepped up, adherence, exposure to environmental factors (eg, trigger exposure), and presence of comorbid conditions (eg, obesity , allergic rhinitis , gastroesophageal reflux disease , chronic obstructive pulmonary disease , obstructive sleep apnea , vocal cord dysfunction , inhaled cocaine use) are reviewed. These factors should be addressed before increasing drug therapy. Once asthma has been well controlled for at least 3 months, drug therapy is reduced if possible to the minimum that maintains good control (step-down). For specific drugs and doses, see table , inhaled cocaine use) are reviewed. These factors should be addressed before increasing drug therapy. Once asthma has been well controlled for at least 3 months, drug therapy is reduced if possible to the minimum that maintains good control (step-down). For specific drugs and doses, see table Drug Treatment of Chronic Asthma .
+
+
+--- Steps of Asthma Management* ---
+
+
+1 (starting point for intermittent asthma)
+
+Low-dose inhaled glucocorticoid plus formoterol as needed† Low-dose inhaled glucocorticoid plus formoterol as needed†
+
+Short-acting beta-2 agonist as needed along with low-dose inhaled glucocorticoid†
+
+2 (starting point for mild persistent asthma)
+
+Daily low-dose inhaled corticosteroid and as-needed short-acting beta-2 agonist
+
+For ages 12 years and older, as-needed use of concomitant inhaled corticosteroid and short-acting beta-2 agonist
+
+Mast cell stabilizer, leukotriene receptor antagonist, theophylline , or zileuton (for ages 12 and older), either with as-needed (rescue) short-acting beta-2 agonist therapy Mast cell stabilizer, leukotriene receptor antagonist, theophylline, or zileuton (for ages 12 and older), either with as-needed (rescue) short-acting beta-2 agonist therapy
+
+3 (starting point for moderate persistent asthma)
+
+Daily and as-needed combination therapy with low-dose inhaled corticosteroid plus formoterol ‡ Daily and as-needed combination therapy with low-dose inhaled corticosteroid plus formoterol‡
+
+Daily medium-dose inhaled corticosteroid and as-needed (rescue) short-acting beta-2 agonist
+
+Daily low-dose inhaled corticosteroid plus one of the following:
+
+  - Long-acting beta-2 agonist
+
+  - Leukotriene receptor antagonist
+
+  - Theophylline 
+
+Each with as-needed (rescue) short-acting beta-2 agonist therapy
+
+For ages 12 years and older, daily low-dose inhaled corticosteroid plus a long-acting muscarinic antagonist or zileuton , either with as-needed (rescue) short-acting beta-2 agonist therapy For ages 12 years and older, daily low-dose inhaled corticosteroid plus a long-acting muscarinic antagonist or zileuton, either with as-needed (rescue) short-acting beta-2 agonist therapy
+
+Daily and as-needed combination therapy with medium-dose inhaled corticosteroid- formoterol ‡ Daily and as-needed combination therapy with medium-dose inhaled corticosteroid- formoterol‡
+
+Daily medium-dose inhaled corticosteroid plus long-acting beta-2 agonist with as-needed (rescue) short-acting beta-2 agonist therapy
+
+For ages 12 years and older, daily medium-dose inhaled corticosteroid plus long-acting muscarinic antagonist with as-needed (rescue) short-acting beta-2 agonist therapy
+
+Daily medium-dose inhaled corticosteroid plus one of the following:
+
+  - Leukotriene receptor antagonist
+
+  - Theophylline 
+
+  - Zileuton (ages 12 and older) 
+
+Zileuton (ages 12 and older) Zileuton (ages 12 and older)
+
+Each with as-needed (rescue) short-acting beta-2 agonist therapy
+
+5 (starting point for severe persistent asthma)
+
+For ages 5–11 years, daily high-dose inhaled corticosteroid–long-acting beta-2 agonist combination therapy with as-needed short-acting beta-2 agonist therapy
+
+For ages 12 and older, daily medium-high dose inhaled corticosteroid–long-acting beta-2 agonist combination with long-acting muscarinic antagonist and as-needed short-acting beta-2 agonist therapy
+
+Consider adding asthma biologics (includes anti-IgE, anti-IL5, anti-IL5R, anti-IL4/IL13)
+
+For ages 5–11 years, daily high-dose inhaled corticosteroid plus leukotriene receptor antagonist or daily high-dose inhaled corticosteroid plus theophylline , either with as-needed (rescue) short-acting beta-2 agonist therapy For ages 5–11 years, daily high-dose inhaled corticosteroid plus leukotriene receptor antagonist or daily high-dose inhaled corticosteroid plus theophylline, either with as-needed (rescue) short-acting beta-2 agonist therapy
+
+For ages 12 and older, daily medium- to high-dose inhaled corticosteroid plus long-acting beta-2 agonist or daily high-dose inhaled corticosteroid plus leukotriene receptor antagonist, either with as-needed (rescue) short-acting beta-2 agonist therapy
+
+Consider adding asthma biologics (includes anti-IgE, anti-IL5, anti-IL5R, anti-IL-4/IL13)
+
+Daily high-dose inhaled corticosteroid plus long-acting beta-2 agonist plus oral corticosteroid with as-needed short-acting beta-2 agonist therapy
+
+Consider adding asthma biologics (includes anti-IgE, anti-IL5, anti-IL5R, anti-IL4/IL13)
+
+For ages 5–11 years, daily high-dose inhaled corticosteroid plus leukotriene receptor antagonist and oral systemic corticosteroid or daily high-dose inhaled corticosteroid plus theophylline plus oral corticosteroid, either with as-needed (rescue) short-acting beta-2 agonist therapy For ages 5–11 years, daily high-dose inhaled corticosteroid plus leukotriene receptor antagonist and oral systemic corticosteroid or daily high-dose inhaled corticosteroid plus theophylline plus oral corticosteroid, either with as-needed (rescue) short-acting beta-2 agonist therapy
+
+Consider adding asthma biologics (includes anti-IgE, anti-IL5, anti-IL5R, anti-IL4/IL13)
+
+* Before stepping up, adherence, environmental factors (eg, trigger exposure), and comorbid conditions should be reviewed and managed if needed.
+
+† A short-acting beta-2 agonist is indicated to provide quick relief at all steps and to prevent exercise-induced asthma. See also Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2025. Updated May 2025. Available from: www.ginasthma.org
+
+‡ The updated NAEPP Asthma Management Guidelines' preferred rescue option for steps 3 and 4 include the use of 1 to 2 puffs of as-needed formoterol in combination with an inhaled corticosteroid, not to exceed a daily maximum dose of 8 puffs of formoterol (36 mcg) over a 24-hour period for ages 5–11 years, and 12 puffs of formoterol (54 mcg) over a 24-hour period for patients ‡ The updated NAEPP Asthma Management Guidelines' preferred rescue option for steps 3 and 4 include the use of 1 to 2 puffs of as-needed formoterol in combination with an inhaled corticosteroid, not to exceed a daily maximum dose of 8 puffs of formoterol (36 mcg) over a 24-hour period for ages 5–11 years, and 12 puffs of formoterol (54 mcg) over a 24-hour period for patients ≥ 12 years.
+
+Adapted from the Expert Panel Working Group of the National Heart, Lung, and Blood Institute (NHLBI) administered and coordinated National Asthma Education and Prevention Program Coordinating Committee (NAEPPCC), Cloutier MM, Baptist AP, et al : 2020 Focused Updates to the Asthma Management Guidelines: A Report from the National Asthma Education and Prevention Program Coordinating Committee Expert Panel Working Group. J Allergy Clin Immunol 146(6):1217–1270, 2020. doi: 10.1016/j.jaci.2020.10.003
+
+* Before stepping up, adherence, environmental factors (eg, trigger exposure), and comorbid conditions should be reviewed and managed if needed.
+
+† A short-acting beta-2 agonist is indicated to provide quick relief at all steps and to prevent exercise-induced asthma. See also Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2025. Updated May 2025. Available from: www.ginasthma.org
+
+‡ The updated NAEPP Asthma Management Guidelines' preferred rescue option for steps 3 and 4 include the use of 1 to 2 puffs of as-needed formoterol in combination with an inhaled corticosteroid, not to exceed a daily maximum dose of 8 puffs of formoterol (36 mcg) over a 24-hour period for ages 5–11 years, and 12 puffs of formoterol (54 mcg) over a 24-hour period for patients ‡ The updated NAEPP Asthma Management Guidelines' preferred rescue option for steps 3 and 4 include the use of 1 to 2 puffs of as-needed formoterol in combination with an inhaled corticosteroid, not to exceed a daily maximum dose of 8 puffs of formoterol (36 mcg) over a 24-hour period for ages 5–11 years, and 12 puffs of formoterol (54 mcg) over a 24-hour period for patients ≥ 12 years.
+
+Adapted from the Expert Panel Working Group of the National Heart, Lung, and Blood Institute (NHLBI) administered and coordinated National Asthma Education and Prevention Program Coordinating Committee (NAEPPCC), Cloutier MM, Baptist AP, et al : 2020 Focused Updates to the Asthma Management Guidelines: A Report from the National Asthma Education and Prevention Program Coordinating Committee Expert Panel Working Group. J Allergy Clin Immunol 146(6):1217–1270, 2020. doi: 10.1016/j.jaci.2020.10.003
+
+
+--- Exercise-induced asthma ---
+
+
+Exercise-induced asthma can generally be prevented by prophylactic inhalation of a short-acting beta-2 agonist or mast cell stabilizer before starting the exercise. If beta-2 agonists are not effective or if exercise-induced asthma causes symptoms daily or more frequently, the patient requires controller therapy.
+
+
+--- Aspirin-sensitive asthma ---
+
+
+The primary treatment for aspirin -sensitive asthma is avoidance of aspirin and other NSAIDs. Celecoxib does not appear to be a trigger. Leukotriene modifiers can blunt the response to NSAIDs. Alternatively, desensitization can be done in either the inpatient or outpatient clinic setting depending on the severity of -sensitive asthma is avoidance of aspirin and other NSAIDs. Celecoxib does not appear to be a trigger. Leukotriene modifiers can blunt the response to NSAIDs. Alternatively, desensitization can be done in either the inpatient or outpatient clinic setting depending on the severity of aspirin sensitivity and asthma severity; desensitization has been successful in the majority of patients who are able to continue desensitization treatment for more than one year.
+
+
+--- Investigational therapies ---
+
+
+Multiple therapies are being developed to target specific components of the inflammatory cascade. Therapies directed at interleukin 6 (IL-6), thymic stromal lymphopoietin, tumor necrosis factor-alpha, other chemokines, and cytokines or their receptors are all under investigation or consideration as therapeutic targets.
+
+
+--- Treatment reference ---
+
+
+  - 1. Expert Panel Working Group of the National Heart, Lung, and Blood Institute (NHLBI) administered and coordinated National Asthma Education and Prevention Program Coordinating Committee (NAEPPCC), Cloutier MM, Baptist AP, et al : 2020 Focused Updates to the Asthma Management Guidelines: A Report from the National Asthma Education and Prevention Program Coordinating Committee Expert Panel Working Group. J Allergy Clin Immunol 146(6):1217–1270, 2020. doi: 10.1016/j.jaci.2020.10.003
+
+1. Expert Panel Working Group of the National Heart, Lung, and Blood Institute (NHLBI) administered and coordinated National Asthma Education and Prevention Program Coordinating Committee (NAEPPCC), Cloutier MM, Baptist AP, et al : 2020 Focused Updates to the Asthma Management Guidelines: A Report from the National Asthma Education and Prevention Program Coordinating Committee Expert Panel Working Group. J Allergy Clin Immunol 146(6):1217–1270, 2020. doi: 10.1016/j.jaci.2020.10.003

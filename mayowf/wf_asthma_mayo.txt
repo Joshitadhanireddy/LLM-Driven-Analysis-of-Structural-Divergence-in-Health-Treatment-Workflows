@@ -1,0 +1,35 @@
+ASTHMA MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Core approach
+   - Prevent attacks, manage triggers, track symptoms.
+   - Use long-term controllers + quick-relief inhalers as needed.
+
+2. Long-term control medications (daily)
+   - Inhaled corticosteroids (ICS): fluticasone, budesonide, ciclesonide, beclomethasone, mometasone.
+   - Leukotriene modifiers: montelukast, zafirlukast, zileuton.
+     * Montelukast linked to neuropsychiatric effects; monitor mood.
+   - Combination ICS/LABA inhalers: Advair, Symbicort, Dulera, Breo.
+   - Theophylline: rarely used; requires blood‑level monitoring.
+
+3. Quick-relief (rescue) medications
+   - Short-acting beta agonists (SABA): albuterol, levalbuterol.
+   - Anticholinergics: ipratropium, tiotropium.
+   - Oral/IV steroids (prednisone, methylprednisolone) for severe attacks only.
+
+4. Allergy-driven asthma
+   - Allergy shots (immunotherapy).
+   - Biologics for severe asthma:
+       * Omalizumab, mepolizumab, dupilumab, reslizumab, benralizumab, tezepelumab.
+
+5. Bronchial thermoplasty (severe asthma only)
+   - Reduces airway smooth muscle.
+   - Performed over 3 outpatient sessions.
+
+6. Stepwise treatment
+   - Increase or decrease meds according to control level.
+   - If SABA use rises → adjust controller meds.
+
+7. Asthma action plan
+   - Written plan for daily meds, exacerbation steps, triggers.
+   - Peak flow monitoring for moderate–severe asthma.
+

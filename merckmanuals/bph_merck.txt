@@ -1,0 +1,71 @@
+--- BPH Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/genitourinary-disorders/benign-prostate-disease/benign-prostatic-hyperplasia?query=bph#Treatment_v1059286
+
+=== Treatment of BPH ===
+
+  - Identification and elimination of contributory medications (eg, anticholinergics, sympathomimetics, opioids)
+
+  - Trial of medications, including alpha-adrenergic blockers (eg, terazosin , doxazosin , tamsulosin , alfuzosin , silodosin ), 5 alpha-reductase inhibitors ( finasteride , dutasteride ), or the phosphodiesterase type 5 inhibitor tadalafil , especially if there is concomitant Trial of medications, including alpha-adrenergic blockers (eg, terazosin, doxazosin, tamsulosin, alfuzosin, silodosin), 5 alpha-reductase inhibitors (finasteride, dutasteride), or the phosphodiesterase type 5 inhibitor tadalafil, especially if there is concomitant erectile dysfunction ; combination therapy with medications such as 5 alpha-reductase inhibitors and alpha blockers, can also be used
+
+  - Procedural intervention, ranging from minimally invasive office-based procedures to surgical therapies
+
+  - Sometimes vibegron , a beta-3 agonist, for overactive bladder symptoms in patients receiving pharmacological therapy for BPH Sometimes vibegron, a beta-3 agonist, for overactive bladder symptoms in patients receiving pharmacological therapy for BPH
+
+Identification and elimination of contributory medications (eg, anticholinergics, sympathomimetics, opioids)
+
+Trial of medications, including alpha-adrenergic blockers (eg, terazosin , doxazosin , tamsulosin , alfuzosin , silodosin ), 5 alpha-reductase inhibitors ( finasteride , dutasteride ), or the phosphodiesterase type 5 inhibitor tadalafil , especially if there is concomitant Trial of medications, including alpha-adrenergic blockers (eg, terazosin, doxazosin, tamsulosin, alfuzosin, silodosin), 5 alpha-reductase inhibitors (finasteride, dutasteride), or the phosphodiesterase type 5 inhibitor tadalafil, especially if there is concomitant erectile dysfunction ; combination therapy with medications such as 5 alpha-reductase inhibitors and alpha blockers, can also be used
+
+Procedural intervention, ranging from minimally invasive office-based procedures to surgical therapies
+
+Sometimes vibegron , a beta-3 agonist, for overactive bladder symptoms in patients receiving pharmacological therapy for BPH Sometimes vibegron, a beta-3 agonist, for overactive bladder symptoms in patients receiving pharmacological therapy for BPH
+
+
+--- Urinary retention ---
+
+
+Significant urinary retention requires immediate decompression. Passage of a standard urinary catheter is first attempted; if a standard catheter cannot be passed, a catheter with a coudé tip may be effective. If this catheter cannot be passed, flexible cystoscopy is necessary. Insertion of filiforms and followers (guides and dilators that progressively open the urinary passage) is not commonly done but, if needed, should only be performed by a urologist or someone trained in their use. Suprapubic percutaneous decompression of the bladder may be used if transurethral approaches are unsuccessful.
+
+
+--- Pharmacotherapy ---
+
+
+For partial obstruction with troublesome symptoms, all anticholinergics and sympathomimetics (many available in over-the-counter [OTC] preparations), and opioids should be stopped, and any infection should be treated with antibiotics. Occasionally, some anticholinergic medications may be given under the guidance of a urologist.
+
+For patients with mild to moderate obstructive symptoms, alpha-adrenergic blockers (eg, terazosin , doxazosin , tamsulosin , alfuzosin ) may decrease voiding problems. The 5 alpha-reductase inhibitors ( finasteride , dutasteride ) may reduce prostate size, decreasing voiding problems over months, especially in patients with larger ( For patients with mild to moderate obstructive symptoms, alpha-adrenergic blockers (eg, terazosin, doxazosin, tamsulosin, alfuzosin) may decrease voiding problems. The 5 alpha-reductase inhibitors (finasteride, dutasteride) may reduce prostate size, decreasing voiding problems over months, especially in patients with larger ( > 30 mL) glands. A combination of both classes of medications is superior to monotherapy ( 1 ). For men with concomitant erectile dysfunction , daily tadalafil may help relieve both conditions. Many OTC complementary and alternative agents are promoted for treatment of BPH, but none, including the thoroughly studied , daily tadalafil may help relieve both conditions. Many OTC complementary and alternative agents are promoted for treatment of BPH, but none, including the thoroughly studied saw palmetto , has been shown to be more efficacious than placebo.
+
+For men with symptoms of overactive bladder (OAB) who are receiving pharmacological therapy for BPH, vibegron , a beta-3 agonist, may be helpful. For men with symptoms of overactive bladder (OAB) who are receiving pharmacological therapy for BPH, vibegron, a beta-3 agonist, may be helpful.
+
+
+--- Surgery ---
+
+
+Surgery is done when patients do not respond to pharmacotherapy or develop complications such as recurrent urinary tract infection , urinary calculi , severe bladder dysfunction, or upper tract dilation ( 1 ). Transurethral resection of the prostate (TURP) is the historical standard ( 2 , 3 ). Erectile function and continence are usually retained, although about 5 to 10% of patients experience some acute postsurgical problems, most commonly retrograde ejaculation. The incidence of erectile dysfunction after TURP is between 1 and 35%, and the incidence of incontinence is about 1 to 3%. However, technical advances such as the use of a bipolar resectoscope, which allows use of saline irrigation, have greatly improved the safety of TURP by averting hemolysis and hyponatremia. About 10% of men undergoing TURP need the procedure repeated within 10 years because the prostate continues to grow ( 1 ).
+
+Surgical alternatives to TURP include various laser ablation techniques and robotic approaches, including simple prostatectomy and water jet therapy. Larger prostates (usually > 75 grams) are typically managed with simple open or robotic-assisted prostatectomy, endoscopic enucleation (holmium laser enucleation of the prostate [HoLEP] or diode laser endoscopic enucleation of the prostate [DiLEP])., other laser ablation therapies, high-pressure water jet, or other alternative procedures . All surgical methods typically require postoperative catheter drainage for 1 to 7 days.
+
+
+--- Other procedures ---
+
+
+Alternatives to surgical approaches involving prostatectomy, often referred to as MIST (minimally invasive surgical technologies), include laser ablation therapies, microwave thermotherapy, high-intensity focused ultrasound, transurethral needle ablation, radiofrequency vaporization, pressurized water jet therapy, , heated steam injection therapy, urethral life, temporary implanted devices, intraurethral stents, and prostatic artery embolization (PAE).
+
+All of these therapies disrupt tissue or blood supply, and improvement is typically realized 30 or more days after the procedure as tissue is reabsorbed, creating a more open channel. These procedures generally yield more modest results than surgery that removes tissue. However, while they often lead to less robust improvements in flow rates and reduction in prostate size, they have fewer negative outcomes such as incontinence and retrograde ejaculation. For some men, one of these therapies may be preferred over medication. In patients with refractory hematuria, PAE may be the ideal first approach ( 4 ).
+
+The option to perform many of these procedures in a physician's office or ambulatory surgery center with local anesthesia or sedation makes them attractive options, particularly for patients who are poor candidates for anesthesia and/or surgery. Undergoing one of these procedures does not obviate ta more invasive procedure in the future should symptoms persist.
+
+  - 1. Sandhu JS, Bixler BR, Dahm P, et al . Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia (BPH): AUA Guideline Amendment 2023. J Urol 211(1):11-19, 2024. doi:10.1097/JU.0000000000003698
+
+  - 2. Lerner LB, McVary KT, Barry MJ, et al : Management of benign prostatic hyperplasia/lower urinary tract symptoms: AUA Guideline part I, initial work-up and medical management. J Urol 206:806, 2021.
+
+  - 3. Lerner LB, McVary KT, Barry MJ, et al : Management of lower urinary tract symptoms attributed to benign prostatic hyperplasia: AUA Guideline part II — Surgical evaluation and treatment. J Urol 206(4):818-826, 2021. doi: 10.1097/JU.0000000000002184
+
+  - 4. Dias US, Liberato de Moura MR, Viana PCC, et al : Prostatic artery embolization: Indications, preparation, techniques, imaging evaluation, reporting, and complications. RadioGraphics Published online: August 20, 2021. https://doi.org/10.1148/rg.2021200144
+
+1. Sandhu JS, Bixler BR, Dahm P, et al . Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia (BPH): AUA Guideline Amendment 2023. J Urol 211(1):11-19, 2024. doi:10.1097/JU.0000000000003698
+
+2. Lerner LB, McVary KT, Barry MJ, et al : Management of benign prostatic hyperplasia/lower urinary tract symptoms: AUA Guideline part I, initial work-up and medical management. J Urol 206:806, 2021.
+
+3. Lerner LB, McVary KT, Barry MJ, et al : Management of lower urinary tract symptoms attributed to benign prostatic hyperplasia: AUA Guideline part II — Surgical evaluation and treatment. J Urol 206(4):818-826, 2021. doi: 10.1097/JU.0000000000002184
+
+4. Dias US, Liberato de Moura MR, Viana PCC, et al : Prostatic artery embolization: Indications, preparation, techniques, imaging evaluation, reporting, and complications. RadioGraphics Published online: August 20, 2021. https://doi.org/10.1148/rg.2021200144

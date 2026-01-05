@@ -1,0 +1,34 @@
+HEMOPHILIA TREATMENT WORKFLOW (from WebMD-based plan)
+
+1. Determine severity & type
+   - Factor VIII (Hemophilia A) or Factor IX (Hemophilia B).
+   - Mild: treat only for injury/procedures.
+   - Severe: frequent bleeds → regular prophylaxis.  fileciteturn11file0
+
+2. Clotting factor replacement
+   - IV infusion to stop or prevent bleeding.
+   - Types:
+     * Plasma-derived factor.
+     * Synthetic recombinant factor (safer, virus-free).  fileciteturn11file0
+   - Long-acting products (Adynovate, Idelvion) reduce infusion frequency.
+
+3. Targeted therapies
+   - Emicizumab (Hemlibra): preventive for Hemophilia A (weekly SC injection).  fileciteturn11file0
+   - Obizur: porcine factor VIII for acquired hemophilia A.  fileciteturn11file0
+
+4. Adjunct medications
+   - DDAVP (desmopressin): boosts factor VIII in mild hemophilia A.
+   - Antifibrinolytics (tranexamic acid, aminocaproic acid).  fileciteturn11file0
+
+5. Joint bleed management
+   - Immediate factor replacement.
+   - Rest + ice.
+   - Physical therapy after swelling reduces.  fileciteturn11file0
+
+6. Activity monitoring
+   - Avoid high-injury risk activities.
+   - Individualized based on hemophilia severity.  fileciteturn11file0
+
+7. Complication prevention
+   - Screen for inhibitor development.
+   - Vaccination for hepatitis A/B (low past infection risk improved today).  fileciteturn11file0

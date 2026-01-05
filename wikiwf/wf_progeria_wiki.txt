@@ -1,0 +1,34 @@
+PROGERIA (HGPS) TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Core Disease‑Modifying Therapy
+   - Lonafarnib (FDA‑approved FTI, 2020)
+     * Twice‑daily oral capsules.
+     * Reduces progerin accumulation.
+     * Significant mortality reduction (3.7% vs. 33.3%).
+     * Side effects: nausea, diarrhea, infections, fatigue.
+     * Major cost & access limitations.
+
+2. Management of Complications
+   2.1 Cardiovascular Disease
+       - Low‑dose aspirin.
+       - Coronary artery bypass or other cardiac surgery when indicated.
+   2.2 Growth Hormone
+       - Has been attempted; mixed evidence.
+
+3. Experimental & Adjunct Approaches
+   - Morpholinos targeting abnormal LMNA splicing (preclinical).
+   - Other FTIs (animal models).
+   - Rapamycin (mTOR inhibitor):
+     * Removes progerin aggregates via autophagy.
+     * Observed only in vitro.
+   - Pravastatin + zoledronate (reported benefit; evidence limited).
+   - CRM1 inhibition (selinexor under validation).
+
+4. Supportive Care
+   - Multidisciplinary cardiac monitoring.
+   - Nutrition, physical therapy, psychosocial support.
+
+5. Goals
+   - Slow disease progression.
+   - Reduce cardiovascular events.
+   - Improve lifespan & quality of life.

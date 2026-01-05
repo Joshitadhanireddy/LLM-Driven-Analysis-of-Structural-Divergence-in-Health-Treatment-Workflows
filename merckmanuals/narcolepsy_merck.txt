@@ -1,0 +1,47 @@
+--- Narcolepsy Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/neurologic-disorders/sleep-and-wakefulness-disorders/narcolepsy?query=narcolepsy#Treatment_v1039525
+
+=== Treatment of Narcolepsy ===
+
+  - Modafinil or armodafinil 
+
+  - Oxybates
+
+  - Solriamfetol 
+
+  - Pitolisant 
+
+Modafinil or armodafinil Modafinil or armodafinil
+
+Narcolepsy may not require treatment if patients have occasional episodes of sleep paralysis or hypnagogic and hypnopompic hallucinations, infrequent and partial cataplexy, and mild EDS. For others, wake-promoting drugs and anticataplectic drugs are used. Patients should also get enough sleep at night and take brief naps ( < 30 minutes) at the same time every day (typically afternoon). Patients with cataplexy should avoid precipitating factors (eg, laughter, anger, fear)( 1 ).
+
+For type 1 narcolepsy, oxybates or pitolisant should be used for cataplexy, and if EDS persists, modafinil should be added. oxybates or pitolisant should be used for cataplexy, and if EDS persists, modafinil should be added.
+
+For type 2 narcolepsy, modafinil should be first-line treatment, with solriamfetol as second-line for EDS. Pitolisant can also be used to treat EDS. modafinil should be first-line treatment, with solriamfetol as second-line for EDS. Pitolisant can also be used to treat EDS.
+
+Modafinil , a long-acting wake-promoting drug, can help patients with EDS. The mechanism of action is unclear. Typically, modafinil is given in the morning. Dose is increased as needed. If effects do not last into the evening, a small second dose at noon or 1 , a long-acting wake-promoting drug, can help patients with EDS. The mechanism of action is unclear. Typically, modafinil is given in the morning. Dose is increased as needed. If effects do not last into the evening, a small second dose at noon or 1 pm may be used, although this dose sometimes interferes with nocturnal sleep.
+
+Adverse effects of modafinil include nausea and headache, which are mitigated by lower initial doses and slower titration. Modafinil can lower the effectiveness of oral contraceptives and has abuse potential, although it is low. Rarely, serious rashes and Adverse effects of modafinil include nausea and headache, which are mitigated by lower initial doses and slower titration. Modafinil can lower the effectiveness of oral contraceptives and has abuse potential, although it is low. Rarely, serious rashes and Stevens-Johnson syndrome have developed in patients taking modafinil . If serious reactions develop, the medication should be stopped. Modafinil should not be used during pregnancy because it may cause severe fetal congenital anomalies, including cardiac anomalies. have developed in patients taking modafinil. If serious reactions develop, the medication should be stopped. Modafinil should not be used during pregnancy because it may cause severe fetal congenital anomalies, including cardiac anomalies.
+
+Armodafinil , the R -enantiomer of modafinil , has similar benefits and adverse effects but is longer-acting; it is taken once in the morning. -enantiomer of modafinil, has similar benefits and adverse effects but is longer-acting; it is taken once in the morning.
+
+Solriamfetol is a norepinephrine - dopamine reuptake inhibitor. It is indicated to treat EDS (but not cataplexy) in patients with narcolepsy or is a norepinephrine-dopamine reuptake inhibitor. It is indicated to treat EDS (but not cataplexy) in patients with narcolepsy or obstructive sleep apnea (OSA). Dose adjustment is required for patients with renal impairment, and solriamfetol should not be used in patients with end-stage kidney disease. In clinical trials, solriamfetol was well-tolerated and significantly relieved symptoms of excessive sleepiness (documented by the Epworth Sleepiness Scale and maintenance of wakefulness testing) in adults with narcolepsy and in those with OSA and EDS. The most common adverse effects are insomnia, headache, nausea, decreased appetite, and diarrhea. There are no interactions with oral contraceptives. (OSA). Dose adjustment is required for patients with renal impairment, and solriamfetol should not be used in patients with end-stage kidney disease. In clinical trials, solriamfetol was well-tolerated and significantly relieved symptoms of excessive sleepiness (documented by the Epworth Sleepiness Scale and maintenance of wakefulness testing) in adults with narcolepsy and in those with OSA and EDS. The most common adverse effects are insomnia, headache, nausea, decreased appetite, and diarrhea. There are no interactions with oral contraceptives.
+
+Pitolisant is a histamine-3 receptor inverse agonist, which is indicated for treatment of EDS and cataplexy in patients with narcolepsy. Pitolisant is started once a day (taken on awakening). The dose may be increased. Dose adjustment is required for patients with renal or hepatic impairment, and pitolisant should not be used in patients with end-stage kidney disease. Adverse effects include headache, irritability, anxiety, and nausea. It interacts with oral contraceptives, making them less effective. It can prolong the QT interval, which should be monitored. is a histamine-3 receptor inverse agonist, which is indicated for treatment of EDS and cataplexy in patients with narcolepsy. Pitolisant is started once a day (taken on awakening). The dose may be increased. Dose adjustment is required for patients with renal or hepatic impairment, and pitolisant should not be used in patients with end-stage kidney disease. Adverse effects include headache, irritability, anxiety, and nausea. It interacts with oral contraceptives, making them less effective. It can prolong the QT interval, which should be monitored.
+
+Oxybate , available in 3 formulations (a high-sodium formulation dosed twice a night, a high-sodium formulation dosed once a night, and a low-sodium formulation dosed twice a night), can also be used to treat EDS and cataplexy. It is taken at bedtime while in bed, followed by the same dose 2.5 to 4 hours later (if a twice-a-night formulation is being used). Adverse effects include headache, nausea, dizziness, nasopharyngitis, somnolence, vomiting, urinary incontinence, and sometimes sleepwalking. Oxybates are schedule III drugs and have the potential for abuse and dependence. They are contraindicated in patients with succinic semialdehyde dehydrogenase deficiency. Oxybates should be used cautiously in patients with untreated respiratory disorders, hypertension, or heart failure.
+
+Tricyclic antidepressants (particularly clomipramine , imipramine , and protriptyline ) and (particularly clomipramine, imipramine, and protriptyline) and SSRIs (eg, venlafaxine , fluoxetine ) have been used in the past to treat cataplexy, sleep paralysis, and hypnagogic and hypnopompic hallucinations; however, data about the effectiveness of these medications are limited. They should be used only if pitolisant and oxybates are ineffective. (eg, venlafaxine, fluoxetine) have been used in the past to treat cataplexy, sleep paralysis, and hypnagogic and hypnopompic hallucinations; however, data about the effectiveness of these medications are limited. They should be used only if pitolisant and oxybates are ineffective.
+
+Methylphenidate or amphetamine derivatives amphetamine derivatives (including methamphetamine and dextroamphetamine ) can be used if patients do not respond to or cannot tolerate wake-promoting drugs. However, all stimulants should be considered third or fourth line after modafinil , armodafinil , solriamfetol , and pitolisant . If stimulants are prescribed for patients > 40 years, an exercise stress test should be performed to determine whether patients have underlying cardiovascular disease. (including methamphetamine and dextroamphetamine) can be used if patients do not respond to or cannot tolerate wake-promoting drugs. However, all stimulants should be considered third or fourth line after modafinil, armodafinil, solriamfetol, and pitolisant. If stimulants are prescribed for patients > 40 years, an exercise stress test should be performed to determine whether patients have underlying cardiovascular disease.
+
+Methylphenidate and amphetamine derivatives are available in long-acting preparations and therefore can be dosed once a day in many patients. However, these stimulants have significant adverse effects, including agitation, hypertension, tachycardia, myocardial infarction (secondary to vasoconstriction), changes in appetite, and mood changes (eg, manic reactions). Abuse potential is high. Methylphenidate and amphetamine derivatives are available in long-acting preparations and therefore can be dosed once a day in many patients. However, these stimulants have significant adverse effects, including agitation, hypertension, tachycardia, myocardial infarction (secondary to vasoconstriction), changes in appetite, and mood changes (eg, manic reactions). Abuse potential is high.
+
+
+--- Treatment reference ---
+
+
+  - 1. Maski K, Trotti LM, Kotagal S, et al : Treatment of central disorders of hypersomnolence: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med 17(9):1881-1893, 2021. doi: 10.5664/jcsm.9328
+
+1. Maski K, Trotti LM, Kotagal S, et al : Treatment of central disorders of hypersomnolence: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med 17(9):1881-1893, 2021. doi: 10.5664/jcsm.9328

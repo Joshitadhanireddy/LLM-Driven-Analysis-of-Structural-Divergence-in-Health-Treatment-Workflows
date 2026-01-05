@@ -1,0 +1,181 @@
+--- Chronic Kidney Disease Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/genitourinary-disorders/chronic-kidney-disease/chronic-kidney-disease?query=chronic%20kidney%20disease#Treatment_v1054267
+
+=== Treatment of Chronic Kidney Disease ===
+
+  - Control of underlying disorders
+
+  - Possible restriction of dietary protein, phosphate, and potassium
+
+  - Vitamin D supplements 
+
+  - Treatment of anemia
+
+  - Treatment of contributing comorbidities (eg, heart failure, diabetes mellitus, nephrolithiasis, prostatic hypertrophy)
+
+  - Doses of all medications adjusted as needed
+
+  - Treatment of metabolic acidosis to a serum bicarbonate goal of >18 mmol/L (>18 mEq/L)
+
+  - Dialysis for severely decreased glomerular filtration rate (GFR) if symptoms and signs not adequately managed by medical interventions
+
+Possible restriction of dietary protein, phosphate, and potassium
+
+Vitamin D supplements Vitamin D supplements
+
+Treatment of contributing comorbidities (eg, heart failure, diabetes mellitus, nephrolithiasis, prostatic hypertrophy)
+
+Doses of all medications adjusted as needed
+
+Treatment of metabolic acidosis to a serum bicarbonate goal of >18 mmol/L (>18 mEq/L)
+
+Dialysis for severely decreased glomerular filtration rate (GFR) if symptoms and signs not adequately managed by medical interventions
+
+Underlying disorders and contributory factors must be controlled. In particular, controlling hyperglycemia in patients with diabetic nephropathy and controlling hypertension in all patients substantially slows deterioration of GFR.
+
+For hypertension , the recommended standardized systolic blood pressure goal (office-based measurement) is < 120 mmHg, when tolerated. However, less intensive goals are set for people with frailty, high risk of falls and fractures, limited life expectancy, or symptomatic postural hypotension ( 1 ). Angiotensin-converting enzyme (ACE) inhibitors and angiotensin II receptor blockers (ARBs) decrease the rate of decline in GFR in patients with most causes of chronic kidney disease (CKD), particularly those with proteinuria. Increasing evidence suggests that, compared with either medication alone, combined use of ACE inhibitors and ARBs increases incidence of complications and does not slow decline in renal function, even though combined use does reduce ). Angiotensin-converting enzyme (ACE) inhibitors and angiotensin II receptor blockers (ARBs) decrease the rate of decline in GFR in patients with most causes of chronic kidney disease (CKD), particularly those with proteinuria. Increasing evidence suggests that, compared with either medication alone, combined use of ACE inhibitors and ARBs increases incidence of complications and does not slow decline in renal function, even though combined use does reduce proteinuria more ( 2 ). Sodium-glucose cotransporter-2 (SGLT2) inhibitors delay progression of proteinuric CKD in patients with or without diabetes, although these medications are contraindicated in patients with type 1 diabetes mellitus ( 3 ). Patients with type 2 diabetes mellitus and CKD with albuminuria despite ACE/ARB and SGLT2 may benefit from adding a nonsteroidal mineralocorticoid receptor antagonist (NSMRA) (eg, finerenone ) as long as eGFR> 25 and there is no hyperkalemia ( ). Patients with type 2 diabetes mellitus and CKD with albuminuria despite ACE/ARB and SGLT2 may benefit from adding a nonsteroidal mineralocorticoid receptor antagonist (NSMRA) (eg, finerenone) as long as eGFR> 25 and there is no hyperkalemia ( 1 ).
+
+Activity need not be restricted, although fatigue and lassitude usually limit a patient’s capacity for exercise.
+
+Pruritus may respond to dietary phosphate restriction and phosphate binders if serum phosphate is elevated.
+
+
+--- Nutrition ---
+
+
+Moderate protein restriction (0.8 g/kg/day) among patients with estimated GFR (eGFR) < 60 mL/min/1.73 m 2 without nephrotic syndrome is recommended in patients without frailty, sarcopenia, or metabolic derangements. Severe (0.3 to 0.4 g/kg/day) protein restriction could be considered for motivated patients under the close supervision of a dietitian, to assure intake of adequate essential amino acids. Many uremic symptoms markedly lessen when protein catabolism and urea generation are reduced. Also, the rate of progression of CKD may slow down. Sufficient carbohydrate and fat are given to meet energy requirements and prevent ketosis. Patients for whom < 0.8 g/kg/day of protein has been prescribed should be closely followed by a dietitian.
+
+Aim for a total dietary sodium intake of < 2 g/day, especially for patients with volume overload , elevated blood pressure , or heart failure .
+
+Because dietary restrictions may reduce necessary vitamin intake, patients should take a multivitamin containing water-soluble vitamins. Administration of vitamins A and E is unnecessary. Vitamins D2 (ergocalciferol) or D3 (cholecalciferol) are not given routinely but are used based on blood levels of vitamin D 25-OH and PTH.
+
+Dyslipidemia should be addressed. Dietary modification may be helpful for hypertriglyceridemia. Statins are effective for hypercholesterolemia. Fibric acid derivatives (clofibrate, gemfibrozil ) may increase risk of should be addressed. Dietary modification may be helpful for hypertriglyceridemia. Statins are effective for hypercholesterolemia. Fibric acid derivatives (clofibrate, gemfibrozil) may increase risk of rhabdomyolysis in patients with CKD, especially if taken with statin medications, whereas ezetimibe (which reduces cholesterol absorption) appears relatively safe. Correction of hypercholesterolemia is intended to reduce risk of cardiovascular disease, which is increased in patients with CKD ( in patients with CKD, especially if taken with statin medications, whereas ezetimibe (which reduces cholesterol absorption) appears relatively safe. Correction of hypercholesterolemia is intended to reduce risk of cardiovascular disease, which is increased in patients with CKD ( 4 ).
+
+
+--- Mineral and bone disorders ---
+
+
+Based on updated KDIGO (Kidney Disease Improving Global Outcomes) 2024 clinical practice guidelines ( 1 ), it is recommended that serum levels of calcium, phosphate, PTH, vitamin D 25-OH, and alkaline phosphatase activity be monitored beginning in CKD stage 3a. Frequency of monitoring depends on severity of CKD, magnitude of above abnormalities, and frequency of therapeutic interventions. Bone biopsy is the most definitive evaluation to determine the type of renal osteodystrophy. ), it is recommended that serum levels of calcium, phosphate, PTH, vitamin D 25-OH, and alkaline phosphatase activity be monitored beginning in CKD stage 3a. Frequency of monitoring depends on severity of CKD, magnitude of above abnormalities, and frequency of therapeutic interventions. Bone biopsy is the most definitive evaluation to determine the type of renal osteodystrophy.
+
+  - Dietary phosphate restriction
+
+  - Phosphate binders
+
+Phosphate restriction to 0.8 to 1 g/day of dietary intake is typically sufficient to normalize serum phosphate level in patients with eGFR < 60 mL/min/1.73 m 2 . Additional intestinal phosphate binders (calcium-containing [eg, calcium acetate ] or non–calcium-containing [eg, sevelamer ]) may be necessary for adequate control of hyperphosphatemia, which has been associated with increased cardiovascular risk. Non–calcium-containing binders are preferred in patients with . Additional intestinal phosphate binders (calcium-containing [eg, calcium acetate] or non–calcium-containing [eg, sevelamer]) may be necessary for adequate control of hyperphosphatemia, which has been associated with increased cardiovascular risk. Non–calcium-containing binders are preferred in patients with hypercalcemia , suspected adynamic bone disease, or evidence of vascular calcification on imaging. If calcium-containing binders are prescribed, then the total dietary and medication sources of calcium should not exceed 2000 mg/day in patients with eGFR < 60 mL/min/1.73 m 2 .
+
+Vitamin D deficiency should be treated with cholecalciferol (vitamin D3) or ergocalciferol (vitamin D2) to target serum vitamin D 25-OH level approximately 30 to 50 ng/mL, as long as there is no hyperphosphatemia or hypercalcemia.
+
+The optimal level of PTH in patients with CKD stages 3a to 5 not on dialysis is not known. However, if PTH levels are progressively rising or are markedly elevated (above 9 times the upper limit of normal for the assay), despite treatment of hyperphosphatemia and vitamin D deficiency, then an active vitamin D analog (eg, calcitriol ) or a calcimimetic (for example, cinacalcet ) is recommended. PTH levels are not corrected to normal because doing so risks precipitating adynamic bone disease. deficiency, then an active vitamin D analog (eg, calcitriol) or a calcimimetic (for example, cinacalcet) is recommended. PTH levels are not corrected to normal because doing so risks precipitating adynamic bone disease.
+
+
+--- Fluid and electrolytes ---
+
+
+Restricted water intake is required only when serum sodium concentration is < 135 mmol/L (or mEq/L) or there is heart failure or severe edema.
+
+Sodium restriction of < 2 g/day is recommended for CKD patients with eGFR < 60 mL/m/1.73 m 2 who have hypertension , volume overload , or proteinuria .
+
+Potassium restriction is individualized based on serum level, eGFR, dietary customs, and use of medications that increase potassium levels (eg, ACE, ARBs, or potassium-sparing diuretics). Typically, potassium restriction is not needed with eGFR > 30 mL/min/1.73 m 2 . Treatment of mild to moderate hyperkalemia (5.1 to 6 mmol/L or mEq/L) entails dietary restriction (including avoiding salt substitutes), correction of metabolic acidosis, and use of potassium-lowering diuretics (eg, furosemide ) and gastrointestinal cation exchangers (eg, patiromer ). (5.1 to 6 mmol/L or mEq/L) entails dietary restriction (including avoiding salt substitutes), correction of metabolic acidosis, and use of potassium-lowering diuretics (eg, furosemide) and gastrointestinal cation exchangers (eg, patiromer). Severe hyperkalemia ( > 6 mmol/L or mEq/L) warrants urgent treatment .
+
+Metabolic acidosis should be treated to bring serum bicarbonate to > 18 mmol/L to help reverse or slow muscle wasting, bone loss, and progression of CKD. Acidosis can be corrected with oral alkali sources such as sodium bicarbonate or an alkaline-ash diet (primarily fruits and vegetables). Sodium bicarbonate 1 to 2 g orally twice a day is given and the amount is increased gradually until bicarbonate concentration is > 18 mmol/L or until evidence of sodium overloading prevents further therapy. If the alkaline-ash diet is used, serum potassium is monitored because fruits and vegetables contain potassium ( should be treated to bring serum bicarbonate to > 18 mmol/L to help reverse or slow muscle wasting, bone loss, and progression of CKD. Acidosis can be corrected with oral alkali sources such as sodium bicarbonate or an alkaline-ash diet (primarily fruits and vegetables). Sodium bicarbonate 1 to 2 g orally twice a day is given and the amount is increased gradually until bicarbonate concentration is > 18 mmol/L or until evidence of sodium overloading prevents further therapy. If the alkaline-ash diet is used, serum potassium is monitored because fruits and vegetables contain potassium ( 5 ).
+
+
+--- Anemia and coagulation disorders ---
+
+
+Anemia is a common complication of moderate to advanced CKD ( ≥ stage 3) and, when hemoglobin is < 10g/dL, is treated with erythropoiesis-stimulating agents (ESA), such as recombinant human erythropoietin (eg, epoetin alfa ). Due to risk of cardiovascular complications, including 10g/dL, is treated with erythropoiesis-stimulating agents (ESA), such as recombinant human erythropoietin (eg, epoetin alfa). Due to risk of cardiovascular complications, including stroke , thrombosis , and death, the lowest dose of these agents needed to keep the Hb between 10 and 11 g/dL is used.
+
+Because of increased iron utilization with stimulated erythropoiesis, iron stores must be replaced, often requiring parenteral iron. Iron concentrations, iron-binding capacity, and ferritin concentrations should be followed closely. Target transferrin saturation (TSAT), calculated by dividing serum iron by total iron binding capacity and multiplying by 100%, should be > 20%. Target ferritin in patients not on dialysis is > 100 ng/mL. Transfusion should not be done unless anemia is severe (Hb < 8 g/dL) or causes symptoms.
+
+The bleeding tendency in CKD rarely needs treatment. Cryoprecipitate, red blood cell transfusions, desmopressin 0.3 to 0.4 mcg/kg (20 mcg maximum) in 20 mL of isotonic saline IV over 20 to 30 minutes, or conjugated estrogens 2.5 to 5 mg orally once a day help when needed. The effects of these treatments last 12 to 48 hours, except for conjugated estrogens , which may last for several days. The bleeding tendency in CKD rarely needs treatment. Cryoprecipitate, red blood cell transfusions, desmopressin 0.3 to 0.4 mcg/kg (20 mcg maximum) in 20 mL of isotonic saline IV over 20 to 30 minutes, or conjugated estrogens 2.5 to 5 mg orally once a day help when needed. The effects of these treatments last 12 to 48 hours, except for conjugated estrogens, which may last for several days.
+
+
+--- Heart failure ---
+
+
+Symptomatic heart failure is treated with
+
+  - Sodium restriction
+
+  - Diuretics
+
+  - Sometimes, dialysis
+
+Loop diuretics such as furosemide usually are effective even when renal function is markedly reduced, although large doses may be needed. If left ventricular function is depressed, Loop diuretics such as furosemide usually are effective even when renal function is markedly reduced, although large doses may be needed. If left ventricular function is depressed, ACE inhibitors (or ARBs ) and beta-blockers ( carvedilol or metoprolol ) should be used. Aldosterone receptor antagonists (eg, spironolactone ) and sometimes sodium-glucose cotransporter-2 (SLGT2) inhibitors are recommended in patients with advanced stages of heart failure. Digoxin may be added, but the dosage must be reduced based on degree of renal function. (carvedilol or metoprolol) should be used. Aldosterone receptor antagonists (eg, spironolactone) and sometimes sodium-glucose cotransporter-2 (SLGT2) inhibitors are recommended in patients with advanced stages of heart failure. Digoxin may be added, but the dosage must be reduced based on degree of renal function.
+
+Moderate or severe hypertension should be treated to avoid its deleterious effects on cardiac and renal function. Patients who do not respond to sodium restriction (1.5 g/day), should receive diuretics. Loop diuretics (eg, furosemide ) may be combined with thiazide diuretics (eg, chlorthalidone , hydrochlorothiazide , metolazone ) if hypertension or edema is not controlled. Even in renal failure, the combination of a thiazide diuretic with a loop diuretic is quite potent and must be used with caution to avoid overdiuresis. should be treated to avoid its deleterious effects on cardiac and renal function. Patients who do not respond to sodium restriction (1.5 g/day), should receive diuretics. Loop diuretics (eg, furosemide) may be combined with thiazide diuretics (eg, chlorthalidone, hydrochlorothiazide, metolazone) if hypertension or edema is not controlled. Even in renal failure, the combination of a thiazide diuretic with a loop diuretic is quite potent and must be used with caution to avoid overdiuresis.
+
+Occasionally, dialysis may be required to control heart failure. If reduction of the volume of extracellular fluid does not control blood pressure, conventional antihypertensives (ACE inhibitors, ARBs, beta-blockers) are added. Azotemia may increase with such treatment and may be necessary for adequate control of heart failure and/or hypertension.
+
+
+--- Medications ---
+
+
+Renal excretion of medications is often impaired in patients with renal failure. Common medications that require revised dosing include penicillins, cephalosporins, aminoglycosides, fluoroquinolones, vancomycin , and digoxin . Renal excretion of medications is often impaired in patients with renal failure. Common medications that require revised dosing include penicillins, cephalosporins, aminoglycosides, fluoroquinolones, vancomycin, and digoxin. Hemodialysis reduces the serum concentrations of some medications, which should be supplemented after hemodialysis. It is strongly recommended that physicians consult a reference on drug dosing in renal failure before prescribing medications to these very vulnerable patients ( 6–8 ).
+
+Most experts recommend avoiding NSAIDs (nonsteroidal anti-inflammatory drugs) in patients with CKD because they may worsen renal function, exacerbate hypertension, and precipitate electrolyte disturbances.
+
+Certain medications should be avoided entirely in patients with chronic kidney disease with eGFR < 60 mL/min/1.73m 2 . They include nitrofurantoin and phenazopyridine . The MRI contrast agent gadolinium has been associated with the development of . They include nitrofurantoin and phenazopyridine. The MRI contrast agent gadolinium has been associated with the development of nephrogenic systemic fibrosis in patients with estimated GFR < 30 mL/min/1.73m 2 in the past. More recently, class II gadolinium agents are considered safer and preferred when gadolinium is indicated for patients with eGFR < 30 or on dialysis ( 8 ).
+
+
+--- Dialysis ---
+
+
+Dialysis is usually initiated at the onset of either of the following:
+
+  - Uremic symptoms (eg, anorexia, nausea, vomiting, weight loss, pericarditis, pleuritis)
+
+  - Difficulty controlling fluid overload, hyperkalemia, or acidosis with medications and lifestyle interventions
+
+Uremic symptoms (eg, anorexia, nausea, vomiting, weight loss, pericarditis, pleuritis)
+
+Difficulty controlling fluid overload, hyperkalemia, or acidosis with medications and lifestyle interventions
+
+These problems typically occur when the estimated GFR reaches ≤ 10 mL/min in a patient without diabetes or ≤ 15 mL/min in a patient with diabetes; patients whose estimated GFR values are near these values should be closely monitored so that these signs and symptoms are recognized early. Dialysis is best anticipated so that preparations can be made and urgent insertion of a hemodialysis catheter can be avoided. Such preparations usually begin when the patient is in early to mid stage 4 CKD; preparation allows time for patient education, selection of the type of dialysis, and timely creation of an arteriovenous fistula or placement of a peritoneal dialysis catheter . (For dialysis preparation, see Hemodialysis .)
+
+
+--- Pearls & Pitfalls ---
+
+
+  - Begin preparation for dialysis, kidney transplantation, or palliative care during early to mid stage 4 CKD to allow adequate time for patient education and selection of treatment modality, along with any associated preparatory procedures.
+
+Begin preparation for dialysis, kidney transplantation, or palliative care during early to mid stage 4 CKD to allow adequate time for patient education and selection of treatment modality, along with any associated preparatory procedures.
+
+
+--- Transplantation ---
+
+
+If a living kidney donor is available, better long-term outcomes occur when a patient receives the transplanted kidney early, even before beginning dialysis. Patients who are transplant candidates but have no living donor should be placed on the waiting list of their regional transplant center early because wait times may exceed several years in many regions of the United States.
+
+  - 1. Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group . KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int . 2024;105(4S):S117-S314. doi:10.1016/j.kint.2023.10.018
+
+  - 2. Mann JF, Schmieder RE, McQueen M, et al . Renal outcomes with telmisartan , ramipril , or both, in people at high vascular risk (the ONTARGET study): a multicentre, randomised, double-blind, controlled trial. . Renal outcomes with telmisartan, ramipril, or both, in people at high vascular risk (the ONTARGET study): a multicentre, randomised, double-blind, controlled trial. Lancet . 2008;372(9638):547-553. doi:10.1016/S0140-6736(08)61236-2
+
+  - 3. Perkovic V, Jardine MJ, Neal B, et al . Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. . Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. N Engl J Med . 380(24):2295-2306, 2019. doi: 10.1056/NEJMoa1811744
+
+  - 4. National Institute of Diabetes and Digestive and Kidney Diseases . Determining Drug Dosing in Adults with Chronic Kidney Disease. Accessed January 30, 2025.
+
+  - 5. Goraya N, Simoni J, Jo CH, Wesson DE . A comparison of treating metabolic acidosis in CKD stage 4 hypertensive kidney disease with fruits and vegetables or sodium bicarbonate . . A comparison of treating metabolic acidosis in CKD stage 4 hypertensive kidney disease with fruits and vegetables or sodium bicarbonate. Clin J Am Soc Nephrol . 2013;8(3):371-381. doi:10.2215/CJN.02430312
+
+  - 6. Munar MY, Singh HD . Drug dosing adjustments in patients with chronic kidney disease. Am Fam Physician . 75:1487-1496, 2007.
+
+  - 7. Matzke GR, Aronoff GR, Atkinson AJ, et al . Drug dosing consideration in patients with acute and chronic kidney disease—a clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int . 80:1122–1137, 2011. doi:10.1038/ki.2011.322
+
+  - 8. ACR Committee on Drugs and Contrast Media . ACR Manual on Contrast Media. American College of Radiology. 2021. ISBN: 978-1-55903-012-0. Accessed January 30, 2025.
+
+1. Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group . KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int . 2024;105(4S):S117-S314. doi:10.1016/j.kint.2023.10.018
+
+2. Mann JF, Schmieder RE, McQueen M, et al . Renal outcomes with telmisartan , ramipril , or both, in people at high vascular risk (the ONTARGET study): a multicentre, randomised, double-blind, controlled trial. . Renal outcomes with telmisartan, ramipril, or both, in people at high vascular risk (the ONTARGET study): a multicentre, randomised, double-blind, controlled trial. Lancet . 2008;372(9638):547-553. doi:10.1016/S0140-6736(08)61236-2
+
+3. Perkovic V, Jardine MJ, Neal B, et al . Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. . Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. N Engl J Med . 380(24):2295-2306, 2019. doi: 10.1056/NEJMoa1811744
+
+4. National Institute of Diabetes and Digestive and Kidney Diseases . Determining Drug Dosing in Adults with Chronic Kidney Disease. Accessed January 30, 2025.
+
+5. Goraya N, Simoni J, Jo CH, Wesson DE . A comparison of treating metabolic acidosis in CKD stage 4 hypertensive kidney disease with fruits and vegetables or sodium bicarbonate . . A comparison of treating metabolic acidosis in CKD stage 4 hypertensive kidney disease with fruits and vegetables or sodium bicarbonate. Clin J Am Soc Nephrol . 2013;8(3):371-381. doi:10.2215/CJN.02430312
+
+6. Munar MY, Singh HD . Drug dosing adjustments in patients with chronic kidney disease. Am Fam Physician . 75:1487-1496, 2007.
+
+7. Matzke GR, Aronoff GR, Atkinson AJ, et al . Drug dosing consideration in patients with acute and chronic kidney disease—a clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int . 80:1122–1137, 2011. doi:10.1038/ki.2011.322
+
+8. ACR Committee on Drugs and Contrast Media . ACR Manual on Contrast Media. American College of Radiology. 2021. ISBN: 978-1-55903-012-0. Accessed January 30, 2025.

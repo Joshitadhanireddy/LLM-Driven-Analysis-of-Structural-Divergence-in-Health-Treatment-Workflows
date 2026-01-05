@@ -1,0 +1,63 @@
+--- Acromegaly Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/pituitary-disorders/gigantism-and-acromegaly?query=acromegaly#Treatment_v980861
+
+=== Treatment of Gigantism and Acromegaly ===
+
+  - Surgery or radiation therapy
+
+  - Sometimes pharmacologic suppression of GH secretion or activity
+
+Sometimes pharmacologic suppression of GH secretion or activity
+
+
+--- Surgical therapy ---
+
+
+Selective removal of the pituitary tumor with surgery is considered first-line therapy for most patients ( 1 ). Patients with comorbidities that prevent safe surgical resection and those with unresectable tumors may be treated with primary medical therapy. Rates of remission after surgical resection are dependent on the size and degree of invasion of the pituitary adenoma and the experience of the neurosurgeon.
+
+Surgical removal of the tumor is likely to have been curative if GH levels measured after a glucose load and IGF-1 levels reach normal values. If one or both values are abnormal, further therapy is usually needed. If GH excess is poorly controlled, hypertension, heart failure, and increased mortality occur.
+
+
+--- Pharmacotherapy ---
+
+
+  - If surgery is contraindicated
+
+  - If surgery or radiation therapy has not been curative
+
+  - If radiation therapy is being given time to work
+
+If surgery or radiation therapy has not been curative
+
+If radiation therapy is being given time to work
+
+Medications available for the treatment of acromegaly include those that target tumor secretion of GH and one that blocks GH at the level of the GH receptor.
+
+Somatostatin receptor ligands are a mainstay of therapy because they decrease GH secretion from the pituitary tumor mediated through interactions predominately with the somatostatin subtype receptor-2 (SSTR-2). Medications in this class include octreotide and lanreotide , which have high affinity for SSTR-2 and come in short-acting ( Somatostatin receptor ligands are a mainstay of therapy because they decrease GH secretion from the pituitary tumor mediated through interactions predominately with the somatostatin subtype receptor-2 (SSTR-2). Medications in this class include octreotide and lanreotide, which have high affinity for SSTR-2 and come in short-acting ( octreotide ) and long-acting ( octreotide and lanreotide ) preparations. Pasireotide , a somatostatin receptor ligand with affinity for SSTR-1, 2, 3, and 5, is also available in short- and long-acting preparations. All somatostatin receptor ligands may also cause tumor shrinkage. ) preparations. Pasireotide, a somatostatin receptor ligand with affinity for SSTR-1, 2, 3, and 5, is also available in short- and long-acting preparations. All somatostatin receptor ligands may also cause tumor shrinkage.
+
+Octreotide is started with an intramuscular injection delivered monthly and titrated up or down if needed to an effective dose after the third injection. Effective doses range from 10 to 40 mg monthly. Octreotide is started with an intramuscular injection delivered monthly and titrated up or down if needed to an effective dose after the third injection. Effective doses range from 10 to 40 mg monthly. Octreotide is also available in an oral preparation that is given twice daily.
+
+Lanreotide is given as a deep subcutaneous injection monthly, with the possibility of extended dosing ( every 6 to 8 weeks) in patients with well-controlled disease. Lanreotide is given as a deep subcutaneous injection monthly, with the possibility of extended dosing ( every 6 to 8 weeks) in patients with well-controlled disease.
+
+Pasireotide is generally considered if octreotide or lanreotide is unsuccessful in returning IGF-I levels to normal. Pasireotide is generally considered if octreotide or lanreotide is unsuccessful in returning IGF-I levels to normal.
+
+Cabergoline , a Cabergoline, a dopamine agonist, has been used alone or in combination with a somatostatin receptor ligand and works by suppressing GH secretion at the pituitary. Cabergoline is typically used in mild disease and has the advantage of being an oral medication.
+
+Pegvisomant , the GH receptor antagonist, is given as a daily subcutaneous injection and decreases IGF-I levels and symptoms but does not decrease GH levels or act on the pituitary tumor. Pegvisomant, the GH receptor antagonist, is given as a daily subcutaneous injection and decreases IGF-I levels and symptoms but does not decrease GH levels or act on the pituitary tumor. Pegvisomant is titrated to an effective dose depending on IGF-I levels.
+
+
+--- Radiation therapy ---
+
+
+Radiation therapy may be used at any step of treatment but is typically used as primary therapy only when surgery or medications are not available. Timing of radiation in the treatment of patients with acromegaly varies among institutions. Stereotactic radiation, delivering approximately 5000 cGy to the pituitary, is used, but GH levels may not fall to normal for several years. Treatment with accelerated protons (heavy particle radiation) permits delivery of larger doses of radiation (equivalent to 10,000 cGy) to the pituitary; such therapy poses higher risk of cranial nerve and hypothalamic damage and is available only in a few centers.
+
+Hypopituitarism commonly develops several years after irradiation. Because radiation damage is cumulative, proton beam therapy should not be used after conventional gamma-irradiation. A combined approach with both surgery and radiation therapy is indicated for patients with progressive extrasellar involvement by a pituitary tumor and for patients in whom the entire tumor cannot be resected, which is often the case.
+
+
+--- Treatment reference ---
+
+
+  - 1. Giustina A, Biermasz N, Casanueva FF, et al . Consensus on criteria for acromegaly diagnosis and remission [published correction appears in Pituitary . 2024 Feb;27(1):88. doi: 10.1007/s11102-023-01373-w]. Pituitary . 2024;27(1):7-22. doi:10.1007/s11102-023-01360-1
+
+1. Giustina A, Biermasz N, Casanueva FF, et al . Consensus on criteria for acromegaly diagnosis and remission [published correction appears in Pituitary . 2024 Feb;27(1):88. doi: 10.1007/s11102-023-01373-w]. Pituitary . 2024;27(1):7-22. doi:10.1007/s11102-023-01360-1

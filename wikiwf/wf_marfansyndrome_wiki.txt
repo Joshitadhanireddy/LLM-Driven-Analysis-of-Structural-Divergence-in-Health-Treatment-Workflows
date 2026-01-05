@@ -1,0 +1,63 @@
+MARFAN SYNDROME MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Baseline evaluation and monitoring
+   - Confirm diagnosis and assess severity of cardiovascular, skeletal, and ocular features.
+   - Perform detailed aortic imaging (echocardiogram, CT, or MRI).
+   - Schedule regular follow-up to monitor aortic root size and valve function.
+   - Start preventive strategies early, including in children.
+
+2. Cardiovascular risk reduction
+   2.1 Medication
+       - First-line: beta blockers (e.g., propranolol) to reduce aortic wall stress.
+       - If beta blockers not tolerated: calcium-channel blockers, ACE inhibitors, or ARBs.
+       - Goal: slow aortic dilation, control blood pressure, and avoid arrhythmias.
+   2.2 Blood pressure management
+       - Maintain low–normal blood pressure.
+       - Avoid sudden spikes (e.g., heavy exertion, isometric strain).
+
+3. Physical activity guidance
+   - Allowed / lower risk activities: bowling, golf, casual skating, snorkeling, brisk walking, treadmill, stationary biking, modest hiking, singles or doubles tennis.
+   - Intermediate risk (caution, individualise): basketball, racquetball, squash, running, skiing, soccer, touch/flag football, baseball, softball, biking, lap swimming, motorcycling, horseback riding.
+   - High risk (generally avoid): bodybuilding and weightlifting, ice hockey, rock climbing, windsurfing, surfing, scuba diving.
+
+4. Indications for cardiovascular surgery
+   - Significant aortic root dilation or aneurysm reaching guideline threshold (often ~50 mm, but individualised).
+   - Aortic dissection or rupture.
+   - Valve failure (aortic or other valves).
+   - Surgical options:
+     * Composite aortic valve graft.
+     * Valve-sparing aortic root replacement.
+   - Early elective surgery is preferred over emergency repair; other vascular repairs may be needed as survival improves.
+
+5. Skeletal and ocular management
+   - Treat scoliosis, chest wall deformities, and joint pain with standard orthopaedic approaches; use imaging before any spinal surgery.
+   - Ophthalmologic care:
+     * Manage ectopia lentis (lens dislocation) surgically with artificial lenses.
+     * Treat glaucoma, retinal detachment/tears, and cataracts as indicated.
+
+6. Pneumothorax management
+   - Small pneumothorax: observe; may resolve in 1–2 weeks.
+   - Moderate: chest drain for several days.
+   - Large or recurrent: urgent decompression and possible chest surgery.
+
+7. Emerging interventions
+   - Custom-made external support for the aortic root in selected patients.
+   - Increasing adoption since early 2000s in specialised centres.
+
+8. Pregnancy counselling and management
+   - Significant risk of aortic dissection during pregnancy—even without prior abnormalities.
+   - Preconception:
+     * Thorough cardiovascular assessment.
+     * Genetic counselling; discuss 50% inheritance risk.
+   - During pregnancy:
+     * Echocardiography every 6–10 weeks to monitor aortic root.
+     * Most women can deliver vaginally if cardiovascular status is stable.
+   - Prenatal diagnosis options:
+     * Chorionic villus sampling (10–12 weeks).
+     * Amniocentesis (16–18 weeks).
+     * Preimplantation genetic testing (PGT) with IVF to avoid affected embryos.
+
+9. Long-term goals
+   - Prevent aortic catastrophe and cardiac complications.
+   - Preserve vision and musculoskeletal function.
+   - Optimise quality of life and life expectancy (now near normal with modern care).

@@ -1,0 +1,34 @@
+NARCOLEPSY MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Overall approach
+   - No cure; manage symptoms with medicines + lifestyle changes.
+   - Screen for drug interactions and sedating OTC meds (e.g., cold/allergy).
+
+2. Wake-promoting / stimulant medicines
+   - First-line newer stimulants:
+     * Modafinil, armodafinil.
+     * Solriamfetol, pitolisant (also helpful for cataplexy).
+   - Traditional stimulants (second-line):
+     * Methylphenidate, amphetamines.
+     * Monitor for dependence, nervousness, tachycardia.
+
+3. Cataplexy and REM-related symptom control
+   - SSRIs/SNRIs:
+     * Venlafaxine, fluoxetine, duloxetine, sertraline.
+   - Tricyclic antidepressants:
+     * Protriptyline, imipramine, clomipramine.
+   - Sodium oxybate / oxybate salts:
+     * Xyrem, Lumryz, Xywav.
+     * Improve nocturnal sleep and cataplexy; may reduce daytime sleepiness.
+     * Use cautiously due to risk of respiratory depression, especially with other sedatives or alcohol.
+
+4. Lifestyle and safety
+   - Regular sleep–wake schedule.
+   - Planned daytime naps.
+   - Avoid sedating OTC drugs when possible.
+   - Discuss driving, workplace and school accommodations.
+
+5. Research directions
+   - Treatments targeting hypocretin system.
+   - Immunotherapy approaches.
+

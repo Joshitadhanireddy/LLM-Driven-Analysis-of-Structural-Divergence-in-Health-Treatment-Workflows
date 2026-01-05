@@ -1,0 +1,71 @@
+MULTIPLE SCLEROSIS (MS) MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Diagnosis and initial strategy
+   - Confirm MS type (CIS, RRMS, SPMS, PPMS) with clinical exam and MRI.
+   - Initiate disease-modifying therapy (DMT) after first attack if >2 MRI lesions.
+   - Goals: restore function after relapses, prevent new attacks, and delay disability.
+
+2. Management of acute relapses
+   - First-line: high-dose corticosteroids
+     * IV methylprednisolone (or high-dose oral equivalent).
+     * Short-term symptom improvement; limited effect on long-term recovery.
+   - If severe relapse refractory to steroids:
+     * Consider plasmapheresis.
+
+3. Chronic disease-modifying treatment – Relapsing–Remitting MS (RRMS)
+   3.1 First-line injectables
+       - Interferon beta preparations.
+       - Glatiramer acetate.
+       - Reduce relapses by ~30%; safe long-term and also used after CIS.
+   3.2 Newer oral/infusion agents (examples)
+       - Fingolimod, teriflunomide, dimethyl fumarate.
+       - Higher-efficacy monoclonal antibodies:
+         * Natalizumab, cladribine, alemtuzumab.
+         * Ublituximab (approved 2022).
+       - Choice based on efficacy, side-effect profile, and patient factors.
+   3.3 Monitoring
+       - Regular clinical review and MRI to assess relapses and lesion burden.
+       - Adjust therapy if disease remains active or side effects are problematic.
+
+4. Progressive MS (SPMS and PPMS)
+   - SPMS:
+     * Mitoxantrone (first approved; moderate effect on progression and relapses).
+     * Newer agents: siponimod, cladribine, ozanimod, ponesimod for active SPMS.
+   - PPMS:
+     * Ocrelizumab (first approved drug; reduces worsening of symptoms).
+     * Ocrelizumab/hyaluronidase (subcutaneous formulation; approved 2024).
+   - Balance benefits against higher risks and adverse effects.
+
+5. Adverse effect monitoring
+   - Common:
+     * Injection-site reactions and lipoatrophy (interferons, glatiramer).
+     * Flu-like symptoms (interferons).
+     * GI upset, flushing (dimethyl fumarate).
+     * Hypertension, bradycardia, macular oedema (fingolimod).
+     * Hepatotoxicity (several agents).
+   - Serious but rare:
+     * Progressive multifocal leukoencephalopathy (PML) with natalizumab and some others.
+     * Cardiac toxicity, infertility, and leukemia with mitoxantrone.
+     * Severe liver injury and fetal toxicity with teriflunomide.
+   - Implement baseline and periodic blood tests, eye exams, and infection screening as per drug label.
+
+6. Symptom control and rehabilitation
+   - Target specific symptoms:
+     * Spasticity: medication + physiotherapy (exercise, electrical stimulation, vibration, standing, shock wave therapy).
+     * Bladder dysfunction: catheters, medications.
+     * Fatigue: cognitive behavioural therapy, graded activity.
+     * Pain, mood, and cognition: pharmacological and psychological therapies.
+   - Use multidisciplinary rehab (physio, OT, speech, psychology) to:
+     * Improve activity and participation.
+     * Provide mobility aids and environmental adaptations.
+
+7. Complementary and alternative therapies
+   - Many people use dietary supplements, vitamin D, relaxation/yoga, cannabis products, hyperbaric oxygen, acupuncture, mindfulness, etc.
+   - Evidence for most is weak or absent; high-dose biotin may increase relapse risk.
+   - Nabiximols (THC/CBD) can reduce short-term spasticity but may cause neurological side effects.
+
+8. Long-term management goals
+   - Minimise relapse rate and MRI activity.
+   - Slow disability progression.
+   - Optimise quality of life, independence, and mental health.
+   - Provide ongoing education and shared decision-making on treatment options.

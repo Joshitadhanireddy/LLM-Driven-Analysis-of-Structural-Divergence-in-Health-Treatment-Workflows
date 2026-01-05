@@ -1,0 +1,29 @@
+--- Bell's Palsy Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/facial-nerve-palsy?query=bell%27s%20palsy#Treatment_v1042975
+
+=== Treatment of Facial Nerve Palsy ===
+
+  - Protection for the cornea
+
+  - Glucocorticoids for idiopathic facial nerve palsy
+
+Glucocorticoids for idiopathic facial nerve palsy
+
+Corneal drying must be prevented by frequent use of natural tears, isotonic saline, or methylcellulose drops and by intermittent use of tape or a patch to help close the eye, particularly during sleep. Tarsorrhaphy is occasionally required. Corneal drying must be prevented by frequent use of natural tears, isotonic saline, or methylcellulose drops and by intermittent use of tape or a patch to help close the eye, particularly during sleep. Tarsorrhaphy is occasionally required.
+
+In idiopathic facial nerve palsy, glucocorticoids, ideally begun within 3 days of symptom onset, result in faster and more complete recovery ( 1, 2 ).
+
+Antiviral drugs effective against herpes simplex virus provide no benefit ( 3 ).
+
+  - 1. Madhok VB, Gagyor I, Daly F, et al . Corticosteroids for Bell's palsy (idiopathic facial paralysis). Cochrane Database Syst Rev. 2016;7(7):CD001942. Published 2016 Jul 18. doi:10.1002/14651858.CD001942.pub5
+
+  - 2. Dalrymple SN, Row JH, Gazewood J . Bell Palsy: Rapid Evidence Review. Am Fam Physician. 2023 Apr;107(4):415-420. Erratum in: Am Fam Physician. 2024 Feb;109(2):105. PMID: 37054419.
+
+  - 3. Gagyor I, Madhok VB, Daly F, Sullivan F . Antiviral treatment for Bell's palsy (idiopathic facial paralysis). Cochrane Database Syst Rev. 9 (9):CD001869, 2019. doi: 10.1002/14651858.CD001869.pub9
+
+1. Madhok VB, Gagyor I, Daly F, et al . Corticosteroids for Bell's palsy (idiopathic facial paralysis). Cochrane Database Syst Rev. 2016;7(7):CD001942. Published 2016 Jul 18. doi:10.1002/14651858.CD001942.pub5
+
+2. Dalrymple SN, Row JH, Gazewood J . Bell Palsy: Rapid Evidence Review. Am Fam Physician. 2023 Apr;107(4):415-420. Erratum in: Am Fam Physician. 2024 Feb;109(2):105. PMID: 37054419.
+
+3. Gagyor I, Madhok VB, Daly F, Sullivan F . Antiviral treatment for Bell's palsy (idiopathic facial paralysis). Cochrane Database Syst Rev. 9 (9):CD001869, 2019. doi: 10.1002/14651858.CD001869.pub9

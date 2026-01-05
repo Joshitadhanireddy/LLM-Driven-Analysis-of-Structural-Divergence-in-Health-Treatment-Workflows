@@ -1,0 +1,87 @@
+--- Hemophilia Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/hematology-and-oncology/coagulation-disorders/hemophilia?query=hemophilia#Treatment_v972601
+
+=== Treatment of Hemophilia ===
+
+  - Replacement of the deficient factor
+
+  - Sometimes other agents used for prophylaxis (eg, emicizumab , fitusiran , concizumab ) Sometimes other agents used for prophylaxis (eg, emicizumab, fitusiran, concizumab)
+
+  - Sometimes antifibrinolytics
+
+Sometimes other agents used for prophylaxis (eg, emicizumab , fitusiran , concizumab ) Sometimes other agents used for prophylaxis (eg, emicizumab, fitusiran, concizumab)
+
+If symptoms suggest bleeding, treatment should begin immediately, even before diagnostic tests are completed. For example, treatment for headache that might indicate intracranial hemorrhage should begin before CT is completed.
+
+Replacement of the deficient factor is the primary treatment.
+
+In hemophilia A, the factor VIII trough level (ie, the factor VIII level measured immediately prior to the next dose) should be raised to:
+
+  - 50% of normal to prevent bleeding after dental extraction or to abort an incipient joint hemorrhage
+
+  - 50 to 80% of normal for severe joint or intramuscular bleeding
+
+  - 100% of normal before major surgery or if bleeding is intracranial, intracardiac, intraocular, or otherwise life threatening
+
+50% of normal to prevent bleeding after dental extraction or to abort an incipient joint hemorrhage
+
+50 to 80% of normal for severe joint or intramuscular bleeding
+
+100% of normal before major surgery or if bleeding is intracranial, intracardiac, intraocular, or otherwise life threatening
+
+Repeated infusions of the initial calculated factor VIII dose should then be given every 8 to 12 hours to keep trough levels at 50 to 80% of normal for 7 to 14 days after major surgery or life-threatening hemorrhage. After neurosurgery or cardiac surgery, the factor trough level should be maintained at 100% of normal for the first 3 days after surgery. A trough level of 80 to 100% is targeted for postoperative days 4 to 7 followed by a target of 50 to 80% for postoperative days 8 to 14. After an intracranial bleed, the trough factor level should be maintained at 100% of normal for the first 7 days. The target should be 80 to 100% for days 8 to 14 and 50 to 80% for days 15 to 21. After an intracranial bleed, life-long factor prophylaxis is recommended. Each unit/kg of factor VIII increases the factor VIII level by approximately 2%. Thus, to increase the level from 0% to 50%, approximately 25 units/kg are required.
+
+Factor VIII can be given as purified plasma-derived factor VIII concentrate, which is derived from multiple donors. It then undergoes viral inactivation, but inactivation may not eliminate parvovirus or hepatitis A virus. Recombinant factor VIII is free of viruses and is usually preferred.
+
+In hemophilia B, factor IX can be given as a purified or recombinant viral-inactivated product every 12 to 24 hours. The target levels of factor correction are the same as in hemophilia A. However, to achieve these levels, the dose must be higher than in hemophilia A because factor IX can be given as a purified or recombinant viral-inactivated product every 12 to 24 hours. The target levels of factor correction are the same as in hemophilia A. However, to achieve these levels, the dose must be higher than in hemophilia A because factor IX is smaller than factor VIII and, in contrast to factor VIII, has an extensive extravascular distribution. Each unit/kg of factor IX increases the factor IX level by 1%. Due to extravascular distribution, the initial dose of factor IX is generally 25% higher than subsequent doses.
+
+Fresh frozen plasma contains factor VIII and factor IX . However, unless plasma exchange is done, sufficient whole plasma usually cannot be given to patients with severe hemophilia to raise factor VIII or factor IX to levels that prevent or control bleeding. Fresh frozen plasma should, therefore, be used only if factor concentrates are not available.
+
+Cryoprecipitate contains factor VIII and can be used as a replacement product if factor VIII concentrates are not available. Each unit of cryoprecipitate contains 80 units of factor VIII. Because plasma and cryoprecipitate are generally not virally inactivated, these blood products should be used only in emergencies when factor concentrates are not available.
+
+Recombinant, extended half-life factor VIII and factor IX concentrates and non-factor therapies that replace the function of factor VIII or suppress the synthesis or function of endogenous antithrombotic proteins (eg,, tissue factor pathway inhibitor and antithrombin) have been developed. Recombinant extended half life factor concentrates fuse the factor VIII or IX molecule with polyethylene glycol (PEG), immunoglobulin Fc fragments, or concentrates and non-factor therapies that replace the function of factor VIII or suppress the synthesis or function of endogenous antithrombotic proteins (eg,, tissue factor pathway inhibitor and antithrombin) have been developed. Recombinant extended half life factor concentrates fuse the factor VIII or IX molecule with polyethylene glycol (PEG), immunoglobulin Fc fragments, or albumin , resulting in elimination half-lives 1.5 to 5 times the half-life of standard half-life concentrates and allowing for less frequent dosing.
+
+Alternative agents are also sometimes used to treat hemophilia ( 1 ).
+
+For hemophilia A, emicizumab , a recombinant humanized bispecific monoclonal antibody that binds to both For hemophilia A, emicizumab, a recombinant humanized bispecific monoclonal antibody that binds to both factor IX and factor X and links them into a factor Xase–like active complex that obviates the need for factor VIII, is an effective treatment ( 2 ). Emicizumab is administered as a subcutaneous injection every 1, 2, or 4 weeks. It has a half-life of 28 days.
+
+Other therapeutic agents used for both hemophilia A and B include fitusiran , concizumab , and marstacimab ( Other therapeutic agents used for both hemophilia A and B include fitusiran, concizumab, and marstacimab ( 3, 4 ). Fitusiran is a small inhibitory RNA that knocks down the production of the natural anticoagulant protein, antithrombin compensating for the deficiency of factor VIII or IX. Concizumab is a humanized monoclonal antibody that blocks tissue factor pathway inhibitor (TFPI), another natural anticoagulant protein, and increases ). Fitusiran is a small inhibitory RNA that knocks down the production of the natural anticoagulant protein, antithrombin compensating for the deficiency of factor VIII or IX. Concizumab is a humanized monoclonal antibody that blocks tissue factor pathway inhibitor (TFPI), another natural anticoagulant protein, and increases thrombin production in hemophilia A and B. Concizumab can also be used for treatment of hemophilia A or B with inhibitors (ie, neutralizing antibodies that may develop in patients exposed to clotting factor replacement therapy). Marstacimab is a humanized monoclonal antibody against TFPI that has been approved for treatment of hemophilia A and B without inhibitors. production in hemophilia A and B. Concizumab can also be used for treatment of hemophilia A or B with inhibitors (ie, neutralizing antibodies that may develop in patients exposed to clotting factor replacement therapy). Marstacimab is a humanized monoclonal antibody against TFPI that has been approved for treatment of hemophilia A and B without inhibitors.
+
+Gene therapy using adeno-associated virus (AAV) vectors has been shown in clinical trials to result in sustained factor VIII and factor IX expression ( 5, 6 ). AAV vector gene therapy products for hemophilia A and B are available ( 7 ).
+
+Both VWF and factor VIII are stored in the Weibel-Palade bodies of endothelial cells and secreted in response to endothelial cell stimulation ( 8 ). Adjunctive therapy for mild hemophilia A may, therefore, include in vivo stimulation of patient endothelial cells with the synthetic vasopressin analogue DDAVP (deamino-D- arginine vasopressin , also known as desmopressin ). As described for , also known as desmopressin). As described for von Willebrand disease , desmopressin may temporarily raise factor VIII levels. The patient’s response should be tested before desmopressin is used therapeutically. Its use after minor trauma or before elective dental surgery may obviate the need for replacement therapy. Desmopressin should be used only for patients with mild hemophilia A (basal factor VIII levels ≥ 5%) who have demonstrated responsiveness.
+
+An antifibrinolytic agent ( aminocaproic acid or tranexamic acid ) may also be used as adjunctive therapy in hemophilia A or B to suppress fibrinolysis and prevent late bleeding after dental extraction or other oropharyngeal mucosal trauma (eg, tongue laceration). An antifibrinolytic agent (aminocaproic acid or tranexamic acid ) may also be used as adjunctive therapy in hemophilia A or B to suppress fibrinolysis and prevent late bleeding after dental extraction or other oropharyngeal mucosal trauma (eg, tongue laceration).
+
+  - 1. Chowdary P, Carcao M, Kenet G, Pipe SW . Haemophilia. Lancet. 2025;405(10480):736-750. doi:10.1016/S0140-6736(24)02139-1
+
+  - 2. Nuto A, Yoshihashi K, Takeda M, et al . Anti-factor IXa/X bispecific antibody (ACE910): Hemostatic potency against ongoing bleeds in a hemophilia A model and the possibility of routine supplementation. J Thromb Haemost. 12:206–213, 2014.
+
+  - 3. Young G, Srivastava A, Kavakli K, et al . Efficacy and safety of fitusiran prophylaxis in people with haemophilia A or haemophilia B with inhibitors (ATLAS-INH): a multicentre, open-label, randomised phase 3 trial. Lancet. 2023;401(10386):1427-1437. doi:10.1016/S0140-6736(23)00284-2
+
+  - 4. Shapiro AD, Angchaisuksiri P, Astermark J, et al . Subcutaneous concizumab prophylaxis in hemophilia A and hemophilia A/B with inhibitors: phase 2 trial results. Blood. 2019;134(22):1973-1982. doi:10.1182/blood.2019001542
+
+  - 5. Perrin GQ, Herzog RW, Markusic DM . Update on clinical gene therapy for hemophilia. Blood. 2019;133(5):407-414. doi:10.1182/blood-2018-07-820720
+
+  - 6. Samelson-Jones BJ, George LA . Adeno-Associated Virus Gene Therapy for Hemophilia. Annu Rev Med. 2023;74:231-247. doi:10.1146/annurev-med-043021-033013
+
+  - 7. George LA . Hemophilia gene therapy comes of age. Blood Adv. 1:2591–2599, 2017. doi: 10.1182/bloodadvances.2017009878
+
+  - 8. Turner NA and Moake JL . Factor VIII is synthesized in human endothelial cells, packaged in Weibel-Palade bodies and secreted bound to ULVWF strings. PLoS ONE. 10(10): e0140740, 2015. doi: 10.1371/journal.pone.0140740
+
+1. Chowdary P, Carcao M, Kenet G, Pipe SW . Haemophilia. Lancet. 2025;405(10480):736-750. doi:10.1016/S0140-6736(24)02139-1
+
+2. Nuto A, Yoshihashi K, Takeda M, et al . Anti-factor IXa/X bispecific antibody (ACE910): Hemostatic potency against ongoing bleeds in a hemophilia A model and the possibility of routine supplementation. J Thromb Haemost. 12:206–213, 2014.
+
+3. Young G, Srivastava A, Kavakli K, et al . Efficacy and safety of fitusiran prophylaxis in people with haemophilia A or haemophilia B with inhibitors (ATLAS-INH): a multicentre, open-label, randomised phase 3 trial. Lancet. 2023;401(10386):1427-1437. doi:10.1016/S0140-6736(23)00284-2
+
+4. Shapiro AD, Angchaisuksiri P, Astermark J, et al . Subcutaneous concizumab prophylaxis in hemophilia A and hemophilia A/B with inhibitors: phase 2 trial results. Blood. 2019;134(22):1973-1982. doi:10.1182/blood.2019001542
+
+5. Perrin GQ, Herzog RW, Markusic DM . Update on clinical gene therapy for hemophilia. Blood. 2019;133(5):407-414. doi:10.1182/blood-2018-07-820720
+
+6. Samelson-Jones BJ, George LA . Adeno-Associated Virus Gene Therapy for Hemophilia. Annu Rev Med. 2023;74:231-247. doi:10.1146/annurev-med-043021-033013
+
+7. George LA . Hemophilia gene therapy comes of age. Blood Adv. 1:2591–2599, 2017. doi: 10.1182/bloodadvances.2017009878
+
+8. Turner NA and Moake JL . Factor VIII is synthesized in human endothelial cells, packaged in Weibel-Palade bodies and secreted bound to ULVWF strings. PLoS ONE. 10(10): e0140740, 2015. doi: 10.1371/journal.pone.0140740

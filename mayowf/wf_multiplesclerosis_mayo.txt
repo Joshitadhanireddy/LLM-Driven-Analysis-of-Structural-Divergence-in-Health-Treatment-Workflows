@@ -1,0 +1,51 @@
+MULTIPLE SCLEROSIS (MS) MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Treatment goals
+   - Speed recovery from relapses.
+   - Reduce relapse rate.
+   - Slow disease progression.
+   - Manage symptoms.
+
+2. Management of acute relapses
+   - High-dose corticosteroids:
+     * Oral prednisone or IV methylprednisolone.
+   - Plasma exchange (plasmapheresis):
+     * For severe, steroid-refractory relapses.
+
+3. Disease-modifying therapies (relapsing forms)
+   3.1 Injectable agents
+       - Interferon beta preparations.
+       - Glatiramer acetate.
+       - Ofatumumab (subcutaneous anti-B-cell).
+   3.2 Oral agents
+       - Teriflunomide.
+       - Dimethyl fumarate, diroximel fumarate, monomethyl fumarate.
+       - S1P modulators: fingolimod, siponimod, ozanimod, ponesimod.
+       - Cladribine (second-line, pulsed courses).
+   3.3 Infusion therapies
+       - Natalizumab.
+       - Ocrelizumab (also for primary-progressive MS).
+       - Ublituximab.
+       - Alemtuzumab (for aggressive or refractory disease).
+
+4. Symptom-directed therapies
+   - Physical/occupational therapy:
+     * Strength, stretch, mobility aids.
+   - Muscle relaxants:
+     * Baclofen, tizanidine, cyclobenzaprine, botulinum toxin.
+   - Fatigue:
+     * Amantadine, modafinil, methylphenidate, selected antidepressants.
+   - Gait:
+     * Dalfampridine to modestly increase walking speed.
+   - Additional meds for:
+     * Depression, pain, bladder/bowel issues, sexual dysfunction, insomnia.
+
+5. Emerging and experimental therapies
+   - BTK inhibitors (B-cell modulation).
+   - Stem cell transplantation to “reset” immune system.
+   - CD40L-targeted therapies.
+   - New phosphodiesterase inhibitors and other immunomodulators.
+
+6. Long-term management
+   - Regular MRI and clinical review.
+   - Adjust DMT according to activity, side effects, and life plans (e.g., pregnancy).

@@ -1,0 +1,23 @@
+CATARACTS TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Non-surgical visual optimization
+   - Frequent refractions and updated glasses/contact lens prescriptions to maintain useful vision.
+   - Use indirect lighting while reading to minimize pupillary constriction and improve near vision.
+   - For small central cataracts in selected cases: long-term pupillary dilation with phenylephrine 2.5% every 4–8 hours (specialist supervised).
+
+2. Indications for cataract surgery
+   - Best corrected visual acuity worse than ~20/40 (6/12) OR
+   - Vision significantly impaired under glare (halos, starbursts) and affecting daily tasks (driving, reading, work, hobbies).
+   - Less common indications:
+     * Cataract causing secondary glaucoma.
+     * Cataract obscuring the fundus when regular fundus exam is needed (e.g., diabetic retinopathy, macular degeneration).
+   - Asymptomatic cataracts alone are NOT an indication for surgery.
+
+3. Surgical management
+   - Surgical removal of the cataractous lens.
+   - Placement of intraocular lens (IOL) in most cases.
+   - Post-op refraction once healing stabilizes to optimize visual correction.
+
+4. Follow-up and long-term care
+   - Monitor visual function and ocular pressure.
+   - Continue disease-specific retinal surveillance where fundus view was previously obscured.

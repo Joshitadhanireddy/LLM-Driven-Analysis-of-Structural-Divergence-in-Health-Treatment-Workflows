@@ -1,0 +1,36 @@
+--- Tetanus Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Tetanus
+
+--- Treatment ---
+
+
+Treatment of adult tetanus was covered in a state-of-the-art review in 2025.
+
+
+--- Mild tetanus ---
+
+
+Mild cases of tetanus can be treated with:
+
+  - Tetanus immunoglobulin(TIG),also calledtetanus antibodiesortetanus antitoxin.It can be given asintravenous therapyor byintramuscular injection.
+  - Antibiotic therapy to reduce toxin production.Metronidazoleintravenous (IV) is a preferred treatment.
+  - Benzodiazepinescan be used to control muscle spasms. Options includediazepamandlorazepam, oral or IV.
+
+
+--- Severe tetanus ---
+
+
+Severe cases will require admission tointensive care. In addition to the measures listed above for mild tetanus:
+
+  - Human tetanus immunoglobulin injectedintrathecally(which increases clinical improvement from 4% to 35%).
+  - Tracheotomyandmechanical ventilationfor 3 to 4 weeks. Tracheotomy is recommended for securing the airway, because the presence of an endotracheal tube is a stimulus for spasm.
+  - Magnesium sulfate, as an intravenous infusion, to control spasm and autonomic dysfunction.
+  - Diazepamas a continuous IV infusion.
+  - Theautonomiceffects of tetanus can be difficult to manage (alternating hyper- andhypotensionhyperpyrexia/hypothermia), and may require IVlabetalol, magnesium,clonidine, ornifedipine.
+
+Drugs, such as diazepam or othermuscle relaxants, can be given to control the muscle spasms. In extreme cases, it may be necessary to paralyze the person withcurare-like drugs, and use a mechanical ventilator.[citation needed]
+
+To survive a tetanus infection, the maintenance of an airway and propernutritionare required. An intake of 3,500 to 4,000 calories (15,000 to 17,000 kJ) and at least 150 g of protein per day is often given in liquid form through a tube directly into the stomach (percutaneous endoscopic gastrostomy), or through a drip into a vein (parenteral nutrition). This high-caloric diet maintenance is required because of the increased metabolic strain brought on by the increased muscle activity. Full recovery takes 4 to 6 weeks because the body must regenerate destroyed nerveaxonterminals.
+
+The antibiotic of choice ismetronidazole. It can be given intravenously, by mouth, or by rectum.Of likewise efficiency ispenicillin, but some raise the concern of provoking spasms because it inhibitsGABA receptor, which is already affected by tetanospasmin.

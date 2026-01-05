@@ -1,0 +1,89 @@
+ATOPIC DERMATITIS (ECZEMA) MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Baseline assessment
+   - Confirm diagnosis of atopic dermatitis (AD) and rule out mimics.
+   - Grade severity (e.g. using SCORAD or EASI).
+   - Identify triggers (irritants, infections, allergens, climate, stress).
+
+2. Core daily skin care (all severities)
+   2.1 Emollient therapy (first-line maintenance)
+       - Liberal, regular application of moisturisers (lotions/creams/gels/ointments).
+       - Tailor formulation to age, body site, season, and preference.
+       - Use as leave-on treatments and soap substitutes.
+       - Note: emollient bath additives provide no additional benefit over leave-on products.
+   2.2 Bathing and clothing
+       - Regular lukewarm baths/showers; consider saltwater baths in some.
+       - Consider dilute bleach baths in moderate–severe AD with recurrent Staph. aureus.
+       - Avoid large-diameter wool and scratchy fibres; use fine merino or smooth fibres.
+       - Silk clothes are safe but do not necessarily improve disease.
+
+3. Topical anti-inflammatory treatment for flares
+   3.1 Topical corticosteroids (first-line for flares)
+       - Choose potency based on site and severity:
+         * Mild–moderate: lower potency; moderate–severe: moderate/strong potency.
+       - Apply once daily (equivalent to twice daily).
+       - Use intermittent high/moderate potency during flares; generally safe and do not
+         cause skin thinning when used intermittently as directed.
+       - For flare prevention: consider “weekend therapy” (twice weekly application).
+   3.2 Topical calcineurin inhibitors
+       - Tacrolimus or pimecrolimus as first-line alternatives or adjuncts, especially
+         for sensitive areas (face, skin folds) or steroid-sparing.
+       - Use for active lesions and as maintenance to reduce flares.
+   3.3 Other topical agents
+       - Crisaborole (PDE-4 inhibitor) for mild-to-moderate disease.
+       - Ruxolitinib (topical JAK inhibitor) – efficacy and safety remain uncertain.
+
+4. Escalation to systemic therapy (moderate–severe, refractory to topical care)
+   4.1 Conventional systemic immunosuppressants
+       - Options: ciclosporin, methotrexate, azathioprine, mycophenolate.
+       - Use when topical regimens are insufficient; monitor for systemic toxicity.
+   4.2 Symptomatic agents
+       - Antihistamines or certain antidepressants may be used to help with itch and sleep.
+   4.3 Biologics and JAK inhibitors
+       - Highly effective but may increase risk of conjunctivitis.
+       - Agents include:
+         * Dupilumab, tralokinumab, lebrikizumab (monoclonal antibodies).
+         * Abrocitinib, baricitinib, upadacitinib (oral JAK inhibitors).
+       - Indicated for moderate–severe AD not controlled by conventional therapy.
+       - Nemolizumab (anti-IL-31 receptor) also approved for AD in some regions.
+
+5. Infection management
+   - Suspect secondary infection when:
+     * Oozing, yellow crusting, worsening eczema, fever.
+   - Typical pathogen: Staphylococcus aureus.
+   - Use systemic or topical antibiotics only when systemic symptoms or clear infection
+     are present, due to limited benefit and antimicrobial resistance risk.
+
+6. Diet and supplements (adjuncts)
+   - Vitamin D: may improve symptoms in some, but role remains unclear.
+   - Omega-3 LCPUFA in pregnancy: no clear benefit in preventing AD in offspring.
+   - Probiotics: multi-strain preparations may reduce AD incidence by ~20%.
+   - Gluten-free diet:
+       - Indicated only for co-existing coeliac disease or non-coeliac gluten sensitivity.
+   - Use IgE or skin prick tests for diet exclusion cautiously; limited evidence supports their use
+     for routine dietary management of AD.
+
+7. Phototherapy
+   - Consider narrowband UVB phototherapy for moderate–severe AD not controlled by topical
+     and systemic treatments.
+   - Weigh benefits against long-term skin cancer risk.
+   - Avoid routine phototherapy in children and young adults where cumulative UV risk is high.
+
+8. Self-management and patient education
+   - Explain chronic, relapsing nature of AD; set realistic expectations (control, not cure).
+   - Provide written action plan:
+     * Daily care regimen.
+     * How to escalate treatment during flares.
+   - Address steroid phobia and treatment concerns explicitly.
+   - Emphasise adherence to moisturisers and topical regimens.
+   - Offer/point to web-based self-management resources when available.
+
+9. Alternative and complementary therapies (generally not recommended)
+   - Chinese herbal medicines (topical or oral): no strong evidence of benefit.
+   - Acupuncture, manual therapies, air ionisers: insufficient evidence of efficacy.
+   - Microbiome-based topical products are under investigation, not standard of care.
+
+10. Follow-up and outcome monitoring
+   - Regularly reassess disease severity (SCORAD/EASI), itch, sleep, and QoL.
+   - Adjust step of therapy up or down according to control and side effects.
+   - Monitor for adverse effects of long-term corticosteroids and systemic agents.

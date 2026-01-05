@@ -1,0 +1,41 @@
+MULTIPLE SCLEROSIS (MS) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Treatment goals
+   - Shorten acute relapses.
+   - Reduce relapse frequency.
+   - Delay disability, preserve ambulation.
+   - Control symptoms and maintain quality of life.
+
+2. Management of relapses
+   - High-dose glucocorticoids for significant relapses (e.g., vision loss, motor deficit):
+     * Oral or IV methylprednisolone (or prednisone) for 3–5 days.
+   - If inadequate response:
+     * Plasma exchange for severe, steroid-refractory relapses.
+     * Consider hematopoietic stem cell transplantation in highly active, treatment-resistant disease.
+
+3. Disease-modifying therapies (DMTs)
+   - Moderately efficacious options:
+     * Injectables: interferon beta-1a, interferon beta-1b, glatiramer acetate.
+     * Orals: teriflunomide, dimethyl/monomethyl/diroximel fumarate, fingolimod, siponimod, ozanimod, ponesimod.
+   - Highly efficacious options:
+     * Monoclonal antibodies: natalizumab, ocrelizumab, ofatumumab, ublituximab, rituximab (off-label), alemtuzumab.
+     * Cladribine (oral).
+   - Growing consensus to use high-efficacy agents early in many patients.
+   - Screen and monitor for PML risk (JCV antibodies, MRI) when using higher-risk agents.
+
+4. Symptom-specific management
+   - Spasticity: baclofen or tizanidine; add botulinum toxin for focal spasticity.
+   - Gait impairment: dalfampridine (ER 4-aminopyridine).
+   - Neuropathic pain: gabapentin/pregabalin; tricyclics or other antiseizure meds as alternatives.
+   - Fatigue: amantadine, modafinil, armodafinil, or ER stimulants.
+   - Bladder dysfunction, constipation, tremor, depression: treat per mechanism and standard guidelines.
+
+5. Rehabilitation and lifestyle
+   - Regular exercise and physical/occupational/speech therapy as needed.
+   - Fall prevention, pressure-ulcer and UTI prevention in debilitated patients.
+   - Vitamin D supplementation targeting adequate serum levels.
+   - Avoid overheating, overexertion, and nicotine; encourage normal activity within limits.
+
+6. Ongoing review
+   - Regular neurological follow-up with MRI and functional assessment.
+   - Adjust or switch DMTs if new relapses, MRI lesions, or disability progression occur.

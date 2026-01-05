@@ -1,0 +1,30 @@
+ACROMEGALY TREATMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Treatment planning
+   - Confirm diagnosis and pituitary tumor characteristics.
+   - Discuss surgery, medications and/or radiation based on tumor size, location, age, comorbidities and symptom severity.
+
+2. First-line: Pituitary tumor surgery
+   - Transsphenoidal surgery through nose and sphenoid sinus.
+   - Goal: remove all GH-secreting tumor tissue.
+   - If only partial removal is possible → plan adjuvant medical and/or radiation therapy.
+
+3. Medical therapy
+   - Use when:
+     * Surgery is not possible or declined.
+     * Residual tumor or persistent hormone excess after surgery.
+     * Pre-op to shrink tumor and make surgery safer in selected cases.
+   - Options (chosen individually):
+     * Somatostatin analogs.
+     * GH receptor antagonists.
+     * Dopamine agonists.
+   - Aim: normalize GH/IGF-1 and improve symptoms; may be long-term in non-curable disease.
+
+4. Radiation therapy
+   - For residual or recurrent tumor and persistent GH excess despite surgery/medication.
+   - Effect on hormone levels is delayed; use along with ongoing medical therapy as needed.
+
+5. Long-term follow-up
+   - Serial GH/IGF-1 levels and pituitary imaging.
+   - Ongoing assessment for symptom control and treatment side effects.
+   - Manage comorbidities such as diabetes, sleep apnea and cardiovascular disease.

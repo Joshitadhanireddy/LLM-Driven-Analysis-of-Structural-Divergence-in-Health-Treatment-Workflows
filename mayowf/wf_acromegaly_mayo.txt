@@ -1,0 +1,42 @@
+ACROMEGALY TREATMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Core treatment goals
+   - Normalize GH and IGF‑1 levels.
+   - Reduce symptoms and prevent long-term complications.
+   - Treat comorbidities: diabetes, sleep apnea, heart disease.
+
+2. First-line: Pituitary tumor surgery
+   - Transsphenoidal surgery through nose and sphenoid sinus.
+   - Best outcomes when tumor is small.
+   - Relieves GH excess and reduces pressure on nearby structures.
+   - If residual tumor or incomplete removal → add medicines or repeat surgery.
+
+3. Medical therapy
+   3.1 Somatostatin analogues
+       - Octreotide, lanreotide, or Mycapssa (oral octreotide).
+       - New (2025): paltusotine (oral small-molecule somatostatin agonist).
+       - Lower GH & IGF‑1; may shrink tumor.
+   3.2 Dopamine agonists
+       - Cabergoline, bromocriptine.
+       - Used when GH/IGF‑1 only mildly elevated.
+   3.3 GH receptor antagonist
+       - Pegvisomant daily injection.
+       - Blocks GH effects; normalizes IGF‑1 but does not shrink tumor.
+
+4. Radiation therapy
+   - Used when surgery incomplete or medications insufficient.
+   - Types:
+       * Stereotactic radiosurgery (Gamma Knife) — precise, single dose.
+       * Proton beam — less pituitary damage risk.
+       * Conventional radiation — small doses for 4–6 weeks; full effect may take years.
+   - Requires lifelong hormone monitoring due to pituitary suppression risk.
+
+5. Prognosis
+   - Life expectancy near normal with modern therapy.
+   - Early treatment + controlled hormone levels → best outcomes.
+   - Bone enlargement often irreversible, but soft tissue swelling improves.
+
+6. Long-term follow-up
+   - Regular GH/IGF‑1 testing.
+   - Periodic MRI for tumor recurrence.
+   - Monitor for pituitary hormone deficiencies, sleep apnea, cardiovascular disease.

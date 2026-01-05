@@ -1,0 +1,27 @@
+--- GERD Treatment Plan (Extracted from Cleveland Clinic) ---
+
+Source URL: https://my.clevelandclinic.org/health/diseases/9617-heartburn-overview
+
+=== Management and Treatment ===
+
+You can treat occasional heartburn at home with over-the-counter (OTC) medications and lifestyle adjustments. But for frequent heartburn, you might need prescription medications. Medications reduce the acid coming out of your stomach into your esophagus. But they don’t fix the original problem with your lower esophageal sphincter. If medications don’t work, you might need additional treatment.
+
+Medications for heartburn include:
+
+  - Antacids . Antacids (like Tums® and Rolaids®) neutralize your stomach acid so that when reflux happens, it isn’t corrosive to your esophagus. They often have ingredients that may treat other symptoms, as well. For example, simethicone can help with gas, and magnesium can help relieve mild constipation. Antacids work great if you have occasional heartburn, but they can have side effects if you take them too often.
+  - Alginates . Alginates are naturally occurring sugars derived from seaweed. They help block acid reflux by floating on top of the acid, creating a physical barrier between the acid and your esophagus. You can get alginates by themselves if you can’t take antacids due to another condition. You can also get antacids that contain alginates to increase their impact.
+  - Histamine receptor antagonists (H2 blockers). These reduce stomach acid by blocking the chemical that tells your body to produce it (histamines). Some H2 blockers are available OTC, and some are by prescription only. You can take them more frequently than antacids, but they don’t always work long-term. If your body adapts to them, they can stop working effectively.
+  - Proton pump inhibitors (PPIs) . These are stronger acid blockers that also promote the healing of the tissues. Your provider may prescribe them as a first-line treatment if your heartburn is relatively severe or you have signs of tissue damage in your esophagus. They’re 90% effective in reducing acid reflux. If you have esophageal ulcers, they’re the only medicine that helps heal them.
+
+Additional treatments for heartburn might include:
+
+  - Antibiotics or antivirals for an infection.
+  - Topical steroids or dupilumab to treat the inflammation itself.
+  - Low-dose neuromodulators and complementary therapies for functional heartburn.
+  - Hernia repair surgery if your heartburn is caused by a hiatal hernia.
+
+For GERD that doesn’t respond to medication — or as an alternative to long-term medication — your provider might suggest a procedure, such as:
+
+  - Nissen fundoplication . This is a minor surgical procedure to tighten the junction between your stomach and your esophagus. It’s very effective in treating GERD and its symptoms.
+  - Transoral incisionless fundoplication . This is the same procedure done nonsurgically, through an endoscope instead.
+  - LINX device . This is another minimally invasive surgery that implants a LINX device, a ring of tiny magnets that help keep the junction between the stomach and esophagus closed to reflux.

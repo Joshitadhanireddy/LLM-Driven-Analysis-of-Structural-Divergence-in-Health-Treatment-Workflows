@@ -1,0 +1,84 @@
+ACROMEGALY TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Confirm indication for treatment
+   - Established diagnosis of acromegaly with elevated GH/IGF-1.
+   - Evaluate tumour size, location, and operability (pituitary vs ectopic).
+
+2. First-line: Pituitary tumour surgery (if feasible)
+   2.1 Choose approach
+       - Prefer endonasal transsphenoidal surgery (less invasive, better tumour access).
+       - Consider traditional transsphenoidal approach via upper gum/septum only if needed.
+   2.2 Perform surgery
+       - Aim: remove as much adenoma as safely possible, relieve pressure on surrounding brain.
+   2.3 Immediate post-op assessment
+       - Monitor for complications: CSF leak, meningitis, hypopituitarism.
+       - Begin hormone replacement if other pituitary hormones are deficient.
+   2.4 Biochemical outcome check
+       - Measure GH/IGF-1:
+         * Ideal: GH < 2 ng/mL after oral glucose load and normal IGF-1.
+       - IF hormone levels normalised → go to Step 6 (long-term follow-up).
+       - IF hormone levels remain elevated or tumour remnant persists → go to Step 3.
+
+3. Medical therapy (if surgery contraindicated, incomplete, or not curative)
+   3.1 Start somatostatin analogue (first-line medical treatment)
+       - Options: octreotide (Sandostatin), lanreotide (Somatuline).
+       - Long-acting depot forms every 2–4 weeks.
+       - Possible roles:
+         * Primary therapy when surgery not possible.
+         * Adjunct/secondary therapy after suboptimal surgery.
+         * Pre-operative tumour shrinkage when needed.
+   3.2 Monitor response and adverse effects
+       - Clinical: headache relief, soft tissue changes, symptom improvement.
+       - Biochemical: GH/IGF-1 levels.
+       - Adverse effects:
+         * GI symptoms: loose stools, nausea, gas.
+         * Gallstones (often asymptomatic).
+         * Possible glucose intolerance/diabetes.
+   3.3 If resistant/inadequate control with standard SSA
+       - Consider second-generation SSA such as pasireotide for aggressive adenomas.
+       - Closely monitor insulin and glucose due to hyperglycaemia risk.
+
+4. Add / switch to adjunct medical options as needed
+   4.1 Dopamine agonist
+       - Indication:
+         * Inadequate response/intolerance to somatostatin analogue.
+         * Tumour co-secretes prolactin.
+       - Agent: cabergoline (oral).
+       - Often used as add-on to SSA to improve control at lower cost.
+       - Monitor adverse effects: GI upset, nausea, orthostatic symptoms, nasal congestion.
+   4.2 Growth hormone receptor antagonist
+       - Indication:
+         * Persistent disease activity despite SSA ± dopamine agonist.
+       - Agent: pegvisomant (Somavert).
+         * Daily subcutaneous injections.
+         * Option: combine long-acting SSA with weekly pegvisomant instead of daily dosing.
+       - Aim: normalise IGF-1 by blocking peripheral GH action even if GH remains elevated.
+
+5. Radiotherapy (adjuvant or salvage)
+   5.1 Indications
+       - Significant tumour remnant after surgery not controlled by meds.
+       - Patients in whom surgery and/or medications are insufficient or not tolerated.
+   5.2 Protocol
+       - Fractionated external-beam radiotherapy over 4–6 weeks.
+       - Expect ~50% GH reduction over 2–5 years, with further improvement over >5 years.
+   5.3 Long-term monitoring for radiotherapy effects
+       - Progressive loss of other pituitary hormones → need for hormone replacement.
+       - Rare complications: visual loss, brain injury.
+
+6. Long-term follow-up and surveillance
+   6.1 Biochemical surveillance
+       - Periodic GH and IGF-1 testing, even after apparent cure.
+       - Watch for recurrence or drift in hormone control.
+   6.2 Imaging surveillance
+       - Periodic pituitary MRI to assess for regrowth or residual tumour.
+   6.3 Management of complications and comorbidities
+       - Screen and treat: diabetes, hypertension, sleep apnoea, arthropathy, cardiovascular risk.
+   6.4 Patient education
+       - Explain chronic nature and need for long-term monitoring.
+       - Discuss signs of recurrence and importance of follow-up visits.
+
+7. Overall treatment goals
+   - Normalise GH and IGF-1 levels.
+   - Remove or control tumour mass.
+   - Prevent or treat complications of therapy (surgery, drugs, radiotherapy).
+   - Restore life expectancy to normal and improve quality of life.

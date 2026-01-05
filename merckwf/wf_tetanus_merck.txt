@@ -1,0 +1,25 @@
+TETANUS TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Core principles
+   - Keep patient in quiet environment.
+   - Maintain ventilation; intubation/mechanical ventilation if needed.  fileciteturn13file3
+
+2. Wound management
+   - Immediate, thorough debridement.
+   - Antibiotics (metronidazole preferred).  fileciteturn13file3
+
+3. Neutralize toxin
+   - TIG 500 units IM; consider local infiltration.
+   - Vaccinate at different site; infection does NOT confer immunity.  fileciteturn13file3
+
+4. Control spasms
+   - Benzodiazepines (diazepam, midazolam).
+   - Neuromuscular blockade (vecuronium) + ventilation if required.
+   - Intrathecal baclofen or dantrolene in refractory cases.  fileciteturn13file3
+
+5. Manage autonomic dysfunction
+   - Morphine, clonidine, esmolol.
+   - Magnesium infusion with monitoring.  fileciteturn13file3
+
+6. Supportive care
+   - Nutrition, bowel/bladder care, chest physiotherapy, turning.  fileciteturn13file3

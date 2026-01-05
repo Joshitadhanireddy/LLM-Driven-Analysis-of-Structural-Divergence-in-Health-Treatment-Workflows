@@ -1,0 +1,26 @@
+TYPE 2 DIABETES MANAGEMENT WORKFLOW (from Merck-based plan)
+
+1. Foundational lifestyle therapy
+   - Diet: whole-food, fiber-rich, low–added sugar.
+   - Exercise: ≥150 min/week aerobic + resistance.
+   - Weight loss emphasized; GLP‑1 agonists/SGLT2 inhibitors preferred for weight benefit.  fileciteturn13file4
+
+2. Pharmacologic therapy
+   - First-line: metformin.
+   - Add-on:
+     * GLP‑1 agonists (effective, weight loss).
+     * SGLT2 inhibitors (renal + cardiovascular benefit).
+     * TZDs, DPP‑4 inhibitors, sulfonylureas.  fileciteturn13file4
+
+3. Insulin indications
+   - A1c >10%, glucose ≥300 mg/dL.
+   - DKA/HHS, weight loss, catabolism.
+   - Pregnancy.  fileciteturn13file4
+
+4. Complication prevention
+   - ACE inhibitors/ARBs, statins.
+   - Foot care: daily inspection, podiatry.
+   - Vaccinations: pneumococcal, influenza, hepatitis B, varicella, SARS‑CoV‑2.  fileciteturn13file4
+
+5. Education
+   - Carb counting, insulin adjustment, recognition of hypo/hyperglycemia.  fileciteturn13file4

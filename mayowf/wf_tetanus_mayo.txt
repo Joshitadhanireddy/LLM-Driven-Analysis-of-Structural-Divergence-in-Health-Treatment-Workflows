@@ -1,0 +1,35 @@
+TETANUS TREATMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Care setting and course
+   - Emergency and ICU-level supportive care.
+   - Disease usually progresses ~2 weeks; recovery ~1 month.
+
+2. Wound care
+   - Thorough cleaning to remove dirt, foreign bodies, and dead tissue.
+   - Reduce bacterial load at infection site.
+
+3. Pharmacologic treatment
+   - Antitoxin (human tetanus immune globulin):
+       * Passive immunization; neutralizes circulating toxin not yet bound to nerves.
+   - Sedatives:
+       * Reduce CNS activity and control muscle spasms.
+   - Vaccination:
+       * Standard tetanus vaccine to stimulate active immunity.
+   - Antibiotics:
+       * Oral or injectable agents to kill Clostridium tetani.
+   - Other drugs:
+       * Agents to stabilize autonomic function (heartbeat, breathing).
+       * Morphine for sedation and additional autonomic control.
+
+4. Supportive therapies
+   - Airway and breathing:
+       * Airway protection and respiratory support (e.g., ventilation as needed).
+   - Nutrition:
+       * Feeding tube into stomach to maintain caloric intake.
+   - Environmental control:
+       * Quiet, low-stimulus setting to minimize spasm triggers.
+
+5. Goals
+   - Maintain life-sustaining functions while toxin effect resolves.
+   - Prevent complications from spasms, autonomic instability, and immobility.
+

@@ -1,0 +1,37 @@
+BENIGN PROSTATIC HYPERPLASIA (BPH) TREATMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Watchful waiting
+   - Use if symptoms are mild and not very bothersome.
+   - Schedule regular follow-up to monitor symptom progression.
+   - Discuss lifestyle changes: reduce evening fluids, alcohol, caffeine; review meds that worsen flow.
+
+2. Medication therapy
+   2.1 Alpha-blockers
+       - Relax prostate and bladder neck muscle to reduce urethral pressure.
+       - Examples: tamsulosin, terazosin, doxazosin, alfuzosin, silodosin.
+   2.2 5-alpha-reductase inhibitors
+       - Decrease DHT production and slow prostate growth.
+       - Most helpful in larger prostates.
+       - Examples: finasteride, dutasteride.
+   2.3 Combination therapy
+       - Combine alpha-blocker + 5-ARI when monotherapy insufficient.
+       - Example: dutasteride + tamsulosin in a single capsule.
+   - Symptom improvement usually appears within 1–8 weeks of starting medication.
+
+3. Surgical options
+   - Indicated for persistent, bothersome symptoms or complications despite medication.
+   - TURP (transurethral resection of the prostate) via resectoscope.
+   - TUIP (transurethral incision of the prostate).
+   - Transurethral electrovaporization.
+   - GreenLight (PVP) laser vaporization.
+   - Aquablation (water-jet ablation) for precisely removing tissue.
+
+4. Minimally invasive treatments
+   - Office-based procedures that are less invasive than surgery and often have faster recovery:
+       * Prostatic urethral lift (UroLift) to mechanically separate lobes.
+       * Rezūm water vapor thermal therapy to shrink tissue.
+   - Typically outpatient with symptom improvement over several weeks.
+
+5. Diet and lifestyle support
+   - Encourage fruits, vegetables and healthy fats (Mediterranean-style pattern).
+   - Limit processed foods, sugars, refined carbohydrates, alcohol, caffeine, dairy, red meat and excess sodium.

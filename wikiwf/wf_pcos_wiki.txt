@@ -1,0 +1,92 @@
+POLYCYSTIC OVARY SYNDROME (PCOS) MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Overall principles
+   - No cure; focus on symptom relief and long-term risk reduction.
+   - Key domains: metabolic health, menstrual regulation, fertility, hirsutism/acne, and mental health.
+   - Lifestyle change is first-line therapy for most.
+
+2. Lifestyle and weight management (first-line)
+   - Goals: prevent weight gain, achieve modest weight loss (>5%), or maintain weight loss.
+   - Diet: any sustainable healthy eating pattern; no single superior diet.
+   - Exercise:
+     * ≥150 min/week moderate intensity to prevent weight gain.
+     * ~250 min/week for weight loss.
+   - Behavioural support:
+     * Goal setting, progress tracking, assertiveness training, relapse prevention.
+     * Use SMART goals and cognitive-behavioural strategies.
+   - Address barriers: disordered eating, poor body image, sleep disorders, low motivation.
+
+3. Metabolic management
+   3.1 Metformin
+       - Indications:
+         * BMI >25 with insulin resistance or dyslipidaemia.
+         * Can be considered for irregular periods (including in adolescents).
+       - Benefits: improved insulin resistance and lipids; some menstrual benefit.
+       - Side effects: abdominal pain, metallic taste, diarrhoea, vomiting.
+   3.2 GLP-1 receptor agonists (e.g., liraglutide, semaglutide)
+       - More potent metabolic improvements than metformin alone.
+       - Combination with metformin is strongest.
+       - Positive effects on menses and androgens in small trials.
+       - NOT recommended when trying to conceive; stop ≥2 months before pregnancy.
+   3.3 Other
+       - Inositol may help metabolic parameters but metformin is preferred for hirsutism and abdominal fat.
+
+4. Menstrual irregularity and androgen excess (hirsutism, acne)
+   4.1 Combined oral contraceptives (COCs)
+       - First-line for menstrual regulation and androgen symptoms.
+       - Mechanism: ↑ sex hormone–binding globulin, ↓ androgens.
+       - Reduces endometrial cancer risk via regular shedding.
+       - Progestogen-only pills regulate menses but do NOT treat androgen excess.
+   4.2 Anti-androgens
+       - Options: spironolactone, flutamide, finasteride.
+       - Use when COCs are contraindicated or insufficient.
+       - Combine with COCs for androgenic alopecia or severe hirsutism.
+       - Finasteride is contraindicated in pregnancy (teratogenic).
+   4.3 Hair and skin-directed therapies
+       - Laser hair removal, shaving, topical acne therapies adjunctive to hormonal control.
+
+5. Infertility management in PCOS
+   5.1 Preconception optimisation
+       - Lifestyle and weight reduction as first step.
+       - GLP-1 agonists may be used for weight loss but must be stopped before conception.
+   5.2 Ovulation induction (from most to less effective)
+       - First-line: letrozole (higher pregnancy and live birth rates than clomiphene).
+       - Next options:
+         * Metformin + clomiphene.
+         * Clomiphene alone.
+         * Metformin alone (least effective, more GI side effects).
+       - Gonadotrophin therapy effective but high risk of multiple pregnancy; requires monitoring.
+   5.3 Surgical options
+       - Laparoscopic ovarian drilling:
+         * Puncture of 4–10 follicles using electrocautery/laser/biopsy needle.
+         * Can induce ovulation and favour single pregnancy.
+         * Higher risks and possibly lower live birth rate vs. medical treatment.
+       - Ovarian wedge resection: largely obsolete due to adhesion risk and effective medicines.
+   5.4 Assisted reproduction
+       - IVF for refractory cases:
+         * Higher risk of ovarian hyperstimulation syndrome (OHSS).
+         * “Freeze-all” strategy with single embryo transfer reduces OHSS risk.
+       - In vitro maturation as a safer but less effective alternative to full IVF.
+
+6. Mental health and psychosocial care
+   - Screen for:
+     * Depression and anxiety (at diagnosis and follow-up as clinically indicated).
+     * Eating disorders and body image distress (when suspected).
+     * Psychosexual dysfunction in consenting sexually active women.
+   - Treat mood disorders with standard therapies (psychotherapy, antidepressants).
+   - Cognitive behavioural therapy for low self-esteem, body image concerns, disordered eating, and sexual dysfunction.
+
+7. Long-term cardiometabolic risk screening
+   - Glucose tolerance:
+     * Two-hour oral glucose tolerance test at diagnosis.
+     * Repeat every 1–3 years based on risk factors.
+   - Cardiovascular risk:
+     * Periodic lipid profile.
+     * Annual blood pressure measurement.
+   - Provide ongoing counselling about lifestyle, pregnancy risks, and long-term follow-up needs.
+
+8. Overall goals
+   - Restore or maintain menstrual regularity and fertility as desired.
+   - Improve metabolic health and reduce diabetes/cardiovascular risk.
+   - Control hirsutism and acne to improve self-esteem and quality of life.
+   - Support emotional wellbeing and long-term self-management.

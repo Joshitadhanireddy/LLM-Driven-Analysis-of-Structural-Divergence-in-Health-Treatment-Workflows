@@ -1,0 +1,62 @@
+ASTHMA MANAGEMENT WORKFLOW (from WebMD-based plan)
+
+1. Core strategy
+   - Combine short-term relief with long-term control.
+   - Build an asthma action plan and know when to call the doctor or seek emergency care.
+
+2. Quick-relief (rescue) treatment
+   2.1 Short-acting beta-agonists (first choice)
+       - Albuterol, levalbuterol, epinephrine inhalers.
+       - Use for acute symptoms; if needed >2 days/week → reassess control.
+   2.2 Anticholinergic bronchodilators
+       - Ipratropium; reduces mucus and opens airways.
+   2.3 Oral corticosteroids
+       - Prednisone, methylprednisolone for severe attacks or flares.
+   2.4 Combination quick-relief inhalers
+       - SABA + anticholinergic in a single device.
+
+3. Long-term preventive treatment
+   3.1 Inhaled corticosteroids (ICS) – cornerstone
+       - Beclomethasone, budesonide, ciclesonide, fluticasone, mometasone.
+   3.2 Inhaled long-acting beta-agonists (LABA)
+       - Formoterol, salmeterol, vilanterol – always with ICS, not alone.
+   3.3 Combination ICS/LABA (± LAMA) inhalers
+       - Advair, Breo, Dulera, Symbicort, Trelegy Ellipta.
+   3.4 Biologic therapies (severe asthma)
+       - Omalizumab, mepolizumab, reslizumab, benralizumab, dupilumab, tezepelumab.
+   3.5 Leukotriene modifiers
+       - Montelukast, zafirlukast, zileuton (oral).
+   3.6 Cromolyn
+       - Non-steroidal inhaler; prevents trigger-induced swelling.
+   3.7 Theophylline
+       - Oral bronchodilator; less commonly used.
+   3.8 Long-acting bronchodilators (e.g., tiotropium)
+       - Add-on with ICS for persistent symptoms.
+   3.9 Systemic corticosteroids
+       - Short courses when other therapies fail to control attacks.
+
+4. Medication delivery
+   - Inhalers:
+     * Metered-dose inhalers (aerosol) or dry powder inhalers.
+   - Nebulizer:
+     * Turns liquid meds into mist; used for young children, older adults, or those who can’t use inhalers well.
+
+5. Non-drug interventions
+   - Breathing exercises to reduce medication needs.
+   - Asthma action plan with “green/yellow/red” zones:
+     * Green – controlled; use regular meds.
+     * Yellow – worsening; adjust meds per plan.
+     * Red – severe; urgent treatment and emergency steps.
+
+6. Trigger control
+   - Identify and reduce exposure to:
+     * Pet dander, dust mites, pollen, molds, tobacco smoke, cockroaches, cold air, indoor mold.
+   - Use allergen-proof covers, hot-water washing, pest control, and smoke-free environments.
+
+7. Allergy-driven asthma
+   - Omalizumab (Xolair) for IgE-mediated asthma.
+   - Immunotherapy (allergy shots or sublingual drops) to build tolerance over time.
+
+8. Follow-up
+   - Review control level, inhaler technique, adherence, triggers, and side effects regularly.
+   - Adjust therapy step-up or step-down according to symptoms and rescue use.

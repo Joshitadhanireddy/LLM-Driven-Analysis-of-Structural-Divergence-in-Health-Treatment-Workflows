@@ -1,0 +1,56 @@
+TYPE 2 DIABETES MANAGEMENT WORKFLOW (from WebMD-based plan)
+
+1. Treatment team & goals
+   - Build team: primary doctor, endocrinologist, dietitian, eye doctor, foot doctor.
+   - Goals: keep glucose in target range, prevent complications, support lifestyle change.
+
+2. Glucose monitoring
+   - Self-monitoring with glucometer multiple times per day as advised.
+   - Consider continuous glucose monitoring (CGM) for frequent readings and pattern tracking.
+
+3. Core lifestyle therapy
+   3.1 Medical nutrition therapy
+       - Balanced diet: controlled carbohydrates, lean proteins, healthy fats.
+       - Emphasize nonstarchy vegetables, whole grains, fruits, legumes, low‑fat dairy, nuts.
+       - Limit saturated fat (<7%) and avoid trans fats.
+       - Prefer minimally processed, low‑glycemic foods.
+       - Use meal planning and carb counting; often 3 small meals + 3–4 snacks daily.
+   3.2 Exercise
+       - Aim for ≥150 minutes/week of moderate aerobic activity + ≥2 strength sessions.
+       - Start gradually; monitor for hypoglycemia and snack if needed.
+       - Incorporate daily movement (stairs, walking, etc.).
+   3.3 Lifestyle support
+       - Wear medical ID for diabetes.
+       - Quit smoking; limit alcohol (1 drink/day women, 2 men).
+       - Manage stress (exercise, relaxation, counseling).
+       - Keep logs of glucose, food, exercise, stress, and illness.
+
+4. Medications for type 2 diabetes
+   - Tailor regimen to glucose patterns, weight, comorbidities.
+   4.1 Oral / non‑insulin agents
+       - Insulin secretagogues: sulfonylureas (e.g., glipizide, glyburide), meglitinides.
+       - Alpha‑glucosidase inhibitors: acarbose, miglitol (slow carb absorption).
+       - Thiazolidinediones: pioglitazone, rosiglitazone (improve insulin sensitivity).
+       - Metformin: lowers hepatic glucose production and insulin resistance; promotes weight loss.
+       - Incretin‑based: GLP‑1 agonists and DPP‑4 inhibitors (e.g., exenatide, liraglutide, sitagliptin, semaglutide, tirzepatide).
+       - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin (increase urinary glucose excretion; CV & HF benefits).
+       - Pramlintide: injectable synthetic hormone to reduce post‑meal glucose.
+       - Fixed‑dose combination pills for multi‑mechanism control.
+   4.2 Insulin therapy
+       - Add if lifestyle + pills insufficient.
+       - Types: rapid, short, intermediate, long, and ultra‑long acting; premixed formulations.
+       - May use basal‑bolus regimen or insulin pump.
+       - Adjust doses using home glucose data.
+
+5. Additional risk‑factor management
+   - Blood pressure, lipids, and kidney protection medications.
+   - Dental care and foot care to prevent gum disease and ulcers.
+
+6. Alternative & adjunctive approaches (not stand‑alone)
+   - Selected vitamins/minerals (vitamin C, E, magnesium, B6/B12 if deficient) under medical supervision.
+   - Mind–body techniques (guided imagery, meditation, yoga, biofeedback) to reduce stress.
+   - Some topical/herbal options for neuropathic pain (e.g., capsaicin cream) with caution.
+
+7. Long‑term follow‑up
+   - Regular visits to monitor A1c, complications, weight, and treatment adherence.
+   - Adjust diet, exercise, and medications as life circumstances change.

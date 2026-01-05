@@ -1,0 +1,31 @@
+--- Hearing Loss Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Presbycusis
+
+--- Treatment ---
+
+
+At present, presbycusis, being primarily sensorineural in nature, cannot be prevented, ameliorated or cured.  Treatment options fall into three categories: pharmacological, surgical and management.
+
+  - There are no approved or recommended pharmaceutical treatments for presbycusis.
+
+
+--- Cochlear implant ---
+
+
+In cases of severe or profound hearing loss, a surgicalcochlear implantis possible. This is an electronic device that replaces the cochlea of the inner ear.  The implant has two main components. The outside component is generally worn behind the ear. This component, the sound processor, contains microphones, electronics that includedigital signal processor(DSP) chips, battery, and a coil that transmits a signal to the implant across the skin. The inside component, the actual implant, has a coil to receive signals, electronics, and an array ofelectrodeswhich is placed into thecochlea, which stimulate thecochlear nerve.
+
+Electrodes are typically inserted through theround windowof the cochlea, into the fluid-filled scala tympani. They stimulate the peripheral axons of the primary auditory neurons, which then send information to the brain via theauditory nerve. The cochlea is tonotopically mapped in a spiral fashion, with lower frequencies localizing at the apex of the cochlea, and high frequencies at the base of the cochlea, near the oval and round windows. With age, comes a loss in distinction of frequencies, especially higher ones. The electrodes of the implant are designed to stimulate the array of nerve fibers that previously responded to different frequencies accurately. Due to spatial constraints, the cochlear implant may not be inserted all the way into the cochlear apex. It provides a different kind of sound spectrum than natural hearing, but may enable the recipient to recognize speech and environmental sounds.
+
+
+--- Middle ear implants ---
+
+
+These are surgically implanted hearing aids inserted onto the middle ear. These aids work by directly vibrating the ossicles, and are cosmetically favorable due to their hidden nature.
+
+
+--- Management ---
+
+
+  - Hearing aids help improve hearing of many elderly.  Hearing aids can now be tuned to specific frequency ranges of hearing loss.
+  - Aural rehabilitationfor the affected person and their communication partners may reduce the impact on communication. Techniques such as squarely facing the affected person, enunciating, ensuring adequate light, minimizing noise in the environment, and using contextual cues are used to improve comprehension.

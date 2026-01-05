@@ -1,0 +1,283 @@
+--- Multiple Sclerosis Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/neurologic-disorders/demyelinating-disorders/multiple-sclerosis-ms?query=multiple%20sclerosis#Treatment_v1045158
+
+=== Treatment of Multiple Sclerosis ===
+
+  - Glucocorticoids for acute exacerbations
+
+  - Disease-modifying therapies (DMTs) to prevent exacerbations and delay eventual disability
+
+  - Rehabilitative care and symptom management
+
+Disease-modifying therapies (DMTs) to prevent exacerbations and delay eventual disability
+
+Goals for treatment of multiple sclerosis include the following:
+
+  - Shortening acute exacerbations
+
+  - Decreasing frequency of exacerbations
+
+  - Relieving symptoms
+
+  - Delaying disability, particularly maintaining the patient’s ability to walk
+
+Delaying disability, particularly maintaining the patient’s ability to walk
+
+
+--- Treatment of exacerbations and relapses ---
+
+
+Glucocorticoids, given orally or intravenously in brief courses (3 to 5 days), are used to treat acute onset of symptoms or exacerbations that cause objective deficits sufficient to impair function (eg, loss of vision, strength, or coordination). Glucocorticoids may be given orally ( methylprednisolone or prednisone ) or intravenously ( methylprednisolone ). Some data indicate that oral or IV methylprednisolone have similar efficacy ( Glucocorticoids, given orally or intravenously in brief courses (3 to 5 days), are used to treat acute onset of symptoms or exacerbations that cause objective deficits sufficient to impair function (eg, loss of vision, strength, or coordination). Glucocorticoids may be given orally (methylprednisolone or prednisone) or intravenously (methylprednisolone). Some data indicate that oral or IV methylprednisolone have similar efficacy ( 1, 2 ).
+
+Short courses of high-dose glucocorticoids, oral or intravenous, may shorten acute exacerbations, temporarily slow progression, and improve MRI measures of disease. However, glucocorticoids have not been shown to delay the progression of long-term disability in patients with MS ( 3 ).
+
+If glucocorticoids are ineffective in reducing the severity of an exacerbation, plasma exchange may be used ( 4 ). Plasma exchange can be used for any relapsing form of MS (relapsing-remitting, progressive relapsing, secondary progressive), but is not used for primary progressive MS.
+
+Plasma exchange and hematopoietic stem cell transplantation ( 5 ) may be useful for severe, intractable disease.
+
+
+--- Disease-modifying therapies ---
+
+
+Disease-modifying therapies (DMTs) target and control the immune system, to prevent exacerbations and delay eventual disability. There are comprehensive practice guidelines for using DMTs ( 6, 7 ). For additional information on DMTs, see Practice guideline recommendations summary: Disease-modifying therapies for adults with multiple sclerosis (American Academy of Neurology 2018, reaffirmed 2024) , the National Multiple Sclerosis Society website , and updated guidelines on the use of high-efficacy therapies ( 8–11 ).
+
+Disease-modifying therapies that treat relapsing remitting MS have been categorized as either moderately efficacious or highly efficacious based on their ability to reduce relapse rate, new MRI lesions, and disability:
+
+  - Moderately efficacious: interferon beta 1a, interferon beta 1b, glatiramer acetate, teriflunomide , dimethyl fumurate, monomethyl fumurate, diroximel fumarate , fingolimod , siponimod , ozanimod , ponesimod interferon beta 1a, interferon beta 1b, glatiramer acetate, teriflunomide, dimethyl fumurate, monomethyl fumurate, diroximel fumarate, fingolimod, siponimod, ozanimod, ponesimod
+
+  - Highly efficacious: natalizumab , rituximab , ocrelizumab , ofatumumab , ublituximab , cladribine , and alemtuzumab . Some experts also include fingolimod , siponimod , ozanimod , ponesimod in this category. natalizumab, rituximab, ocrelizumab, ofatumumab, ublituximab, cladribine, and alemtuzumab. Some experts also include fingolimod, siponimod, ozanimod, ponesimod in this category.
+
+Moderately efficacious: interferon beta 1a, interferon beta 1b, glatiramer acetate, teriflunomide , dimethyl fumurate, monomethyl fumurate, diroximel fumarate , fingolimod , siponimod , ozanimod , ponesimod interferon beta 1a, interferon beta 1b, glatiramer acetate, teriflunomide, dimethyl fumurate, monomethyl fumurate, diroximel fumarate, fingolimod, siponimod, ozanimod, ponesimod
+
+Highly efficacious: natalizumab , rituximab , ocrelizumab , ofatumumab , ublituximab , cladribine , and alemtuzumab . Some experts also include fingolimod , siponimod , ozanimod , ponesimod in this category. natalizumab, rituximab, ocrelizumab, ofatumumab, ublituximab, cladribine, and alemtuzumab. Some experts also include fingolimod, siponimod, ozanimod, ponesimod in this category.
+
+Many of the DMTs are also approved for clinically isolated syndrome and active secondary progressive MS.
+
+The following moderately efficacious disease-modifying therapies are injectable and self-administered:
+
+  - Interferon beta-1a 
+
+  - Interferon beta-1b 
+
+  - Glatiramer acetate 
+
+The following oral immunomodulatory medications, grouped by efficacy, can be used to treat relapsing forms of MS, including active secondary MS (patients transitioning from relapsing remitting MS into secondary progressive MS, but still showing active disease).
+
+  - Teriflunomide 
+
+  - Dimethyl fumarate 
+
+  - Monomethyl fumarate 
+
+  - Diroximel fumarate Moderate efficacy (though some consider high efficacy):
+
+  - Fingolimod 
+
+  - Siponimod 
+
+  - Ozanimod 
+
+  - Ponesimod High efficacy:
+
+  - Cladribine 
+
+Moderate efficacy (though some consider high efficacy):
+
+There is growing consensus regarding using high-efficacy therapies as first line when initiating treatment. If a patient is already on a disease-modifying therapy, many experts continue this treatment (even if not identified as "high efficacy") until there is evidence of disease worsening, such as a new relapse, new MRI lesion, or worsening disability. Treatment plans, including when to initiate disease-modifying therapy, are best decided with patient education and shared decision making between patients and physicians. If one medication is ineffective, a different one can be tried. Treatments should be tailored to the patient and managed by MS specialists.
+
+Since monoclonal antibodies for MS treatment have become available, the immunosuppressant mitoxantrone is used less often but may still be helpful, particularly for progressive MS that is refractory to other treatments. Since monoclonal antibodies for MS treatment have become available, the immunosuppressant mitoxantrone is used less often but may still be helpful, particularly for progressive MS that is refractory to other treatments.
+
+Natalizumab , an anti–alpha-4 integrin antibody, inhibits passage of leukocytes across the blood-brain barrier; given as a monthly infusion, it reduces number of exacerbations and new brain lesions but may increase the risk of Natalizumab, an anti–alpha-4 integrin antibody, inhibits passage of leukocytes across the blood-brain barrier; given as a monthly infusion, it reduces number of exacerbations and new brain lesions but may increase the risk of progressive multifocal leukoencephalopathy (PML). Symptoms of PML include aphasia, change in mental status, hemianopia, and ataxia.
+
+Medications that increase the risk of PML include the following (in descending order of risk):
+
+  - Natalizumab 
+
+  - Fingolimod 
+
+  - Siponimod 
+
+  - Rituximab 
+
+  - Ocrelizumab 
+
+  - Ofatumumab 
+
+  - Rarely, dimethyl fumarate 
+
+Rarely, dimethyl fumarate Rarely, dimethyl fumarate
+
+Consultation with a neurologist with training in MS is highly recommended before using any of these medications. Prior to starting disease-modifying therapies, blood tests should be done to check for antibodies to JC virus (Jakob-Creutzfeldt virus, JCV), which causes PML. Based on the results, one of the following is done:
+
+  - If results are positive, patients should be counseled about the risk of PML.
+
+  - If results are negative, antibody tests should be done every 6 months as long as any of these medications is used; seroconversion is common.
+
+  - If test results become positive, patients should be counseled again about the risk, and clinicians should consider switching to a medication without PML risk.
+
+If results are positive, patients should be counseled about the risk of PML.
+
+If results are negative, antibody tests should be done every 6 months as long as any of these medications is used; seroconversion is common.
+
+If test results become positive, patients should be counseled again about the risk, and clinicians should consider switching to a medication without PML risk.
+
+If the high-risk medication is continued, MRI of the brain should be done about every 6 months.
+
+Development of PML symptoms requires immediate brain MRI, with and without gadolinium. MRI can often distinguish PML from MS. After MRI, a lumbar puncture should be done, and cerebrospinal fluid should be tested for JCV DNA by polymerase chain reaction (PCR). A positive result indicates PML, and emergency consultation with a neurologist and an infectious disease specialist is needed. If patients with a positive result have taken natalizumab , should be done, and cerebrospinal fluid should be tested for JCV DNA by polymerase chain reaction (PCR). A positive result indicates PML, and emergency consultation with a neurologist and an infectious disease specialist is needed. If patients with a positive result have taken natalizumab, plasma exchange can be done to remove the medication quickly, and if immune reconstitution inflammatory syndrome (IRIS) develops, glucocorticoids are given.
+
+
+--- Pearls & Pitfalls ---
+
+
+  - If altered consciousness, aphasia, hemianopia, or ataxia develops in a patient taking natalizumab , rituximab , or fingolimod , perform an immediate brain MRI, followed by lumbar puncture, to check for PML. If altered consciousness, aphasia, hemianopia, or ataxia develops in a patient taking natalizumab, rituximab, or fingolimod, perform an immediate brain MRI, followed by lumbar puncture, to check for PML.
+
+If altered consciousness, aphasia, hemianopia, or ataxia develops in a patient taking natalizumab , rituximab , or fingolimod , perform an immediate brain MRI, followed by lumbar puncture, to check for PML. If altered consciousness, aphasia, hemianopia, or ataxia develops in a patient taking natalizumab, rituximab, or fingolimod, perform an immediate brain MRI, followed by lumbar puncture, to check for PML.
+
+Alemtuzumab , an anti-CD52 humanized monoclonal antibody given IV, is effective in the treatment of MS but it increases risk of autoimmune disorders, serious infusion reactions, and certain cancers ( Alemtuzumab, an anti-CD52 humanized monoclonal antibody given IV, is effective in the treatment of MS but it increases risk of autoimmune disorders, serious infusion reactions, and certain cancers ( 12 ). Alemtuzumab is usually used only when treatment with ≥ 2 other medications has been ineffective. ). Alemtuzumab is usually used only when treatment with ≥ 2 other medications has been ineffective.
+
+Cladribine may be an appropriate treatment for relapsing MS that is highly active. Cladribine is given orally in 2 yearly treatment courses. Lymphocyte counts should be monitored before, during, and after treatment, and patients should be closely monitored for adverse effects related to immunosupression. Cladribine may be an appropriate treatment for relapsing MS that is highly active. Cladribine is given orally in 2 yearly treatment courses. Lymphocyte counts should be monitored before, during, and after treatment, and patients should be closely monitored for adverse effects related to immunosupression.
+
+Ocrelizumab , an anti-CD20 (B-cell) humanized monoclonal antibody given as an infusion every 6 months, is also effective in the treatment of relapsing MS ( Ocrelizumab, an anti-CD20 (B-cell) humanized monoclonal antibody given as an infusion every 6 months, is also effective in the treatment of relapsing MS ( 13 ). Ocrelizumab can also be used to treat primary progressive MS, typically in ambulatory patients. ). Ocrelizumab can also be used to treat primary progressive MS, typically in ambulatory patients.
+
+Ofatumumab , also an anti-CD20 (B-cell) humanized monoclonal antibody, is used to treat relapsing forms of MS, including clinically isolated syndrome and active secondary progressive disease. It is given by subcutaneous injection (self-administered [ Ofatumumab, also an anti-CD20 (B-cell) humanized monoclonal antibody, is used to treat relapsing forms of MS, including clinically isolated syndrome and active secondary progressive disease. It is given by subcutaneous injection (self-administered ).
+
+Ublituximab , an anti-CD20 (B-cell) chimeric monoclonal antibody is also used to treat relapsing forms of MS, including clinically isolated syndrome, and active secondary progressive disease. It is given as an IV infusion. Ublituximab, an anti-CD20 (B-cell) chimeric monoclonal antibody is also used to treat relapsing forms of MS, including clinically isolated syndrome, and active secondary progressive disease. It is given as an IV infusion.
+
+Rituximab , an anti-CD20 (B-cell) (used off label for MS in the United States) is also more effective than glatiramer and the interferons ( Rituximab, an anti-CD20 (B-cell) (used off label for MS in the United States) is also more effective than glatiramer and the interferons ( 15 ); it is commonly used throughout Europe and Canada because it is much less expensive than ocrelizumab . ); it is commonly used throughout Europe and Canada because it is much less expensive than ocrelizumab.
+
+Immunosuppressants other than mitoxantrone (eg, methotrexate , azathioprine , mycophenolate , cyclophosphamide , cladribine ) have been used for more severe, progressive MS but are controversial. Immunosuppressants other than mitoxantrone (eg, methotrexate, azathioprine, mycophenolate, cyclophosphamide, cladribine) have been used for more severe, progressive MS but are controversial.
+
+
+--- Rehabilitative care and symptom management ---
+
+
+Patients with multiple sclerosis are helped by encouragement and reassurance from their care providers.
+
+Physical, occupational, and speech therapists should be consulted as needed and be integrated into the care plan of an individual patient. Regular exercise (eg, stationary biking, treadmill, swimming, stretching, balance exercises), with or without physical therapy, is recommended, even for patients with advanced MS. Exercise conditions the heart and muscles, reduces spasticity, prevents contractures and falls, and has psychological benefits.
+
+Vitamin D supplements (eg, 600 to 4000 IU/day to achieve blood levels of 20 to 50 ng/mL [50 to 125 nmol/L]) are generally recommended based on mixed evidence that they may delay the risk of disease progression; however, this effect has not been consistently shown in clinical trials ( Vitamin D supplements (eg, 600 to 4000 IU/day to achieve blood levels of 20 to 50 ng/mL [50 to 125 nmol/L]) are generally recommended based on mixed evidence that they may delay the risk of disease progression; however, this effect has not been consistently shown in clinical trials ( 16–18 ). Serum vitamin D levels should be monitored to make sure that dosing is adequate. Vitamin D also reduces the risk of osteoporosis, particularly in patients at increased risk because of decreased mobility or glucocorticoid therapy. levels should be monitored to make sure that dosing is adequate. Vitamin D also reduces the risk of osteoporosis, particularly in patients at increased risk because of decreased mobility or glucocorticoid therapy.
+
+Patients should maintain as normal and active a life as possible but should avoid overwork, fatigue, and exposure to excess heat. Cigarette smoking or other nicotine ingestions should be stopped. Patients should maintain as normal and active a life as possible but should avoid overwork, fatigue, and exposure to excess heat. Cigarette smoking or other nicotine ingestions should be stopped.
+
+Vaccination does not appear to increase risk of exacerbations.
+
+Debilitated patients require measures to prevent pressure ulcers and urinary tract infections ; intermittent urinary self-catheterization may be necessary.
+
+
+--- Symptom control ---
+
+
+Other treatments can be used to control specific symptoms:
+
+  - Spasticity is treated with escalating doses of baclofen or tizanidine . Injectable botulinum toxin in spastic muscles is used if oral therapies are ineffective ( is treated with escalating doses of baclofen or tizanidine. Injectable botulinum toxin in spastic muscles is used if oral therapies are ineffective ( 19 ). Gait training and range-of-motion exercises can help weak, spastic limbs.
+
+  - Problems with gait may be treated with extended-release 4-aminopyridine ( dalfampridine ). may be treated with extended-release 4-aminopyridine (dalfampridine).
+
+  - Painful paresthesias are usually treated with gabapentin or pregabalin . Alternatives include tricyclic antidepressants ( amitriptyline or desipramine ), carbamazepine or other antiseizure medications, and opioids. are usually treated with gabapentin or pregabalin. Alternatives include tricyclic antidepressants (amitriptyline or desipramine), carbamazepine or other antiseizure medications, and opioids.
+
+  - Depression is treated with counseling and antidepressants .
+
+  - Bladder dysfunction is treated based on its underlying mechanism.
+
+  - Constipation may be treated with stool softeners or laxatives, taken regularly.
+
+  - Fatigue can be treated with amantadine , modafinil , armodafinil , or extended-release amphetamine . can be treated with amantadine, modafinil, armodafinil, or extended-release amphetamine.
+
+  - Tremor: Tremor associated with multiple sclerosis is difficult to treat. Empiric therapy with clonazepam or gabapentin may help. In severe cases, injecting botulinum toxin into symptomatic muscles may help ( Tremor associated with multiple sclerosis is difficult to treat. Empiric therapy with clonazepam or gabapentin may help. In severe cases, injecting botulinum toxin into symptomatic muscles may help ( 20 ).
+
+Spasticity is treated with escalating doses of baclofen or tizanidine . Injectable botulinum toxin in spastic muscles is used if oral therapies are ineffective ( is treated with escalating doses of baclofen or tizanidine. Injectable botulinum toxin in spastic muscles is used if oral therapies are ineffective ( 19 ). Gait training and range-of-motion exercises can help weak, spastic limbs.
+
+Problems with gait may be treated with extended-release 4-aminopyridine ( dalfampridine ). may be treated with extended-release 4-aminopyridine (dalfampridine).
+
+Painful paresthesias are usually treated with gabapentin or pregabalin . Alternatives include tricyclic antidepressants ( amitriptyline or desipramine ), carbamazepine or other antiseizure medications, and opioids. are usually treated with gabapentin or pregabalin. Alternatives include tricyclic antidepressants (amitriptyline or desipramine), carbamazepine or other antiseizure medications, and opioids.
+
+Depression is treated with counseling and antidepressants .
+
+Bladder dysfunction is treated based on its underlying mechanism.
+
+Constipation may be treated with stool softeners or laxatives, taken regularly.
+
+Fatigue can be treated with amantadine , modafinil , armodafinil , or extended-release amphetamine . can be treated with amantadine, modafinil, armodafinil, or extended-release amphetamine.
+
+Tremor: Tremor associated with multiple sclerosis is difficult to treat. Empiric therapy with clonazepam or gabapentin may help. In severe cases, injecting botulinum toxin into symptomatic muscles may help ( Tremor associated with multiple sclerosis is difficult to treat. Empiric therapy with clonazepam or gabapentin may help. In severe cases, injecting botulinum toxin into symptomatic muscles may help ( 20 ).
+
+  - 1. Le Page E, Veillard D, Laplaud DA, et al . Oral versus intravenous high-dose methylprednisolone for treatment of relapses in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, double-blind, non-inferiority trial. . Oral versus intravenous high-dose methylprednisolone for treatment of relapses in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, double-blind, non-inferiority trial. Lancet. 386 (9997):974–981, 2015. doi: 10.1016/S0140-6736(15)61137-0
+
+  - 2. Burton JM, O'Connor PW, Hohol M, Beyene J . Oral versus intravenous steroids for treatment of relapses in multiple sclerosis. Cochrane Database Syst Rev. 12:CD006921, 2012. doi: 10.1002/14651858.CD006921.pub3
+
+  - 3. Ciccone A, Beretta S, Brusaferri F, Galea I, Protti A, Spreafico C . Corticosteroids for the long-term treatment in multiple sclerosis. Cochrane Database Syst Rev. 2008;(1):CD006264. Published 2008 Jan 23. doi:10.1002/14651858.CD006264.pub2
+
+  - 4. Tumani H . Corticosteroids and plasma exchange in multiple sclerosis. J Neurol. 2008;255 Suppl 6:36-42. doi:10.1007/s00415-008-6007-9
+
+  - 5. Burt RK, Balabanov R, Burman J, et al. Effect of Nonmyeloablative Hematopoietic Stem Cell Transplantation vs Continued Disease-Modifying Therapy on Disease Progression in Patients With Relapsing-Remitting Multiple Sclerosis: A Randomized Clinical Trial. JAMA. 2019;321(2):165-174. doi:10.1001/jama.2018.18743
+
+  - 6. Rae-Grant A, Day GS, Ruth Ann Marrie RA, et al . Practice guideline recommendations summary: Disease-modifying therapies for adults with multiple sclerosis: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology. 90 (17):777–788, 2018. doi: 10.1212/WNL.0000000000005347. Correction: Neurology. 92(2):112, 2019.
+
+  - 7. National Multiple Sclerosis Society . Disease-Modifying Therapies. Accessed July 7, 2025.
+
+  - 8. Filippi M, Amato MP, Centonze D, et al . Early use of high-efficacy disease-modifying therapies makes the difference in people with multiple sclerosis: an expert opinion. J Neurol. 2022;269:5382-5394.
+
+  - 9. Buron MD, Chalmer TA, Sellebjerg F, et al . Initial high-efficacy disease-modifying therapy in multiple sclerosis: A nationwide cohort study. Neurology. 2020;95(8):e1041-e1051. doi:10.1212/WNL.0000000000010135
+
+  - 10. Freedman MS, Clift F, Devonshire V, et al . First-Line Use of Higher-Efficacy Disease-Modifying Therapies in Multiple Sclerosis: Canadian Consensus Recommendations. Can J Neurol Sci. Published online June 9, 2025. doi:10.1017/cjn.2025.10342
+
+  - 1 . Freeman L, Longbrake EE, Coyle PK, et al . High-efficacy therapies for treatment-naive individuals with relapsing-remitting multiple sclerosis. CNS Drugs. 2022;36;1285–1299.
+
+  - 12. Coles AJ, Achiron A, Traboulsee A, et al . Safety and efficacy with alemtuzumab over 13 years in relapsing-remitting multiple sclerosis: final results from the open-label TOPAZ study. . Safety and efficacy with alemtuzumab over 13 years in relapsing-remitting multiple sclerosis: final results from the open-label TOPAZ study. Ther Adv Neurol Disord. 2023;16:17562864231194823. Published 2023 Sep 21. doi:10.1177/17562864231194823
+
+  - 13. Hauser SL, Bar-Or A, Comi G, et al . Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis. . Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis. N Engl J Med. 2017;376(3):221-234. doi:10.1056/NEJMoa1601277
+
+  - 14. Hauser SL, Bar-Or A, Cohen JA, et al . Ofatumumab versus teriflunomide in multiple sclerosis. . Ofatumumab versus teriflunomide in multiple sclerosis. N Engl J Med. 2020;383(6):546-557. doi:10.1056/NEJMoa1917246
+
+  - 15. Granqvist M, Boremalm M , Poorghobad A, et al . Comparative effectiveness of rituximab and other initial treatment choices for multiple sclerosis. . Comparative effectiveness of rituximab and other initial treatment choices for multiple sclerosis. JAMA Neurol. 2018;75(3):320-327. doi:10.1001/jamaneurol.2017.4011
+
+  - 16. Thouvenot E, Laplaud D, Lebrun-Frenay C, et al . High-Dose Vitamin D in Clinically Isolated Syndrome Typical of Multiple Sclerosis: The D-Lay MS Randomized Clinical Trial. . High-Dose Vitamin D in Clinically Isolated Syndrome Typical of Multiple Sclerosis: The D-Lay MS Randomized Clinical Trial. JAMA. 2025;333(16):1413-1422. doi:10.1001/jama.2025.1604
+
+  - 17. Jagannath VA, Filippini G, Di Pietrantonj C, et al . Vitamin D for the management of multiple sclerosis. . Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev. 2018;9(9):CD008422. Published 2018 Sep 24. doi:10.1002/14651858.CD008422.pub3
+
+  - 18. Feige J, Moser T, Bieler L, Schwenker K, Hauer L, Sellner J . Vitamin D Supplementation in Multiple Sclerosis: A Critical Analysis of Potentials and Threats. . Vitamin D Supplementation in Multiple Sclerosis: A Critical Analysis of Potentials and Threats. Nutrients. 2020;12(3):783. Published 2020 Mar 16. doi:10.3390/nu12030783
+
+  - 19. Safarpour Y, Mousavi T, Jabbari B . Botulinum Toxin Treatment in Multiple Sclerosis-a Review. Curr Treat Options Neurol. 2017;19(10):33. Published 2017 Aug 17. doi:10.1007/s11940-017-0470-5
+
+  - 20. Makhoul K, Ahdab R, Riachi N, et al . Tremor in multiple sclerosis-An overview and future perspectives. Brain Sci. 2020;10(10):722. Published 2020 Oct 12. doi:10.3390/brainsci10100722
+
+1. Le Page E, Veillard D, Laplaud DA, et al . Oral versus intravenous high-dose methylprednisolone for treatment of relapses in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, double-blind, non-inferiority trial. . Oral versus intravenous high-dose methylprednisolone for treatment of relapses in patients with multiple sclerosis (COPOUSEP): A randomised, controlled, double-blind, non-inferiority trial. Lancet. 386 (9997):974–981, 2015. doi: 10.1016/S0140-6736(15)61137-0
+
+2. Burton JM, O'Connor PW, Hohol M, Beyene J . Oral versus intravenous steroids for treatment of relapses in multiple sclerosis. Cochrane Database Syst Rev. 12:CD006921, 2012. doi: 10.1002/14651858.CD006921.pub3
+
+3. Ciccone A, Beretta S, Brusaferri F, Galea I, Protti A, Spreafico C . Corticosteroids for the long-term treatment in multiple sclerosis. Cochrane Database Syst Rev. 2008;(1):CD006264. Published 2008 Jan 23. doi:10.1002/14651858.CD006264.pub2
+
+4. Tumani H . Corticosteroids and plasma exchange in multiple sclerosis. J Neurol. 2008;255 Suppl 6:36-42. doi:10.1007/s00415-008-6007-9
+
+5. Burt RK, Balabanov R, Burman J, et al. Effect of Nonmyeloablative Hematopoietic Stem Cell Transplantation vs Continued Disease-Modifying Therapy on Disease Progression in Patients With Relapsing-Remitting Multiple Sclerosis: A Randomized Clinical Trial. JAMA. 2019;321(2):165-174. doi:10.1001/jama.2018.18743
+
+6. Rae-Grant A, Day GS, Ruth Ann Marrie RA, et al . Practice guideline recommendations summary: Disease-modifying therapies for adults with multiple sclerosis: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology. 90 (17):777–788, 2018. doi: 10.1212/WNL.0000000000005347. Correction: Neurology. 92(2):112, 2019.
+
+7. National Multiple Sclerosis Society . Disease-Modifying Therapies. Accessed July 7, 2025.
+
+8. Filippi M, Amato MP, Centonze D, et al . Early use of high-efficacy disease-modifying therapies makes the difference in people with multiple sclerosis: an expert opinion. J Neurol. 2022;269:5382-5394.
+
+9. Buron MD, Chalmer TA, Sellebjerg F, et al . Initial high-efficacy disease-modifying therapy in multiple sclerosis: A nationwide cohort study. Neurology. 2020;95(8):e1041-e1051. doi:10.1212/WNL.0000000000010135
+
+10. Freedman MS, Clift F, Devonshire V, et al . First-Line Use of Higher-Efficacy Disease-Modifying Therapies in Multiple Sclerosis: Canadian Consensus Recommendations. Can J Neurol Sci. Published online June 9, 2025. doi:10.1017/cjn.2025.10342
+
+11. Freeman L, Longbrake EE, Coyle PK, et al . High-efficacy therapies for treatment-naive individuals with relapsing-remitting multiple sclerosis. CNS Drugs. 2022;36;1285–1299.
+
+12. Coles AJ, Achiron A, Traboulsee A, et al . Safety and efficacy with alemtuzumab over 13 years in relapsing-remitting multiple sclerosis: final results from the open-label TOPAZ study. . Safety and efficacy with alemtuzumab over 13 years in relapsing-remitting multiple sclerosis: final results from the open-label TOPAZ study. Ther Adv Neurol Disord. 2023;16:17562864231194823. Published 2023 Sep 21. doi:10.1177/17562864231194823
+
+13. Hauser SL, Bar-Or A, Comi G, et al . Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis. . Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis. N Engl J Med. 2017;376(3):221-234. doi:10.1056/NEJMoa1601277
+
+14. Hauser SL, Bar-Or A, Cohen JA, et al . Ofatumumab versus teriflunomide in multiple sclerosis. . Ofatumumab versus teriflunomide in multiple sclerosis. N Engl J Med. 2020;383(6):546-557. doi:10.1056/NEJMoa1917246
+
+15. Granqvist M, Boremalm M , Poorghobad A, et al . Comparative effectiveness of rituximab and other initial treatment choices for multiple sclerosis. . Comparative effectiveness of rituximab and other initial treatment choices for multiple sclerosis. JAMA Neurol. 2018;75(3):320-327. doi:10.1001/jamaneurol.2017.4011
+
+16. Thouvenot E, Laplaud D, Lebrun-Frenay C, et al . High-Dose Vitamin D in Clinically Isolated Syndrome Typical of Multiple Sclerosis: The D-Lay MS Randomized Clinical Trial. . High-Dose Vitamin D in Clinically Isolated Syndrome Typical of Multiple Sclerosis: The D-Lay MS Randomized Clinical Trial. JAMA. 2025;333(16):1413-1422. doi:10.1001/jama.2025.1604
+
+17. Jagannath VA, Filippini G, Di Pietrantonj C, et al . Vitamin D for the management of multiple sclerosis. . Vitamin D for the management of multiple sclerosis. Cochrane Database Syst Rev. 2018;9(9):CD008422. Published 2018 Sep 24. doi:10.1002/14651858.CD008422.pub3
+
+18. Feige J, Moser T, Bieler L, Schwenker K, Hauer L, Sellner J . Vitamin D Supplementation in Multiple Sclerosis: A Critical Analysis of Potentials and Threats. . Vitamin D Supplementation in Multiple Sclerosis: A Critical Analysis of Potentials and Threats. Nutrients. 2020;12(3):783. Published 2020 Mar 16. doi:10.3390/nu12030783
+
+19. Safarpour Y, Mousavi T, Jabbari B . Botulinum Toxin Treatment in Multiple Sclerosis-a Review. Curr Treat Options Neurol. 2017;19(10):33. Published 2017 Aug 17. doi:10.1007/s11940-017-0470-5
+
+20. Makhoul K, Ahdab R, Riachi N, et al . Tremor in multiple sclerosis-An overview and future perspectives. Brain Sci. 2020;10(10):722. Published 2020 Oct 12. doi:10.3390/brainsci10100722

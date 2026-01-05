@@ -1,0 +1,31 @@
+HEARING LOSS MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Initial evaluation
+   - Determine type and severity of hearing loss.
+   - Identify reversible vs. irreversible causes.
+
+2. Reversible / mechanical causes
+   - Earwax blockage:
+       * Remove with suction or curette by clinician.
+   - Recurrent middle-ear infections with effusion:
+       * Consider tympanostomy tubes to improve drainage.
+
+3. Surgical options
+   - Selected conductive or mixed hearing losses may benefit from corrective surgery.
+   - ENT specialist evaluates specific structural problems.
+
+4. Hearing aids (sensorineural loss)
+   - Primary treatment for inner-ear–related hearing loss.
+   - Audiologist:
+       * Explains device types and expectations.
+       * Performs fitting and adjustment.
+
+5. Cochlear implants (severe/profound loss)
+   - Consider when conventional hearing aids give limited benefit.
+   - Device bypasses damaged inner ear to directly stimulate auditory nerve.
+   - ENT + audiologist discuss risks, benefits, and candidacy.
+
+6. Long-term goals
+   - Improve communication and quality of life.
+   - Provide ongoing device adjustment, counselling, and hearing rehabilitation.
+

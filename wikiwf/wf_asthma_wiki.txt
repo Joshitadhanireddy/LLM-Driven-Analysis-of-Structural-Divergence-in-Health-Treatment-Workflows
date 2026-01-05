@@ -1,0 +1,96 @@
+ASTHMA MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial assessment
+   - Confirm asthma diagnosis and pattern of symptoms.
+   - Assess severity: frequency of symptoms/exacerbations, lung function (if available).
+   - Identify comorbidities (allergic rhinitis, obesity, anxiety/depression, smoking).
+
+2. Identify and manage triggers (all patients)
+   2.1 Take structured trigger history:
+       - Allergens (dust mites, pets, pollen, mould).
+       - Smoke exposure (cigarette, second-hand, other combustion).
+       - Air pollution, occupational exposures, beta-blockers, sulfites, etc.
+   2.2 Implement lifestyle/environmental measures:
+       - Avoid/stop smoking; minimise second-hand smoke.
+       - Reduce exposure to known personal allergens where feasible.
+       - Note: dust mite control measures and dehumidifiers show limited benefit overall.
+   2.3 Promote beneficial lifestyle:
+       - Encourage regular exercise for stable asthma.
+       - Consider yoga as adjunct for modest symptom/QoL benefit.
+       - Weight management in overweight patients.
+
+3. Education and self-management setup
+   - Provide asthma education tailored to culture and literacy.
+   - Develop a written asthma action plan (symptoms/PEF-based where possible).
+   - Train in inhaler technique and spacer use; review regularly.
+   - Discuss adherence barriers (cost, fears of steroids, misconceptions).
+   - For children, consider school- and home-based education programs.
+
+4. Pharmacologic treatment – acute symptom relief (all severities)
+   4.1 Quick-relief bronchodilators
+       - First-line: short-acting beta2-agonists (SABA) e.g. salbutamol/albuterol.
+       - Use before exercise in exercise-induced symptoms.
+   4.2 Add-on in moderate/severe exacerbations
+       - Inhaled anticholinergics (ipratropium) + SABA for ED/hospital settings.
+       - Systemic corticosteroids (oral/IV) for moderate–severe exacerbations.
+       - Consider nebulised/IV magnesium sulphate in severe attacks.
+       - Provide humidified oxygen if SpO2 < 92%.
+       - Escalate to mechanical ventilation only in life-threatening hypoxaemia.
+
+5. Long-term control – stepwise controller therapy
+   5.1 Mild intermittent (occasional attacks)
+       - SABA as needed.
+   5.2 Mild persistent (>2 attacks/week)
+       - Preferred: low-dose inhaled corticosteroid (ICS).
+       - Alternatives: leukotriene receptor antagonist (LTRA) or mast cell stabiliser.
+   5.3 Moderate persistent / daily symptoms
+       - Increase ICS dose (medium) or
+       - Add long-acting beta2-agonist (LABA) to low/medium-dose ICS in adults.
+       - LTRA can be used as add-on; particularly considered in children or ICS-intolerant.
+   5.4 Severe persistent / difficult-to-treat asthma
+       - High-dose ICS ± LABA ± additional controller:
+         * LTRA or 5-LOX inhibitor (zileuton in older children/adults).
+         * Theophylline (less favoured due to side effects).
+         * Add-on tiotropium or other agents as per specialist.
+       - For allergic/eosinophilic severe asthma:
+         * Consider biologics: omalizumab (anti-IgE), mepolizumab, reslizumab, benralizumab,
+           dupilumab, etc., depending on phenotype and local availability.
+       - For non-responsive severe cases:
+         * Consider azithromycin (macrolide) for reduction in exacerbations in selected patients.
+       - For selected adults with very severe persistent asthma:
+         * Consider bronchial thermoplasty after specialist evaluation.
+
+6. Route and device selection
+   - Preferred: metered-dose inhaler (MDI) with spacer or dry powder inhaler.
+   - Nebuliser as alternative, especially in acute settings.
+   - Emphasise spacer use in children with SABA (at least as effective as nebuliser in mild–moderate).
+   - Regularly re-check inhaler technique.
+
+7. Monitoring, stepping up and stepping down
+   7.1 Routine follow-up
+       - Review symptoms, exacerbations, SABA use, inhaler technique, adherence.
+       - Screen for anxiety, stress, depression and address as these worsen control.
+   7.2 Step up treatment
+       - If uncontrolled despite good adherence and technique.
+       - Differentiate refractory asthma from difficult-to-treat (poor adherence, access issues).
+   7.3 Step down treatment
+       - When well controlled for several months, consider reducing ICS dose carefully.
+       - Stopping LABA in stable adults on ICS+LABA may increase exacerbations; weigh risks.
+
+8. Special investigations and adjuncts
+   - Consider exhaled nitric oxide (FeNO) for guiding ICS dosing in selected patients.
+   - Consider pulse oximeter for home monitoring in some individuals, but emphasise clinical symptoms.
+   - For overlapping COPD/asthma (ACOS), individualise therapy; some may respond to azithromycin.
+
+9. Emergency and hospital care pathway
+   - Triage severity (PEF, SpO2, accessory muscle use, speech, consciousness).
+   - Immediate SABA ± ipratropium via MDI/spacer or nebuliser.
+   - Early systemic corticosteroids.
+   - Add oxygen; consider IV magnesium sulphate in moderate–severe attacks.
+   - Escalate to ICU, non-invasive ventilation or intubation for impending respiratory arrest.
+
+10. Long-term goals
+   - Minimal or no daytime/night-time symptoms.
+   - No activity limitation; normal or near-normal lung function.
+   - Minimal need for reliever medication.
+   - Prevention of severe exacerbations, ED visits, and treatment side effects.

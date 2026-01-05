@@ -1,0 +1,94 @@
+--- Chronic Kidney Disease Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Chronic_kidney_disease
+
+--- Management ---
+
+
+Chronic kidney disease (CKD) is a serious condition often linked to diabetes and high blood pressure. There is no cure, but a combination of lifestyle changes and medications can help slow its progression. This might include a plant-dominant diet with less protein and salt, medications to control blood pressure and sugar, and potentially newer anti-inflammatory drugs. Doctors may also focus on managing heart disease risk, preventing infections, and avoiding further kidney damage. While dialysis may eventually be needed, a gradual transition can help preserve remaining kidney function. More research is ongoing to improve CKD management and patient outcomes.
+
+
+--- Blood pressure ---
+
+
+Angiotensin converting enzyme inhibitors(ACEIs) orangiotensin II receptor antagonists(ARBs) are recommended as first-line agents since they have been found to slow the decline of kidney function, relative to a more rapid decline in those not on one of these agents.They have also been found to reduce the risk of major cardiovascular events such asmyocardial infarction,stroke,heart failure, and death from cardiovascular disease when compared to placebo in individuals with CKD.ACEIs may be superior to ARBs for protection against progression to kidney failure and death from any cause in those with CKD.Aggressive blood pressure lowering decreases people's risk of death.
+
+
+--- Other measures ---
+
+
+  - Aggressive treatment of high blood lipids is recommended.Statinsare recommended for those with CKD older than 50 years old, and those younger if certain other indications exist.
+  - Certain medications that are cleared from the body by the kidneys may need dose adjustments or discontinuation in those with chronic kidney disease to prevent accumulation of the medications in the body.
+  - Sodium/glucose cotransporter 2medications have shown kidney protective effects and protective effects in death from cardiovascular disease in those with chronic kidney disease and diabetes.
+  - A low-protein, low-salt diet may result in slower progression of CKD and reduction in proteinuria, as well as controlling symptoms of advanced CKD to delay dialysis start.A tailored low-protein diet, designed for low acidity, may help prevent damage to kidneys for people with CKD.Additionally, controlling salt ingestion helps to decrease the incidence of coronary heart disease, lowering blood pressure and reducing albuminuria.
+  - Anemia – A target hemoglobin level of 100–120 g/L is recommended;raising hemoglobin levels to the normal range has not been found to be of benefit.Guidelines recommend treatment withparenteral ironprior to treatment witherythropoietin.Replacement of erythropoietin is often necessary in people with advanced disease.It is unclear ifandrogensimprove anemia.
+  - Calcitriolis recommended forvitamin D deficiencyand control ofmetabolic bone disease.
+  - Phosphate bindersare used to control the serumphosphatelevels, which are usually elevated in advanced chronic kidney disease.
+  - Phosphodiesterase-5 inhibitorsandzincmay improvesexual dysfunctionin men.
+  - GadoliniumbasedMRI contrastagents are contra-indicated in those with GFR less than 30 (stage 4 kidney disease) due to the risk ofnephrogenic systemic fibrosis. However, this risk is believed to be low in people with CKD with newer contrast agents being currently used.
+
+  - Guidelines recommend treatment withparenteral ironprior to treatment witherythropoietin.
+  - Replacement of erythropoietin is often necessary in people with advanced disease.
+  - It is unclear ifandrogensimprove anemia.
+
+
+--- Lifestyle interventions ---
+
+
+
+** Weight loss **
+
+
+Obesitymay have a negative impact in CKD, increasing the risk of disease progression to ESKD orkidney failurecompared to controls with healthy weight,and when in advanced stages, also may hinder people's eligibility tokidney transplantation.For example, the consumption of high calorie andhigh fructosebeverages can make an individual "60% more likely to develop CKD".
+
+Weight managementinterventions inoverweightandobeseadults with CKD include lifestyle interventions (dietary changes,physical activity/exercise, or behavioural strategies), pharmacological (used to reduce absorption orsuppress appetite) and surgical interventions. Any of these can help people with CKD lose weight; however, it is not known if they can also prevent death or cardiovascular events like heart complications or stroke.It is recommended that weight management interventions should be individualised, according to a thorough patient assessment regarding clinical condition, motivations, and preferences.
+
+
+** Dietary salt intake **
+
+
+High dietary sodium intake may increase the risk of hypertension and cardiovascular disease. The effect of dietary salt restriction in foods has been investigated in people with chronic kidney disease. For people with CKD, including those on dialysis, reduced salt intake may help to lower both systolic and diastolic blood pressure, as well asalbuminuria.Some people may experiencelow blood pressureand associated symptoms, such as dizziness, with lower salt intake. The effect of salt restriction on extracellular fluid, oedema, and total body weight reduction is unknown.
+
+EHealthinterventions may improve dietary sodium intake and fluid management for people with CKD.
+
+
+** Omega-3 supplementation **
+
+
+In people with CKD who require hemodialysis, there is a risk thatvascular blockagedue toclotting, may prevent dialysis therapy from being possible. Even thoughOmega-3 fatty acidscontribute to the production ofeicosanoidmolecules that reduce clotting, it does not have any impact on the prevention of vascular blockage in people with CKD.
+
+
+** Protein supplementation **
+
+
+Regular consumption of oral protein-based nutritional supplements may increase serum albumin levels slightly in people with CKD, especially among those requiring hemodialysis or who are malnourished.Prealbuminlevel and mid-arm muscle circumference may also be increased following supplementation.Despite possible improvement in these indicators of nutritional status, it is not certain that protein supplements affect the quality of life, life expectancy, inflammation, orbody composition.
+
+
+** Iron supplementation **
+
+
+Intravenous (IV) iron therapymay help more thanoral ironsupplements in reaching targethemoglobinlevels. However, allergic reactions may also be more likely following IV-iron therapy.
+
+
+--- Sleep ---
+
+
+Individuals with CKD have an increased prevalence ofsleep apneacompared to the general population (bothobstructive sleep apneaandcentral sleep apnea). The presence of sleep apnea in CKD has been associated with an increased risk of cardiovascular events and mortality.
+
+People with CKD also experience sleep disorders, thus unable to get quality sleep. There are several strategies that could help, such as relaxation techniques, exercise, and medication. Exercise may be helpful with sleep regulation and may decrease fatigue and depression in people with CKD. However, none of these options have been proven to be effective in the treatment of sleep disorders. This means that it is unknown what the best guidance is to improve sleep quality in this population.
+
+
+--- Referral to a nephrologist ---
+
+
+Guidelines for referral to a nephrologist vary between countries.  Most agree that nephrology referral is required by Stage 4 CKD (when eGFR/1.73m2is less than 30 mL/min; or decreasing by more than 3 mL/min/year).
+
+It may also be useful at an earlier stage (e.g., CKD3) when urine albumin-to-creatinine ratio is more than 30 mg/mmol, when blood pressure is difficult to control, or when hematuria or other findings suggest either a primarily glomerular disorder or secondary disease amenable to a specific treatment.  Other benefits of early nephrology referral include proper education regarding options for kidney replacement therapy, as well as pre-emptive transplantation, and timely workup and placement of an arteriovenous fistula in those people with chronic kidney disease opting for future hemodialysis.[citation needed]
+
+
+--- Renal replacement therapy ---
+
+
+At stage 5 CKD,kidney replacement therapyis usually required, in the form of eitherdialysisor a kidneytransplant.
+
+In CKD, numerous uremic toxins accumulate in the blood. Even when ESKD (largely synonymous with CKD5) is treated with dialysis, the toxin levels do not go back to normal, as dialysis is not that efficient. Similarly, after a kidney transplant, the levels may not go back to normal as the transplanted kidney may not work 100%. If it does, the creatinine level is often normal. The toxins show various cytotoxic activities in the serum and have different molecular weights, and some of them are bound to other proteins, primarily to albumin. Uremic toxins are classified into three groups as small water-soluble solutes, middle molecular-weight solutes, and protein-bound solutes.Hemodialysis with high-flux dialysis membrane, long or frequent treatment, and increased blood/dialysate flow has improved removal of water-soluble small molecular weight uremic toxins. Middle molecular weight molecules are removed more effectively with hemodialysis using a high-flux membrane, hemodiafiltration, and hemofiltration. However, conventional dialysis treatment is limited in its ability to remove protein-bound uremic toxins.

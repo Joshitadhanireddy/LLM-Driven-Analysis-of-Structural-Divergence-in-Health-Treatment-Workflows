@@ -1,0 +1,139 @@
+--- Tetanus Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/infectious-diseases/anaerobic-bacteria/tetanus?query=tetanus#Treatment_v1010266
+
+=== Treatment of Tetanus ===
+
+  - Supportive care, particularly respiratory support
+
+  - Wound debridement
+
+  - Tetanus antitoxin
+
+  - Benzodiazepines for muscle spasms
+
+  - Antibiotics
+
+  - Sometimes medications for autonomic dysfunction
+
+Treatment of tetanus requires maintaining adequate ventilation.
+
+Additional interventions include early and adequate use of human tetanus immune globulin (TIG) to neutralize nonfixed toxin; prevention of further toxin production; sedation; control of muscle spasm, hypertonicity, fluid balance, and intercurrent infection; and continuous nursing care. IV immune globulin (IVIG), which contains tetanus antitoxin, may be used if TIG is not available. Additional interventions include early and adequate use of human tetanus immune globulin (TIG) to neutralize nonfixed toxin; prevention of further toxin production; sedation; control of muscle spasm, hypertonicity, fluid balance, and intercurrent infection; and continuous nursing care. IV immune globulin (IVIG), which contains tetanus antitoxin, may be used if TIG is not available.
+
+
+--- General principles ---
+
+
+The patient should be kept in a quiet room. Several principles should guide all therapeutic interventions:
+
+  - Prevent further toxin release by debriding the wound and giving an antibiotic .
+
+  - Neutralize unbound toxin outside the CNS with TIG.
+
+  - Immunize using tetanus toxoid, taking care to inject it into a different body site than the antitoxin.
+
+  - Minimize the effect of toxin already in the CNS.
+
+Prevent further toxin release by debriding the wound and giving an antibiotic .
+
+Neutralize unbound toxin outside the CNS with TIG.
+
+Immunize using tetanus toxoid, taking care to inject it into a different body site than the antitoxin.
+
+Minimize the effect of toxin already in the CNS.
+
+
+--- Wound care ---
+
+
+Because dirt and dead tissue promote C. tetani growth, prompt, thorough debridement, especially of deep puncture wounds, is essential. Antibiotics are not substitutes for adequate debridement and immunization but typically are given.
+
+
+--- Antitoxin and toxoid ---
+
+
+The benefit of human-derived antitoxin depends on how much tetanospasmin is already bound to the synaptic membranes—only free toxin is neutralized. For adults, TIG 500 units IM once appears as effective as higher doses ranging from 3000 to 6000 units and causes less discomfort. Some medical experts recommend infiltration of part of the dose locally around the wound, but its efficacy has not been proved.
+
+Antitoxin of animal origin is far less preferable because it does not maintain the patient’s serum antitoxin level well and risk of serum sickness is considerable. If horse serum must be used, the usual dose is 50,000 units IM or IV. (CAUTION: See Skin testing .)
+
+If necessary, IVIG or antitoxin can be injected directly into the wound, but this injection is not as important as good wound care.
+
+Tetanus infection does not confer immunity, so unless their vaccination history indicates completion of a full primary series, patients should receive a full primary tetanus vaccination series using an age-appropriate preparation (see Prevention below). Antitoxin and vaccine should be injected into different body sites to avoid neutralizing the vaccine.
+
+
+--- Management of muscle spasms ---
+
+
+Medications are used to manage spasms.
+
+Benzodiazepines are the standard of care to control rigidity and spasms. They block reuptake of an endogenous inhibiting neurotransmitter, gamma-aminobutyric acid (GABA), at the GABA A receptor.
+
+Diazepam can help control seizures, counter muscle rigidity, and induce sedation. Dosage varies and requires meticulous titration and close observation. Diazepam can help control seizures, counter muscle rigidity, and induce sedation. Dosage varies and requires meticulous titration and close observation.
+
+Diazepam has been used most extensively, but midazolam is water soluble and preferred for prolonged therapy. has been used most extensively, but midazolam is water soluble and preferred for prolonged therapy. Midazolam reduces risk of lactic acidosis due to propylene glycol solvent, which is required for diazepam and lorazepam , and reduces risk of long-acting metabolites accumulating and causing coma. and lorazepam, and reduces risk of long-acting metabolites accumulating and causing coma.
+
+Benzodiazepines may not prevent reflex spasms, and effective respiration may require neuromuscular blockade with vecuronium or other paralytic medications and mechanical ventilation. Pancuronium has been used but may worsen autonomic instability. Benzodiazepines may not prevent reflex spasms, and effective respiration may require neuromuscular blockade with vecuronium or other paralytic medications and mechanical ventilation. Pancuronium has been used but may worsen autonomic instability. Vecuronium is free of adverse cardiovascular effects but is short-acting. Longer-acting medications (eg, pipecuronium, rocuronium ) also work, but no randomized clinical comparative trials have been done. is free of adverse cardiovascular effects but is short-acting. Longer-acting medications (eg, pipecuronium, rocuronium) also work, but no randomized clinical comparative trials have been done.
+
+Intrathecal baclofen Intrathecal baclofen (a GABA A agonist) is effective in treating reflex spasms but has no clear advantage over benzodiazepines. Coma and respiratory depression requiring ventilatory support are potential adverse effects.
+
+Dantrolene can be given initially by infusion and thereafter for up to 60 days. Hepatotoxicity and expense limit its use.
+
+
+--- Management of autonomic dysfunction ---
+
+
+Morphine may be given every 4 to 6 hours to control autonomic dysfunction, especially cardiovascular; total daily dose is 20 to 180 mg. Morphine may be given every 4 to 6 hours to control autonomic dysfunction, especially cardiovascular; total daily dose is 20 to 180 mg.
+
+Beta-blockade is used to control episodes of hypertension and tachycardia, but use of long-acting medications such as propranolol is not recommended. Sudden cardiac death is a feature of tetanus, and beta-blockade can increase risk; however, esmolol , a short-acting beta-blocker, has been used successfully. IV atropine has been used at high doses; blockade of the parasympathetic nervous system markedly reduces excessive sweating and secretions. Lower mortality has been reported in clonidine -treated patients than in those treated with conventional therapy. Beta-blockade is used to control episodes of hypertension and tachycardia, but use of long-acting medications such as propranolol is not recommended. Sudden cardiac death is a feature of tetanus, and beta-blockade can increase risk; however, esmolol, a short-acting beta-blocker, has been used successfully. IV atropine has been used at high doses; blockade of the parasympathetic nervous system markedly reduces excessive sweating and secretions. Lower mortality has been reported in clonidine-treated patients than in those treated with conventional therapy.
+
+Magnesium sulfate given by IV continuous infusion at doses that maintain serum levels between 4 to 8 mEq/L has a stabilizing effect, eliminating catecholamine stimulation ( 1 ). Patellar tendon reflex is used to assess overdosage. Tidal volume may be impaired, so ventilatory support must be available. Serum magnesium levels and electrical cardiac activity need to be closely monitored throughout the infusion period.
+
+Other medications that may prove useful include
+
+  - Pyridoxine , which lowers mortality in neonates Pyridoxine, which lowers mortality in neonates
+
+  - Valproic acid , which blocks GABA-aminotransferase, inhibiting GABA catabolism Valproic acid, which blocks GABA-aminotransferase, inhibiting GABA catabolism
+
+  - Angiotensin-converting enzyme inhibitors, which inhibit angiotensin II and reduce norepinephrine release from nerve endings 
+
+  - Dexmedetomidine (a potent alpha-2 adrenergic agonist) 
+
+  - Adenosine , which reduces presynaptic norepinephrine release and antagonizes the inotropic effect of catecholamines Adenosine, which reduces presynaptic norepinephrine release and antagonizes the inotropic effect of catecholamines
+
+Pyridoxine , which lowers mortality in neonates Pyridoxine, which lowers mortality in neonates
+
+Valproic acid , which blocks GABA-aminotransferase, inhibiting GABA catabolism Valproic acid, which blocks GABA-aminotransferase, inhibiting GABA catabolism
+
+Angiotensin-converting enzyme inhibitors, which inhibit angiotensin II and reduce norepinephrine release from nerve endings Angiotensin-converting enzyme inhibitors, which inhibit angiotensin II and reduce norepinephrine release from nerve endings
+
+Dexmedetomidine (a potent alpha-2 adrenergic agonist) Dexmedetomidine (a potent alpha-2 adrenergic agonist)
+
+Adenosine , which reduces presynaptic norepinephrine release and antagonizes the inotropic effect of catecholamines Adenosine, which reduces presynaptic norepinephrine release and antagonizes the inotropic effect of catecholamines
+
+Corticosteroids are of unproven benefit; their use is not recommended.
+
+
+--- Antibiotics ---
+
+
+The role of antibiotic therapy is minor compared with wound debridement and general support.
+
+Metronidazole is the recommended antibiotic. Metronidazole is the recommended antibiotic.
+
+
+--- Supportive care ---
+
+
+In moderate or severe cases, patients should be intubated. Mechanical ventilation is essential when neuromuscular blockade is required to control muscle spasms that impair respirations.
+
+IV hyperalimentation avoids the hazard of aspiration secondary to gastric tube feeding. Because constipation is usual, stools should be kept soft. A rectal tube may control distention. Bladder catheterization is required if urinary retention occurs.
+
+Chest physiotherapy, frequent turning, and forced coughing are essential to prevent pneumonia. Analgesia with opioids is often needed.
+
+
+--- Treatment reference ---
+
+
+  - 1. Thwaites CL, Yen LM, Cordon SM, et al : Effect of magnesium sulphate on urinary catecholamine excretion in severe tetanus. Anaesthesia 63(7):719–725, 2008. doi: 10.1111/j.1365-2044.2008.05476.x
+
+1. Thwaites CL, Yen LM, Cordon SM, et al : Effect of magnesium sulphate on urinary catecholamine excretion in severe tetanus. Anaesthesia 63(7):719–725, 2008. doi: 10.1111/j.1365-2044.2008.05476.x

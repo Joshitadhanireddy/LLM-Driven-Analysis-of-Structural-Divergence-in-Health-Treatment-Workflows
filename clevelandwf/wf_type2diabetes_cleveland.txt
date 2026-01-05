@@ -1,0 +1,38 @@
+TYPE 2 DIABETES MANAGEMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Core components and care team
+   - Lifestyle changes (diet, physical activity, weight management).
+   - Glucose-lowering medications and regular glucose monitoring.
+   - Ongoing guidance from a multidisciplinary team: PCP/endocrinologist, dietitian, diabetes educator, eye doctor, dentist and family/support system.
+
+2. Physical activity
+   - Aim for at least 150 minutes/week of moderate-intensity activity, spaced over most days.
+   - Discuss exercise plan with provider, especially if using insulin or at high cardiovascular risk.
+   - Learn special precautions before, during and after exercise to prevent hypoglycemia and other complications.
+
+3. Nutrition and meal planning
+   - Develop an individualized meal plan with provider/dietitian.
+   - Emphasize:
+     * Lean proteins.
+     * Non-starchy vegetables.
+     * Healthy fats (mono- and polyunsaturated).
+     * Complex carbohydrates.
+   - Coordinate meal timing and carbohydrate intake with medication and activity.
+
+4. Glucose-lowering medications
+   - Oral agents:
+     * Metformin is most common first-line drug; others added based on need.
+   - Injectable agents:
+     * GLP-1 or dual GLP-1/GIP agonists (many also help with weight loss).
+     * Insulin (various types) via pens/syringes or insulin pump when oral/injectable non‑insulin meds are insufficient.
+   - Additional medicines to treat associated conditions such as hypertension and hyperlipidemia.
+
+5. Glucose monitoring
+   - Use finger-stick glucose meter and/or continuous glucose monitor (CGM).
+   - Check at frequency recommended by provider; know personal target range.
+   - Use results to adjust food intake, activity and medication (with clinical guidance).
+
+6. Long-term management
+   - Regular follow-up visits to reassess A1c, complications, lifestyle and treatment plan.
+   - Adjust therapy as life circumstances and health status change.
+   - Education on recognizing and responding to hypo- and hyperglycemia and on seeking prompt care for complications.

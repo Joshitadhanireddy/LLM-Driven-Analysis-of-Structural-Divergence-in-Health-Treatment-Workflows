@@ -1,0 +1,27 @@
+ATOPIC DERMATITIS (ECZEMA) MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. First-line: Skin care & moisturization
+   - Daily moisturizers; avoid irritants & temperature extremes.
+   - Apply meds first → then moisturizer.
+
+2. Medications
+   2.1 Topicals
+       - Corticosteroid creams/ointments (various strengths).
+       - Calcineurin inhibitors (tacrolimus, pimecrolimus) — avoid strong sunlight.
+   2.2 Infection control
+       - Oral antibiotics if lesions infected.
+   2.3 Systemic anti‑inflammatory meds (severe cases)
+       - Cyclosporine, methotrexate, prednisone, mycophenolate, azathioprine.
+   2.4 Biologic options
+       - Dupilumab (age >6), tralokinumab (adults).
+
+3. Therapies
+   - Wet wrap therapy (hospital or supervised home use).
+   - Light therapy (NB-UVB, UVA), used when topicals fail.
+   - Counseling for psychosocial impact.
+   - Relaxation / behavior modification / biofeedback for habitual scratching.
+
+4. Infant eczema
+   - Avoid irritants; short warm baths; moisturize while damp.
+   - If no improvement → prescription topicals or oral antihistamines (night use).
+

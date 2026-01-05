@@ -1,0 +1,38 @@
+CARPAL TUNNEL SYNDROME TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Assessment & Diagnosis
+   - Confirm CTS: numbness, tingling, pain in median nerve distribution.
+   - Determine severity & chronicity.
+   - Identify underlying conditions (diabetes, pregnancy, RA, trauma).
+   - Distinguish disease‑modifying vs. palliative options.
+
+2. Conservative First-Line Management
+   2.1 Splint Immobilization
+       - Night wrist splints to keep neutral position.
+       - Optional daytime use only for specific aggravating tasks.
+       - Avoid full‑day immobilization to prevent stiffness/weakness.
+   2.2 Try alternative conservative therapy every 2–7 weeks if no improvement.
+
+3. Corticosteroid Therapy
+   - Local corticosteroid injection for short‑term symptom relief.
+   - Ultrasound guidance speeds resolution.
+   - Not disease‑modifying; used until definitive therapy chosen.
+   - Avoid repeated long‑term injections.
+
+4. Physical & Occupational Therapy
+   - Manual therapy: soft tissue mobilization, massage, bone manipulations.
+   - Neurodynamic nerve‑gliding & tendon‑gliding exercises.
+   - Functional massage & carpal bone mobilization.
+   - Stretching more effective when performed with trained therapist.
+
+5. Disease‑Modifying Surgical Management
+   - Indications:
+     * Constant numbness, weakness, atrophy.
+     * Failure of conservative therapy.
+     * Elective by patient preference OR denervation on EMG.
+   - Procedure: carpal tunnel release (transverse ligament cut).
+   - Anesthesia: local, regional, or general.
+   - Severe cases typically progress to surgery.
+
+6. Alternative Medicine (not recommended)
+   - Acupuncture, laser therapy, magnet therapy, B6 → minimal/no proven benefit.

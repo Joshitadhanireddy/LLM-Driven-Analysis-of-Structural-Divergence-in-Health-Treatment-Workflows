@@ -1,0 +1,48 @@
+BENIGN PROSTATIC HYPERPLASIA (BPH) MANAGEMENT WORKFLOW (from WebMD-based plan)
+
+1. Overall treatment options
+   - Watchful waiting.
+   - Medications (first-line for mild–moderate symptoms).
+   - Supplements (with caution).
+   - Minimally invasive procedures or surgery when necessary.
+
+2. Watchful waiting
+   - For mild, non-bothersome symptoms without complications.
+   - Annual (or earlier) check-ins:
+     * Track urinary frequency, urgency, weak stream, incomplete emptying, leakage.
+   - Lifestyle tweaks:
+     * Reduce evening fluids, caffeine, and alcohol.
+     * Avoid OTC decongestants and certain antihistamines that worsen symptoms.
+
+3. Medication therapy
+   3.1 Alpha-blockers
+       - Alfuzosin, doxazosin, prazosin, silodosin, tamsulosin, terazosin.
+       - Relax bladder neck and prostate muscle → improve flow quickly.
+       - Side effects: dizziness, fainting, headache, low blood pressure, retrograde ejaculation.
+       - Avoid around time of cataract surgery due to surgical risks.
+   3.2 5-alpha reductase inhibitors (5-ARIs)
+       - Dutasteride, finasteride.
+       - Block hormone driving prostate growth → shrink prostate over months.
+       - Benefits: reduce risk of complications and need for surgery.
+       - Side effects: erectile dysfunction, lower libido, retrograde ejaculation; lower PSA and may be linked to increased high-grade prostate cancer risk (monitor PSA carefully).
+   3.3 Phosphodiesterase-5 inhibitor
+       - Tadalafil (Cialis) for men with both ED and BPH.
+       - Side effects: headache, flushing, back pain, nasal congestion, dyspepsia, visual changes.
+   3.4 Combination therapy
+       - Examples: finasteride + doxazosin; dutasteride + tamsulosin (Jalyn); alpha-blocker + antimuscarinic.
+       - More effective symptom relief but more side effects risk.
+
+4. Supplements (not first-line)
+   - Saw palmetto, beta-sitosterol, pygeum, rye grass.
+   - Evidence for symptom relief inconsistent or weak.
+   - Always discuss with doctor due to interaction and safety concerns.
+
+5. Procedural options
+   - For refractory symptoms, complications (retention, recurrent infection, stones, bleeding, kidney damage), or preference.
+   - Minimally invasive treatments and traditional surgery are available.
+   - Choice guided by prostate size, comorbidities, and patient goals (not fully detailed here; see procedural workflow if needed).
+
+6. Long-term management
+   - Regular symptom assessment and PSA monitoring.
+   - Reassess medication effectiveness and side effects.
+   - Escalate to procedures if quality of life remains impaired.

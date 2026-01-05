@@ -1,0 +1,70 @@
+--- GERD Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease
+
+--- Treatment ---
+
+
+The treatments for GERD may include food choices, lifestyle changes, medications, and possibly surgery. Initial treatment is frequently with aproton-pump inhibitorsuch asomeprazole.In some cases, a person with GERD symptoms can manage them by takingover-the-counter drugs.This is often safer and less expensive than taking prescription drugs.Some guidelines recommend trying to treat symptoms with anH2antagonistbefore using aproton-pump inhibitorbecause of cost and safety concerns.
+
+
+--- Medical nutrition therapy and lifestyle changes ---
+
+
+Medical nutrition therapy plays an essential role in managing the symptoms of the disease by preventing reflux, preventing pain and irritation, and decreasing gastric secretions.
+
+Some foods such as chocolate, mint, high-fat food, and alcohol have been shown to relax the lower esophageal sphincter, increasing the risk of reflux.Weight loss is recommended for the overweight or obese, as well as avoidance of  bedtime snacks or lying down immediately after meals (meals should occur at least 2–3 hours before bedtime), elevation of the head of the bed on 6-inch blocks, avoidance of smoking, and avoidance of tight clothing that increases pressure in the stomach. It may be beneficial to avoid spices, citrus juices, tomatoes andsoft drinks, and to consume small frequent meals and drink liquids between meals.Some evidence suggests that reduced sugar intake and increased fiber intake can help.Although moderate exercise may improve symptoms in people with GERD, vigorous exercise may worsen them.Breathing exercises may relieve GERD symptoms.
+
+
+--- Medications ---
+
+
+The primary medications used for GERD are proton-pump inhibitors,H2receptor blockersandantacidswith or withoutalginic acid.The use of acid suppression therapy is a common response to GERD symptoms and many people get more of this kind of treatment than their case merits.The overuse of acid suppression is a problem because of the side effects and costs.
+
+
+** Proton-pump inhibitors **
+
+
+Proton-pump inhibitors(PPIs), such asomeprazole, are the most effective, followed by H2receptor blockers.If a once-daily PPI is only partially effective they may be used twice a day.They should be taken one half to one hour before a meal.There is no significant difference between PPIs.When these medications are used long-term, the lowest effective dose should be taken.They may also be taken only when symptoms occur in those with frequent problems.H2receptor blockers lead to roughly a 40% improvement.
+
+
+** Antacids **
+
+
+The evidence forantacidsis weaker with a benefit of about 10% (NNT=13) while a combination of an antacid andalginic acid(such asGaviscon) may improve symptoms by 60% (NNT=4).Metoclopramide(a prokinetic) is not recommended either alone or in combination with other treatments due to concerns around adverse effects.The benefit of the prokineticmosaprideis modest.
+
+
+** Other agents **
+
+
+Sucralfatehas similar effectiveness to H2receptor blockers; however, sucralfate needs to be taken multiple times a day, thus limiting its use.Baclofen, an agonist of the GABABreceptor, while effective, has similar issues of needing frequent dosing in addition to greater adverse effects compared to other medications.
+
+
+--- Surgery ---
+
+
+The standard surgical treatment for severe GERD is theNissen fundoplication. In this procedure, the upper part of the stomach is wrapped around the lower esophageal sphincter to strengthen the sphincter and prevent acid reflux and to repair a hiatal hernia.It is recommended only for those who do not improve with PPIs.Quality of life is improved in the short term compared to medical therapy, but there is uncertainty in the benefits of surgery versus long-term medical management with proton pump inhibitors.When comparing different fundoplication techniques, partial posterior fundoplication surgery is more effective than partial anterior fundoplication surgery,and partial fundoplication has better outcomes than total fundoplication.
+
+Esophagogastric dissociationis an alternative procedure that is sometimes used to treat neurologically impaired children with GERD.Preliminary studies have shown it may have a lower failure rateand a lower incidence of recurrent reflux.
+
+In 2012 the U.S.Food and Drug Administration(FDA) approved a device called the LINX, which consists of a series of metal beads with magnetic cores that are placed surgically around the lower esophageal sphincter, for those with severe symptoms that do not respond to other treatments. Improvement of GERD symptoms is similar to those of the Nissen fundoplication, although there is no data regarding long-term effects. Compared to Nissen fundoplication procedures, the procedure has shown a reduction in complications such asgas bloat syndromethat commonly occur.Adverse responses include difficulty swallowing, chest pain, vomiting, and nausea. Contraindications that would advise against use of the device are patients who are or may beallergictotitanium,stainless steel,nickel, orferrous ironmaterials. A warning advises that the device should not be used by patients who could be exposed to, or undergo,magnetic resonance imaging(MRI) because of serious injury to the patient and damage to the device.
+
+Some patients who are at an increased surgical risk or do not tolerate PPIsmay qualify for a more recently developed incisionless procedure known as a TIFtransoral incisionless fundoplication.Benefits of this procedure may last for up to six years.
+
+
+--- Special populations ---
+
+
+
+** Pregnancy **
+
+
+GERD is a common condition that develops during pregnancy, but usually resolves after delivery.The severity of symptoms tend to increase throughout the pregnancy.In pregnancy, dietary modifications and lifestyle changes may be attempted, but often have little effect. Some lifestyle changes that can be implemented are elevating the head of the bed, eating small portions of food at regularly scheduled intervals, reduce fluid intake with a meal, avoid eating three hours before bedtime, and refrain from lying down after eating.Calcium-basedantacidsare recommended if these changes are not effective; aluminum- and magnesium hydroxide-based antacids are also safe.Antacids that contain sodium bicarbonate or magnesium trisilicate should be avoided in pregnancy.Sucralfate has been studied in pregnancy and proven to be safeas iscimetidineand PPIs.
+
+
+** Babies **
+
+
+Babies may see relief with smaller, more frequentfeedings, more frequent burping during feedings, holding the baby in an upright position 30 minutes after feeding, keeping the baby's head elevated while laying on the back, removing milk and soy from the mother's diet or feeding the babymilk protein-free formula.They may also be treated with medicines such as PPIs or H2receptor blockers.PPIs, however, have not been found to be effective in this population and there is a lack of evidence for safety.
+
+The role of anoccupational therapistwith an infant with GERD includes positioning during and after feeding.One technique used is called thelog-roll technique, which is practiced when changing an infant's clothing or diapers.Placing an infant on their back while having their legs lifted is not recommended since it causes the acid to flow back up theesophagus.Instead, the occupational therapist would suggest rolling the child on the side, keeping the shoulders and hips aligned to avoid acid rising up the baby's esophagus.Another technique used is feeding the baby on their side with an upright position instead of lying flat on their back.The final positioning technique used for infants is to keep them on their stomach or upright for 20 minutes after feeding.

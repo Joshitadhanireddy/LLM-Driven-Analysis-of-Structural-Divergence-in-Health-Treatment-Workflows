@@ -1,0 +1,77 @@
+--- Hearing Loss Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/ear-nose-and-throat-disorders/hearing-loss/hearing-loss?query=presbycusis#Treatment_v944378
+
+=== Treatment of Hearing Loss ===
+
+The causes of a hearing loss should be determined and treated.
+
+Ototoxic medications should be stopped or the dose should be lowered unless the severity of the disease being treated (usually cancer or a severe infection) requires that the risk of additional ototoxic hearing loss be accepted. Attention to peak and trough medication levels is mandatory to help minimize risk and should be obtained in all patients. In patients with renal dysfunction, adjustments to medication dosages with close attention to peak and trough levels are required to minimize the risk of ototoxicity (eg, see dosing considerations for aminoglycoside antibiotics ). There are some genetic abnormalities involving the mitochondria that increase the sensitivity to aminoglycoside antibiotics, and these can be identified with genetic screening.
+
+Fluid from middle ear effusion can be drained by myringotomy and prevented from reaccumulating with the insertion of a tympanostomy tube. Benign growths (eg, enlarged adenoids, nasal polyps) and malignant tumors (eg, nasopharyngeal cancers, sinus cancers) blocking the eustachian tube or ear canal can be removed. Hearing loss caused by autoimmune or systemic rheumatic disorders may respond to corticosteroids.
+
+Damage to the tympanic membrane or ossicles or otosclerosis may require reconstructive surgery (eg, tympanoplasty with ossicular chain reconstruction, ossiculoplasty). Brain tumors causing hearing loss may in some cases be removed or radiated and hearing preserved.
+
+Many causes of hearing loss have no cure, and treatment involves compensating for the hearing loss with hearing aids and, for severe to profound loss, a cochlear implant . In addition, various coping mechanisms may help.
+
+
+--- Hearing aids ---
+
+
+Amplification of sound with a hearing aid helps many people. Although hearing aids do not restore hearing to normal, they can significantly improve communication. Advances in amplification circuits provide a more natural, tonal quality to amplified sound and offer features of "smart," responsive amplification that takes into account the listening environment (eg, in noise-challenging and multi-talker environments). Physicians should encourage hearing aid use and help patients overcome a sense of social stigma that continues to obstruct use of these devices, perhaps by making the analogy that a hearing aid is to hearing as eye glasses are to seeing. Other factors that limit more widespread hearing aid use include cost and comfort issues.
+
+All hearing aids have a microphone, amplifier, speaker, earpiece, and volume control, although they differ in the location of these components. Over-the-counter hearing aids are available with the benefit of lower cost. However, unlike with traditional hearing aids, users do not get the benefit of working with an audiologist to customize the amplification to individual hearing loss frequencies or fit of the ear canal. Over-the-counter hearing aids are only suitable for mild to moderate hearing losses.
+
+The best models are adjusted to a person’s particular pattern of hearing loss. For example, people with mainly high-frequency hearing loss might not benefit from simple amplification, which merely makes the garbled speech they hear sound louder; they usually need a hearing aid that selectively amplifies the high frequencies. Some hearing aids contain vents in the ear mold, which facilitate the passage of high-frequency sound waves. Some use digital sound processing with multiple frequency channels so that amplification more precisely matches hearing loss as measured on the audiogram.
+
+Telephone use can be difficult for people with hearing aids. Typical hearing aids cause squealing when the ear is placed next to the phone handle. Some hearing aids have a phone coil with a switch that turns the microphone off and links the phone coil electromagnetically to the speaker magnet in the phone or uses a bluetooth connection (both landline and mobile phones).
+
+For moderate to severe hearing loss, a postauricular (ear-level) aid, which fits behind the pinna and is coupled to the ear mold with flexible tubing, is appropriate. An in-the-ear aid is contained entirely within the ear mold and fits less conspicuously into the concha and ear canal; it is appropriate for mild to moderate hearing loss. Some people with mild hearing loss limited to high frequencies are most comfortably fitted with postauricular aids and completely open ear canals. Canal aids are contained entirely within the ear canal and are cosmetically acceptable to many people who would otherwise refuse to use a hearing aid, but they are difficult for some people (especially older adults) to manipulate.
+
+The CROS aid (contralateral routing of signals) is occasionally used for severe unilateral hearing loss; a hearing-aid microphone is placed in the nonfunctioning ear, and sound is routed to the functioning ear through a wire or radio transmitter. This device enables the wearer to hear sounds from the nonfunctioning side, allowing for some limited capacity to localize sound. If the better ear also has some hearing loss, the sound from both sides can be amplified with the binaural CROS (BiCROS) aid.
+
+The body aid type is appropriate for profound hearing loss. It is worn in a shirt pocket or a body harness and connected by a wire to the earpiece (the receiver), which is coupled to the ear canal by a plastic insert (ear mold).
+
+A bone conduction aid may be used when an ear mold or tube cannot be used, as in atresia of the ear canal or persistent otorrhea. An oscillator is held against the head, usually over the mastoid, with a spring band, and sound is conducted through the skull to the cochlea. Bone conduction hearing aids require more power, introduce more distortion, and are less comfortable to wear than air conduction hearing aids. Some bone conduction aids (bone-anchored hearing aids or BAHAs) are surgically implanted in the mastoid process, avoiding the discomfort and prominence of the spring band.
+
+
+--- Cochlear implants ---
+
+
+Patients with advanced levels of hearing loss, including those with some residual (natural) hearing but who even with a hearing aid cannot understand more than half of the words contained in connected speech, may benefit from a cochlear implant. The surgery may result in loss of some residual hearing. However, even if residual hearing is lost, cochlear implants can greatly improve hearing, even in people who are profoundly deaf.
+
+This device provides electrical signals directly into the auditory nerve via multiple electrodes implanted in the cochlea. An external microphone and processor convert sound waves to electrical impulses, which are transmitted through the skin electromagnetically from an external induction coil to an internal coil implanted in the skull above and behind the ear. The internal coil connects to electrodes inserted in the scala tympani.
+
+Cochlear implants help with speech-reading by providing information about the intonation of words and the rhythm of speech. Many if not most adults with cochlear implants can discriminate words without visual clues, allowing them to talk on the telephone. Cochlear implants enable deaf people to hear and distinguish environmental sounds and warning signals. They also help deaf people modulate their voice and make their speech more intelligible.
+
+Outcomes with cochlear implants vary, depending on a number of factors, including the
+
+  - Length of time between onset of hearing loss and placement of the implant (shorter duration leads to better outcomes)
+
+  - Cause of the underlying hearing loss
+
+  - Position of the implant within the cochlea
+
+Length of time between onset of hearing loss and placement of the implant (shorter duration leads to better outcomes)
+
+Cause of the underlying hearing loss
+
+Position of the implant within the cochlea
+
+
+--- Brain stem implants ---
+
+
+Although cochlear implants are not an option for patients who have had both acoustic nerves destroyed (eg, by bilateral temporal bone fractures or neurofibromatosis) or are born without cochlear nerves, these patients can have some hearing restored by means of brain stem implants that have electrodes connected to sound-detecting and sound-processing devices similar to those used for cochlear implants, although usually not as good. In general, children born without cochlear nerves who receive the brain stem implant tend to have more hearing restored than patients who receive it following vestibular neuroma resection. Results of the brain stem implant range from assistance with lip-reading skills to the ability to understand language without lip-reading (termed "open-set speech" understanding).
+
+
+--- Assistive strategies and technologies ---
+
+
+Alerting systems that use light let people know when the doorbell is ringing, a smoke detector is sounding, or a baby is crying. Special sound systems transmitting infrared or FM radio signals help people hear in theaters, churches, or other places where competing noise exists. Many television programs carry closed captioning. Telephone communication devices are also available.
+
+Lip-reading or speech-reading is particularly important for people who can hear but have trouble discriminating sounds. Most people get useful speech information from lip-reading even without formal training. Even people with normal hearing can better understand speech in a noisy place if they can see the speaker. To use this information, the listener must be able to see the speaker’s mouth. Health care personnel should be sensitive to this issue and always position themselves appropriately when speaking to the hearing-impaired. Observing the position of a speaker’s lips allows recognition of the consonant being spoken, thereby improving speech comprehension in patients with high-frequency hearing loss. Lip-reading may be learned in aural rehabilitation sessions in which a group of age-matched peers meets regularly for instruction and supervised practice in optimizing communication.
+
+People can gain control over their listening environment by modifying or avoiding difficult situations. For example, people can visit a restaurant during off-peak hours, when it is quieter. They can ask for a booth, which blocks out some extraneous sounds. In direct conversations, people may ask the speaker to face them. At the beginning of a telephone conversation, they can identify themselves as being hearing-impaired. At a conference, the speaker can be asked to use an assistive listening system, which makes use of either inductive loop, infrared, or FM technology that sends sound through the microphone to a patient’s hearing aid.
+
+People with profound hearing loss often communicate by using sign language . American Sign Language (ASL) is the most common version in the United States. Other forms of linguistic communication that utilize visual inputs include Signed English, Signing Exact English, and Cued Speech. Around the world, it has been estimated that there are over 300 unique sign languages, with different countries, cultures, and villages having their own unique form of sign language.

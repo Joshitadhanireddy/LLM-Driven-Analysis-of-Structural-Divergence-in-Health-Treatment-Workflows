@@ -1,0 +1,24 @@
+CHRONIC KIDNEY DISEASE (CKD) TREATMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Slow progression and protect kidneys
+   - Maintain regular visits with primary provider/nephrologist.
+   - Tight control of diabetes (if present) and blood pressure.
+   - Avoid nephrotoxic medications (unnecessary NSAIDs and other harmful drugs).
+
+2. Lifestyle and diet
+   - Follow a kidney-friendly diet:
+     * Adjust protein intake.
+     * Limit sodium, potassium and phosphorus as advised.
+     * Choose heart-healthy, cholesterol-lowering foods.
+   - Don’t smoke; maintain healthy weight; exercise most days of the week.
+
+3. Medication management
+   - ACE inhibitor or ARB for blood pressure and kidney protection when indicated.
+   - Diuretics for fluid overload.
+   - Phosphate binders, vitamin D and calcitriol for mineral/bone health.
+   - Erythropoietin and iron for anemia.
+   - Lipid-lowering medications for cardiovascular protection.
+
+4. Planning for advanced CKD
+   - Educate about end-stage options: hemodialysis, peritoneal dialysis and kidney transplantation.
+   - Refer early for transplant evaluation where appropriate.

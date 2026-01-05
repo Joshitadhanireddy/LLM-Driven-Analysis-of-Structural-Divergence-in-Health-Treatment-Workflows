@@ -1,0 +1,35 @@
+BENIGN PROSTATIC HYPERPLASIA (BPH) MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Initial evaluation
+   - Assess prostate size, symptom severity, age, comorbidities.
+   - If symptoms mild and not bothersome → watchful waiting.
+
+2. Medication therapy (most common first-line)
+   2.1 Alpha blockers
+       - Alfuzosin, doxazosin, tamsulosin, silodosin, terazosin.
+       - Rapid relief; main side effects: dizziness, retrograde ejaculation.
+   2.2 5‑alpha reductase inhibitors
+       - Finasteride, dutasteride.
+       - Shrink prostate; take months to work.
+       - Sexual side effects possible.
+   2.3 Combination therapy
+       - Alpha blocker + 5‑ARI for insufficient response.
+   2.4 Tadalafil
+       - Helps both erectile dysfunction and BPH symptoms.
+
+3. Surgical & procedural options
+   - TURP → rapid symptom improvement; may require catheter post‑op.
+   - TUIP → for smaller prostates.
+   - TUMT → microwave therapy (used less; benefits small).
+   - Laser therapy:
+       * PVP, HoLAP, HoLEP (removes tissue; fewer complications).
+   - Prostate lift (UroLift) → fewer sexual side effects.
+   - WVTT (water vapor thermal therapy).
+   - Robotic waterjet ablation.
+   - Open or robotic prostatectomy → very large prostates.
+   - Prostate artery embolization (PAE) → in trained interventional radiology centers.
+
+4. Follow-up
+   - Activity restrictions vary by procedure.
+   - Monitor urinary symptoms, sexual side effects, infections.
+

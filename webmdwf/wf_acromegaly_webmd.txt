@@ -1,0 +1,49 @@
+ACROMEGALY TREATMENT WORKFLOW (from WebMD-based plan)
+
+1. Treatment planning
+   - Confirm diagnosis and staging.
+   - Consider age, general health, tumor size/location, and symptom severity.
+   - Combine surgery, medicines, and/or radiation as needed.
+
+2. First-line: Pituitary tumor surgery
+   - Indications:
+     * Large tumor, especially if pressing on optic nerves or nearby brain areas.
+   - Approach:
+     * Transsphenoidal access via nose or upper lip to tumor at brain base.
+   - Post-op assessment:
+     * Recheck GH/IGF-1 hormone levels.
+     * Imaging of surgical area.
+     * Monitor early symptom improvement (often within days).
+
+3. Medical therapy after (or instead of) surgery
+   3.1 Somatostatin analogs
+       - Lanreotide, octreotide, pasireotide.
+       - Lower GH and IGF-1 levels.
+   3.2 GH receptor antagonists
+       - Pegvisomant.
+       - Block GH action in tissues.
+   3.3 Dopamine agonists
+       - Cabergoline, bromocriptine.
+       - Lower GH in some patients.
+
+4. When surgery is not an option or is insufficient
+   - Consider paltusotine (Palsonify):
+     * Once-daily oral somatostatin-mimetic.
+     * Lowers GH and IGF-1, may slow disease progression.
+
+5. Radiation therapy (for residual tumor or persistent hormone excess)
+   - Conventional fractionated radiation:
+     * Daily treatments (weekdays) for 4–6 weeks.
+     * Clinical effect may take 10+ years.
+   - Proton beam therapy:
+     * High-dose beam targeted to tumor, sparing normal tissue.
+     * Several sessions; shorter overall course than conventional radiation.
+   - Stereotactic radiosurgery:
+     * Single high-dose treatment precisely focused on tumor.
+     * Can normalize GH levels over several years (~5 years).
+
+6. Long-term goals
+   - Normalize GH/IGF-1.
+   - Control tumor growth.
+   - Relieve symptoms and prevent complications.
+   - Adjust combination of surgery, medicines, and radiation over time.

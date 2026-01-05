@@ -1,0 +1,173 @@
+--- Atopic Dermatitis (Eczema) Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/dermatologic-disorders/dermatitis/atopic-dermatitis-eczema?query=atopic%20dermatitis#Treatment_v961091\n\n
+
+=== Treatment of Atopic Dermatitis ===
+
+  - Supportive care (including counseling on appropriate skin care and avoidance of precipitating factors)
+
+  - Antipruritics
+
+  - Topical corticosteroids
+
+  - Topical calcineurin inhibitors
+
+  - Topical crisaborole
+
+  - Topical Janus kinase (JAK) inhibitor (eg, ruxolitinib )
+
+  - Phototherapy, particularly narrow-band ultraviolet B
+
+  - Systemic immunosuppressants for moderate to severe disease
+
+  - Treatment of superinfections
+
+Supportive care (including counseling on appropriate skin care and avoidance of precipitating factors)
+
+Topical Janus kinase (JAK) inhibitor (eg, ruxolitinib )
+
+Systemic immunosuppressants for moderate to severe disease
+
+Treatment of atopic dermatitis is most effective when addressing the underlying pathophysiologic processes.
+
+Counseling on appropriate skin care and avoidance of triggers helps patients address the underlying skin barrier defect. Scratching lesions commonly increases itching and thus induces more scratching. Breaking this itch–scratch cycle is important.
+
+Inflammatory flare-ups can be curtailed with topical immunosuppressants; phototherapy; and, if necessary; systemic immunosuppressants ( 1, 2, 3, 4, 5, 6 ).
+
+Almost all patients with atopic dermatitis can be treated as outpatients, but patients who have severe superinfections or erythroderma may need to be hospitalized.
+
+
+--- Supportive care ---
+
+
+General skin care should be focused on the most common sources of skin irritation—excessive washing and harsh soaps:
+
+  - Limit the frequency and length of washing and bathing (showers/baths should be limited to once daily; sponge baths can be substituted to decrease the number of days with full baths)
+
+  - Limit the temperature of bathing water to lukewarm
+
+  - Avoid excessive rubbing; instead, pat skin dry after showering/bathing
+
+  - Apply moisturizers (ointments or creams—ceramide-containing products are particularly useful)
+
+  - For skin superinfection (eg, when yellowish crusting suggests impetigo), bathe with diluted bleach (eg, 60 mL [¼ cup] of household bleach [6%] into 76 L [20 gallons] of warm water)
+
+Limit the frequency and length of washing and bathing (showers/baths should be limited to once daily; sponge baths can be substituted to decrease the number of days with full baths)
+
+Limit the temperature of bathing water to lukewarm
+
+Avoid excessive rubbing; instead, pat skin dry after showering/bathing
+
+Apply moisturizers (ointments or creams—ceramide-containing products are particularly useful)
+
+For skin superinfection (eg, when yellowish crusting suggests impetigo), bathe with diluted bleach (eg, 60 mL [¼ cup] of household bleach [6%] into 76 L [20 gallons] of warm water)
+
+Oral antihistamines can help relieve pruritus via their sedating properties. Options include hydroxyzine and diphenhydramine , preferably at bedtime to avoid the sedating effects during the day. Low-sedating or nonsedating antihistamines, such as loratadine , fexofenadine , or cetirizine may be useful, but their efficacy has not been established. Doxepin (a tricyclic antidepressant with H1 and H2 receptor blocking activity) may also help, but it is not recommended for children can help relieve pruritus via their sedating properties. Options include hydroxyzine and diphenhydramine, preferably at bedtime to avoid the sedating effects during the day. Low-sedating or nonsedating antihistamines, such as loratadine, fexofenadine, or cetirizine may be useful, but their efficacy has not been established. Doxepin (a tricyclic antidepressant with H1 and H2 receptor blocking activity) may also help, but it is not recommended for children < 12 years.
+
+Reduction of emotional stress is useful and helps break the itch–scratch cycle. Stress can affect the family (eg, being kept awake by a crying baby) as well as the patient (eg, being unable to sleep because of itching).
+
+Dietary changes are not indicated as atopic dermatitis is only very rarely driven by food allergy. Diet restrictions, intended to eliminate exposure to allergenic foods, are not only ineffective but may increase stress unnecessarily.
+
+Fingernails should be cut short to minimize excoriations and secondary infections.
+
+
+--- Topical corticosteroids ---
+
+
+Topical corticosteroids are the mainstay of therapy.
+
+Creams or ointments applied 2 times a day are effective for most patients with mild or moderate disease. Low- to mid-potency corticosteroids often control skin inflammation, but high-potency corticosteroids are needed for resolution of chronically inflamed, lichenified skin. Dermatologic adverse effects of topical corticosteroids include thinning of the skin, striae distensae, and skin infections. Adverse effects vary and depend upon the potency of the corticosteroid, the duration of its use, and the skin location where it is applied. Prolonged, widespread use of high-potency corticosteroids should be avoided, particularly in infants, to avoid adrenal suppression. Corticosteroids should be stopped once the skin inflammation is controlled and should never be used to prevent recurrences.
+
+Systemic corticosteroids can provide emergency relief, but long-term use should be avoided due to their multiple adverse effects. Because atopic dermatitis tends to flare when systemic corticosteroids are stopped, other treatments are typically required to manage tapering and discontinuation of systemic corticosteroids.
+
+
+--- Topical calcineurin inhibitors ---
+
+
+Topical tacrolimus and pimecrolimus are calcineurin inhibitors. They are T-cell inhibitors and can be used for mild to moderate atopic dermatitis or when corticosteroid adverse effects are a concern.
+
+Tacrolimus ointment or pimecrolimus cream is applied 2 times a day. Tacrolimus ointment or pimecrolimus cream is applied 2 times a day.
+
+Burning or stinging after application is usually transient and abates after a few days. Flushing is less common.
+
+
+--- Topicalcrisaborole ---
+
+
+Crisaborole is a topical phosphodiesterase-4 inhibitor. Crisaborole 2% ointment can be used for mild to moderate atopic dermatitis in patients 2 years of age or older. Crisaborole is a topical phosphodiesterase-4 inhibitor. Crisaborole 2% ointment can be used for mild to moderate atopic dermatitis in patients 2 years of age or older.
+
+Crisaborole is applied to areas of eczema 2 times a day. It cannot be used on mucous membranes.
+
+Burning or stinging after application is the most common adverse effect.
+
+
+--- Topicalruxolitinib ---
+
+
+Ruxolitinib is a Janus kinase (JAK) inhibitor. Ruxolitinib is a Janus kinase (JAK) inhibitor. Ruxolitinib 1.5% cream can be used for the short-term and noncontinuous treatment of mild to moderate atopic dermatitis in immunocompetent patients 12 years of age and older whose disease is not adequately controlled with other topical prescription therapies, or when those therapies are not advisable.
+
+Ruxolitinib is applied as a thin layer 2 times a day to up to 20% of the body surface area for up to 8 weeks.
+
+
+--- Phototherapy ---
+
+
+Phototherapy with narrow-band ultraviolet B (UVB) is helpful for extensive atopic dermatitis, particularly when appropriate skin care and topical treatments fail to control inflammation. Because narrow-band UVB has greater efficacy than the previously used broad-band UVB, psoralen plus UVA (PUVA) therapy is rarely used. While an increase in skin cancer risk with narrow-band UVB phototherapy has not been demonstrated, this remains a potential concern, particularly when used in children or for extended periods of time. This risk needs to be weighed against risks of other systemic treatments after failure of appropriate skin care and topical treatments.
+
+If office-based phototherapy is not available or is too inconvenient, home phototherapy is a good alternative. Several home phototherapy devices have programmable features that allow specialists to monitor and supervise a patient's use of the device.
+
+Natural sun exposure is an alternative when phototherapy is not available.
+
+
+--- Systemic immunosuppressants ---
+
+
+Systemic immunosuppressants, such as cyclosporine , mycophenolate , methotrexate , and azathioprine , inhibit T-cell function. These medications are indicated for widespread, recalcitrant, or disabling atopic dermatitis that fails to abate with topical therapy and phototherapy. Their use must be balanced against risk of adverse effects, particularly with long-term use. Systemic immunosuppressants, such as cyclosporine, mycophenolate, methotrexate, and azathioprine, inhibit T-cell function. These medications are indicated for widespread, recalcitrant, or disabling atopic dermatitis that fails to abate with topical therapy and phototherapy. Their use must be balanced against risk of adverse effects, particularly with long-term use.
+
+For moderate to severe atopic dermatitis that does not respond to topical therapies, first-line treatment options are the biologic agents dupilumab or tralokinumab . For moderate to severe atopic dermatitis that does not respond to topical therapies, first-line treatment options are the biologic agents dupilumab or tralokinumab.
+
+Dupilumab is a fully human monoclonal IgG4 antibody that blocks the signaling of the proinflammatory Th2 cytokines IL-4 and IL-13 in atopic dermatitis. It is available for the treatment of moderate to severe atopic dermatitis in patients 6 years of age or older and is recommended for patients whose disease is not adequately controlled with other treatments.
+
+Dupilumab is given subcutaneously in a regimen that involves a loading dose followed by periodic (weekly or biweekly) dosing. The most common adverse effects are injection site reactions, eye inflammation and irritation (conjunctivitis, blepharitis, keratitis, pruritus, and dry eye), herpes simplex virus infections, and eosinophilia. Dupilumab is given subcutaneously in a regimen that involves a loading dose followed by periodic (weekly or biweekly) dosing. The most common adverse effects are injection site reactions, eye inflammation and irritation (conjunctivitis, blepharitis, keratitis, pruritus, and dry eye), herpes simplex virus infections, and eosinophilia.
+
+Tralokinumab is a fully human monoclonal antibody against the IL-13 receptors alpha 1 and alpha 2. It is available for the treatment of moderate to severe atopic dermatitis in adults whose disease is not adequately controlled with topical therapies.
+
+Tralokinumab -ldrm is also given subcutaneously. The most common adverse effects are upper respiratory infections, conjunctivitis, injection site reactions, and eosinophilia. Tralokinumab-ldrm is also given subcutaneously. The most common adverse effects are upper respiratory infections, conjunctivitis, injection site reactions, and eosinophilia.
+
+Oral JAK inhibitors ( upadacitinib , abrocitinib , and baricitinib ) are the newest systemic immunosuppressants that also may be used in patients 12 years of age or older with moderate to severe atopic dermatitis and inadequate disease control with other systemic medications, including biologic agents. Risks include serious infections, cancer, cardiovascular events, thrombosis, and death. Oral JAK inhibitors (upadacitinib, abrocitinib, and baricitinib) are the newest systemic immunosuppressants that also may be used in patients 12 years of age or older with moderate to severe atopic dermatitis and inadequate disease control with other systemic medications, including biologic agents. Risks include serious infections, cancer, cardiovascular events, thrombosis, and death.
+
+
+--- Treatment of superinfections ---
+
+
+Antistaphylococcal antibiotics, both topical (eg, mupirocin , fusidic acid) and oral, are used to treat bacterial skin superinfections, such as both topical (eg, mupirocin, fusidic acid) and oral, are used to treat bacterial skin superinfections, such as impetigo , folliculitis , or furunculosis . Staphylococcus aureus, the most common bacterium causing skin infections in patients with atopic dermatitis, is often resistant to methicillin (methicillin-resistant S. aureus [MRSA]).
+
+Doxycycline or trimethoprim /sulfamethoxazole are good initial choices for systemic antibiotics because MRSA is most often sensitive to these antibiotics. However, bacterial cultures with resistance testing are recommended before starting systemic antibiotics because resistance cannot be predicted. Doxycycline or trimethoprim/sulfamethoxazole are good initial choices for systemic antibiotics because MRSA is most often sensitive to these antibiotics. However, bacterial cultures with resistance testing are recommended before starting systemic antibiotics because resistance cannot be predicted.
+
+Nasal mupirocin is recommended for patients who are nasal carriers of Nasal mupirocin is recommended for patients who are nasal carriers of Staphylococcus aureus , a potential source of recurrent impetiginization. Screening for Staphylococcus aureus colonization (eg, of the nasal canals) should be considered in patients with frequent superinfections.
+
+Eczema herpeticum is treated with systemic antivirals (eg, acyclovir , valacyclovir ). Involvement of the eye is considered an ophthalmic emergency. If eye involvement is suspected, an ophthalmology consult should be obtained. , valacyclovir). Involvement of the eye is considered an ophthalmic emergency. If eye involvement is suspected, an ophthalmology consult should be obtained.
+
+  - 1. Davis DMR, Drucker AM, Alikhan A, et al . Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2024;90(2):e43-e56. doi:10.1016/j.jaad.2023.08.102
+
+  - 2. Sidbury R, Alikhan A, Bercovitch L, et al . Executive summary: American Academy of Dermatology guidelines of care for the management of atopic dermatitis in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):128-129. doi:10.1016/j.jaad.2022.08.068
+
+  - 3. AAAAI/ACAAI JTF Atopic Dermatitis Guideline Panel, Chu DK, Schneider L, et al . Atopic dermatitis (eczema) guidelines: 2023 American Academy of Allergy, Asthma and Immunology/American College of Allergy, Asthma and Immunology Joint Task Force on Practice Parameters GRADE- and Institute of Medicine-based recommendations. Ann Allergy Asthma Immunol. 2024;132(3):274-312. doi:10.1016/j.anai.2023.11.009
+
+  - 4. Chu AWL, Wong MM, Rayner DG, et al . Systemic treatments for atopic dermatitis (eczema): Systematic review and network meta-analysis of randomized trials. J Allergy Clin Immunol. 2023;152(6):1470-1492. doi:10.1016/j.jaci.2023.08.029
+
+  - 5. Sidbury R, Alikhan A, Bercovitch L, et al . Guidelines of care for the management of atopic dermatitis in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):e1-e20. doi:10.1016/j.jaad.2022.12.029
+
+  - 6. Davis DMR, Drucker AM, Alikhan A, et al . Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2024;90(2):e43-e56. doi:10.1016/j.jaad.2023.08.102
+
+1. Davis DMR, Drucker AM, Alikhan A, et al . Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2024;90(2):e43-e56. doi:10.1016/j.jaad.2023.08.102
+
+2. Sidbury R, Alikhan A, Bercovitch L, et al . Executive summary: American Academy of Dermatology guidelines of care for the management of atopic dermatitis in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):128-129. doi:10.1016/j.jaad.2022.08.068
+
+3. AAAAI/ACAAI JTF Atopic Dermatitis Guideline Panel, Chu DK, Schneider L, et al . Atopic dermatitis (eczema) guidelines: 2023 American Academy of Allergy, Asthma and Immunology/American College of Allergy, Asthma and Immunology Joint Task Force on Practice Parameters GRADE- and Institute of Medicine-based recommendations. Ann Allergy Asthma Immunol. 2024;132(3):274-312. doi:10.1016/j.anai.2023.11.009
+
+4. Chu AWL, Wong MM, Rayner DG, et al . Systemic treatments for atopic dermatitis (eczema): Systematic review and network meta-analysis of randomized trials. J Allergy Clin Immunol. 2023;152(6):1470-1492. doi:10.1016/j.jaci.2023.08.029
+
+5. Sidbury R, Alikhan A, Bercovitch L, et al . Guidelines of care for the management of atopic dermatitis in adults with topical therapies. J Am Acad Dermatol. 2023;89(1):e1-e20. doi:10.1016/j.jaad.2022.12.029
+
+6. Davis DMR, Drucker AM, Alikhan A, et al . Guidelines of care for the management of atopic dermatitis in adults with phototherapy and systemic therapies. J Am Acad Dermatol. 2024;90(2):e43-e56. doi:10.1016/j.jaad.2023.08.102

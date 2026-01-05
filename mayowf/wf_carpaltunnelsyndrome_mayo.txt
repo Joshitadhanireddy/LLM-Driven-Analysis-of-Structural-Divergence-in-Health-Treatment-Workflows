@@ -1,0 +1,42 @@
+CARPAL TUNNEL SYNDROME TREATMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Early self-care (mild, recent-onset CTS)
+   - Rest hands more often; avoid provoking activities.
+   - Use cold packs to reduce swelling.
+   - Seek medical care if numbness or persistent symptoms develop.
+
+2. Nonsurgical therapy (first-line in mild–moderate CTS < ~10 months)
+   2.1 Wrist splinting
+       - Night splint to keep wrist neutral and reduce nocturnal numbness/tingling.
+       - Often preferred in pregnancy (drug-free).
+   2.2 NSAIDs
+       - Short-term ibuprofen or similar for pain relief.
+       - Do NOT modify disease course.
+   2.3 Corticosteroid injection
+       - Local cortisone injection into carpal tunnel ± ultrasound guidance.
+       - Reduces inflammation and relieves pressure on median nerve.
+       - Oral steroids less effective than injection.
+
+3. Treat underlying inflammatory disease
+   - If CTS is secondary to RA or other inflammatory arthritis, treat that disease.
+   - May reduce CTS symptoms (evidence not definitive).
+
+4. Indications for surgery
+   - Severe CTS or failure of conservative therapy.
+   - Goal: cut the transverse carpal ligament to decompress median nerve.
+
+5. Surgical options
+   - Endoscopic carpal tunnel release:
+       * Endoscope introduced via 1–2 small incisions.
+       * May cause less early postoperative pain.
+   - Open carpal tunnel release:
+       * Single incision in palm; ligament cut under direct vision.
+   - Ultrasound-guided release:
+       * Ultrasound visualization of nerve, tendons, vessels, ligament.
+       * Ligament cut via small knife or braided wire.
+
+6. Postoperative recovery
+   - Internal ligament healing over several months; skin heals in weeks.
+   - Gradual return to hand use; avoid forceful motions/extreme wrist positions early.
+   - Soreness/weakness may last weeks–months; severe pre-op CTS may not fully resolve.
+

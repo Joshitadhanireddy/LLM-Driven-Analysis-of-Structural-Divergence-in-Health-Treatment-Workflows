@@ -1,0 +1,35 @@
+BELL’S PALSY MANAGEMENT WORKFLOW (from WebMD-based plan)
+
+1. Prognosis overview
+   - Most people recover fully, often without treatment.
+   - Treatment focuses on speeding recovery and protecting the eye.
+
+2. Early medical treatment
+   2.1 Corticosteroids (e.g., prednisone)
+       - Start as soon as possible after onset.
+       - Reduce facial nerve swelling; speed return of function.
+   2.2 Antiviral drugs (with steroids in severe cases)
+       - Acyclovir or valacyclovir.
+       - Limited benefit when used alone; sometimes combined with steroids.
+
+3. Eye protection
+   - Use lubricating eye drops or ointments to prevent dryness.
+   - Wear an eye patch to keep moisture in and debris out.
+   - Continue eye care until eyelid closure and blinking recover.
+
+4. Physical therapy
+   - Facial exercises and massage.
+   - Aim to maintain muscle tone and improve facial coordination.
+   - Gently practice movements across all facial regions.
+
+5. Surgical and cosmetic options (for persistent deficits)
+   - Consider if weakness or asymmetry lasts 6–12 months or more.
+   - Options:
+     * Cosmetic procedures to help eyelid closure or correct crooked smile.
+     * Nerve grafts or muscle transfers for facial reanimation.
+
+6. Recovery course
+   - Symptoms worsen over first 48–72 hours.
+   - Improvements typically begin over the following weeks.
+   - Most regain near-normal facial movement by ~3 months.
+   - Some may develop long-term issues (synkinesis, tightness, asymmetry) if nerves do not heal correctly.

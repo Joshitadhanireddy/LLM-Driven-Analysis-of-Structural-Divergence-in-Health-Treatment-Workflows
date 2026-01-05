@@ -1,0 +1,29 @@
+ACROMEGALY TREATMENT WORKFLOW (from Merck-based plan)
+
+1. First-line: Pituitary tumor surgery
+   - Selective removal of pituitary adenoma (transsphenoidal).
+   - Assess cure: normalize GH after glucose load + IGF‑1 levels.
+   - If labs still abnormal → add medical therapy and/or radiation.
+
+2. Medical therapy indications
+   - Surgery contraindicated OR
+   - Residual/unresectable tumor OR
+   - While waiting for radiation effect.
+
+3. Medical options
+   - Somatostatin receptor ligands (SRLs)
+     * Octreotide (IM, or oral), lanreotide (deep SC) – monthly; may extend interval if well controlled.
+     * Pasireotide if octreotide/lanreotide inadequate.
+   - Dopamine agonist
+     * Cabergoline for mild disease, often combined with SRL.
+   - GH receptor antagonist
+     * Pegvisomant daily SC; normalizes IGF‑1 and symptoms but does not shrink tumor.
+
+4. Radiation therapy
+   - Stereotactic radiation (~5000 cGy) or proton beam (higher dose, fewer centers).
+   - Typically reserved for persistent disease or when surgery/meds not feasible.
+   - GH may take years to normalize; hypopituitarism common long‑term.
+
+5. Long-term follow-up
+   - Lifelong monitoring of GH/IGF‑1, pituitary function, and tumor size.
+   - Manage comorbidities: hypertension, heart failure, diabetes, sleep apnea.

@@ -1,0 +1,28 @@
+CHLAMYDIA (UROGENITAL) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Core antibiotic therapy (uncomplicated infection)
+   - First-line: doxycycline 100 mg orally twice daily for 7 days.
+   - Alternatives: azithromycin 1 g orally single dose OR levofloxacin 500 mg orally once daily for 7 days.
+   - In pregnancy:
+     * Preferred: azithromycin 1 g orally single dose.
+     * Alternative: amoxicillin 500 mg orally three times daily for 7 days.
+   - Pregnant patients: test of cure at 4 weeks and retest within 3 months.
+
+2. Gonorrhea coverage
+   - Regimens above do NOT reliably treat gonorrhea.
+   - Give ceftriaxone 500 mg IM single dose (1 g if ≥150 kg) unless gonorrhea has been excluded.
+
+3. Trichomonas coverage (where prevalent)
+   - Empiric treatment with metronidazole, tinidazole, or secnidazole unless NAAT is negative for trichomoniasis.
+
+4. Partner management and sexual precautions
+   - Evaluate, test, and presumptively treat sex partners within the past 60 days, or the most recent partner if last sex >60 days ago.
+   - Patients and partners should avoid sexual activity until ALL have completed at least 1 week of treatment.
+
+5. Retreatment and reinfection
+   - Relapses (up to ~13% within 12 months) often represent reinfection or coinfection with other organisms.
+   - Retest for chlamydia, gonorrhea, and when possible mycoplasma and trichomoniasis.
+   - Consider expedited partner therapy (EPT) where legally permitted.
+
+6. Post-exposure prophylaxis in high-risk groups
+   - Doxycycline taken within 72 hours of condomless sex can reduce incidence of chlamydia, gonorrhea, and syphilis in certain high-risk populations (per CDC guidance).

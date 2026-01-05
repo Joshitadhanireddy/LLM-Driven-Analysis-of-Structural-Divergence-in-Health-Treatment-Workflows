@@ -1,0 +1,46 @@
+POLYCYSTIC OVARY SYNDROME (PCOS) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Core treatment goals
+   - Normalize endometrial shedding and reduce estrogen-related cancer risk.
+   - Improve metabolic profile and insulin sensitivity.
+   - Manage acne, hirsutism, and menstrual irregularity.
+   - Support fertility when pregnancy is desired.
+   - Address psychological and cardiometabolic comorbidities.
+
+2. Cycle and endometrial protection
+   - First-line: combined estrogen–progestin contraceptives (pill/patch/ring):
+     * Regulate menses, reduce circulating androgens, improve acne and hirsutism.
+   - Alternatives when estrogen not suitable:
+     * Cyclic oral progestins every 1–2 months.
+     * Levonorgestrel IUD for local progestin effect.
+   - Prefer progestins with antiandrogenic properties (e.g., drospirenone, dienogest) when appropriate.
+
+3. Metabolic management
+   - Lifestyle: weight loss and regular exercise for patients with overweight/obesity.
+   - Metformin (500–1000 mg twice daily):
+     * Improves insulin sensitivity, metabolic markers, and cycle regularity.
+     * Minimal direct effect on hirsutism/acne/infertility; consider contraception if pregnancy not desired.
+   - Investigational/adjunct:
+     * GLP-1 receptor agonists or TZDs with metformin for obesity/insulin resistance in selected patients.
+
+4. Hirsutism and acne
+   - Physical hair removal methods (bleaching, waxing, depilation, electrolysis, laser).
+   - Topical eflornithine for facial hair.
+   - Estrogen–progestin contraceptives to reduce androgen levels.
+   - Antiandrogens (e.g., spironolactone) with reliable contraception due to teratogenic risk.
+   - Standard acne therapies; systemic isotretinoin only for severe cases.
+
+5. Fertility management
+   - First-line ovulation induction: clomiphene.
+   - Alternative/adjunct: letrozole (aromatase inhibitor), other gonadotropin-based regimens.
+   - If medications fail or other indications exist: consider laparoscopic ovarian drilling (with awareness of adhesion/ovarian insufficiency risk).
+
+6. Comorbidity screening and management
+   - Screen for depression, anxiety, sleep apnea in appropriate patients.
+   - Assess cardiometabolic risk: BMI, blood pressure, glucose tolerance, lipids, family history.
+   - Manage cardiovascular risk factors early and consider specialist referral.
+   - Evaluate abnormal uterine bleeding or chronic anovulation for endometrial hyperplasia/cancer.
+
+7. Long-term follow-up
+   - Periodic review of cycles, metabolic labs, weight, and treatment goals (fertility vs contraception).
+   - Adjust therapy as reproductive goals and comorbidities evolve.

@@ -1,0 +1,35 @@
+CHRONIC KIDNEY DISEASE (CKD) MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Treat underlying cause
+   - Diabetes, hypertension, glomerulonephritis, etc.
+   - Disease may progress even after cause controlled.
+
+2. Manage CKD complications
+   - Hypertension:
+       * ACE inhibitors or ARBs.
+       * Monitor kidney function & electrolytes.
+       * Salt restriction; possible diuretics.
+   - Fluid retention:
+       * Diuretics for leg edema or hypertension.
+   - Anemia:
+       * Erythropoietin + iron supplementation.
+   - Dyslipidemia:
+       * Statins to lower cardiovascular risk.
+   - Bone/mineral disease:
+       * Calcium, vitamin D, phosphate binders.
+   - Protein restriction:
+       * Helps reduce nitrogenous waste burden.
+
+3. Monitoring
+   - Regular follow-up labs for progression.
+
+4. End-stage kidney disease
+   - Dialysis options:
+       * Hemodialysis.
+       * Peritoneal dialysis.
+   - Kidney transplant:
+       * From living or deceased donor.
+       * Lifelong immunosuppression required.
+   - Conservative care if no dialysis/transplant:
+       * Symptom management + palliative care.
+

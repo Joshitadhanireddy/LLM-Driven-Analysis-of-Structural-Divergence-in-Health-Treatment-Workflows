@@ -1,0 +1,41 @@
+ATOPIC DERMATITIS (ECZEMA) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Supportive care & trigger control
+   - Limit bathing to once daily; lukewarm water; pat dry.
+   - Avoid harsh soaps and excessive rubbing.
+   - Liberal use of moisturizers (ointments/creams, ceramide‑containing preferred).
+   - Short nails; manage stress; avoid unnecessary elimination diets.
+   - For suspected superinfection: diluted bleach baths.
+
+2. Itch control
+   - Sedating oral antihistamines (eg, hydroxyzine, diphenhydramine) at night.
+   - Non‑sedating antihistamines may help some patients.
+
+3. Topical anti‑inflammatory therapy
+   - Topical corticosteroids twice daily:
+     * Low‑/mid‑potency for most flares; high‑potency for lichenified skin with time/area limits.
+   - Avoid prolonged widespread high‑potency use (skin atrophy, adrenal suppression).
+   - Stop steroids once inflammation controlled; do not use continuously to prevent flares.
+
+4. Steroid‑sparing topical agents
+   - Calcineurin inhibitors: tacrolimus, pimecrolimus (BID) for sensitive areas or steroid‑sparing.
+   - Crisaborole 2% ointment (PDE‑4 inhibitor) for mild–moderate disease.
+   - Topical JAK inhibitor ruxolitinib for short‑term, non‑continuous use on limited BSA.
+
+5. Phototherapy
+   - Narrow‑band UVB for extensive disease not controlled with optimized topicals.
+   - Consider home phototherapy if office access difficult; balance benefit vs theoretical cancer risk.
+
+6. Systemic therapy for moderate–severe, refractory disease
+   - Conventional immunosuppressants: cyclosporine, methotrexate, mycophenolate, azathioprine.
+   - Biologics: dupilumab, tralokinumab (first‑line systemic for many moderate–severe cases).
+   - Oral JAK inhibitors (upadacitinib, abrocitinib, baricitinib) with careful risk–benefit assessment.
+
+7. Infection management
+   - Topical/oral antistaphylococcal antibiotics for impetigo/folliculitis/furunculosis; culture for MRSA.
+   - Nasal mupirocin for staph carriers with recurrent infection.
+   - Eczema herpeticum: systemic antivirals; urgent ophthalmology if eye involvement.
+
+8. Follow‑up
+   - Step therapy up or down based on control.
+   - Reinforce skin‑care routine and adherence at each visit.

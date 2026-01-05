@@ -1,0 +1,25 @@
+COMMON COLD MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Self-care
+   - Rest.
+   - Hydration.
+   - Humidify air.
+   - Saline nasal rinses.
+
+2. Antibiotics
+   - NOT effective; viral illness.
+
+3. Pain relievers
+   - Adults: acetaminophen or ibuprofen.
+   - Children:
+       * Avoid aspirin (Reye’s syndrome risk).
+       * Age-specific dosing rules.
+
+4. Decongestant nasal sprays
+   - Adults: use max 5 days.
+   - Children <6 yrs: avoid.
+
+5. Cough syrups
+   - Adults: symptomatic use; avoid overlapping active ingredients.
+   - Children: NOT recommended (risk of serious side effects).
+

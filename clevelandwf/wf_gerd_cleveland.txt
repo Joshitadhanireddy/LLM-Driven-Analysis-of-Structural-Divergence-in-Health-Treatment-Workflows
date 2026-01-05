@@ -1,0 +1,34 @@
+GERD / HEARTBURN TREATMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Initial home and OTC management (occasional heartburn)
+   - Lifestyle adjustments (avoid big late meals, trigger foods, lying flat after eating).
+   - Over-the-counter (OTC) medications as needed.
+
+2. Medication options
+   2.1 Antacids
+       - Neutralize stomach acid and give quick symptom relief.
+       - Often combined with agents for gas or constipation.
+   2.2 Alginates
+       - Form a floating barrier above stomach contents to block reflux.
+       - Available alone or combined with antacids.
+   2.3 H2 blockers
+       - Reduce acid production by blocking histamine signaling.
+       - Available OTC and by prescription; may lose effect with long-term use.
+   2.4 Proton pump inhibitors (PPIs)
+       - Strongest acid-suppressing drugs; first-line for more severe or frequent symptoms or esophageal damage.
+       - Promote healing of esophagitis and ulcers; ~90% effective at reducing acid reflux.
+
+3. Additional medical therapies (selected cases)
+   - Antibiotics or antivirals when infection is contributing.
+   - Topical steroids or dupilumab for inflammatory esophagitis.
+   - Low-dose neuromodulators or complementary therapies for functional heartburn.
+   - Hernia repair surgery if hiatal hernia is a major driver of reflux.
+
+4. Procedural options for refractory GERD or to avoid long-term PPIs
+   - Nissen fundoplication (laparoscopic tightening of the gastroesophageal junction).
+   - Transoral incisionless fundoplication (endoscopic version).
+   - LINX device: magnetic ring implant at lower esophageal sphincter to prevent reflux.
+
+5. Ongoing care
+   - Reassess symptoms and PPI need periodically.
+   - Evaluate for complications (esophagitis, strictures, Barrett esophagus) when indicated.

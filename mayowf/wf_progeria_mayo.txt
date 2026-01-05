@@ -1,0 +1,41 @@
+PROGERIA (HGPS) MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Ongoing monitoring
+   - Regular growth tracking (height, weight curves).
+   - Periodic:
+       * ECG and echocardiogram.
+       * Imaging (X-ray, MRI) as indicated.
+       * Vision, hearing, and dental examinations.
+
+2. Core pharmacologic therapy
+   - Lonafarnib (Zokinvy):
+       * Oral FTI approved for children ≥1 year.
+       * Slows progression and can extend lifespan by reducing progerin buildup.
+   - Low-dose aspirin:
+       * Daily prophylaxis against heart attack and stroke.
+
+3. Management of cardiovascular and systemic complications
+   - Additional medications based on condition:
+       * Statins and dietary therapy to support vascular and cardiac function.
+       * Anticoagulants/antiplatelets for clot prevention where indicated.
+       * Symptomatic meds for headaches and other issues.
+
+4. Rehabilitation and functional support
+   - Physical therapy:
+       * Maintain mobility, reduce joint stiffness, manage hip problems.
+   - Occupational therapy:
+       * Train adaptations for dressing, feeding, dental care, and self-care tasks.
+
+5. Supportive care
+   - Nutrition:
+       * High-calorie, balanced diet; supplements if needed.
+   - Hearing aids for low-frequency hearing loss when it affects function.
+   - Eye care:
+       * Moisturizing drops/ointments for incomplete lid closure and dry eye risk.
+   - Dental care:
+       * Regular visits with paediatric dentist familiar with progeria.
+
+6. Future directions (research)
+   - Improved understanding of genetic course and vascular disease.
+   - Testing additional medicines and strategies to prevent heart and vessel damage.
+

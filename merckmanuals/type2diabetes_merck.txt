@@ -1,0 +1,167 @@
+--- Type 2 Diabetes Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-disorders-of-carbohydrate-metabolism/diabetes-mellitus-dm?query=type%202%20diabetes#Treatment_v988394
+
+=== Treatment of Diabetes Mellitus ===
+
+  - Diet and exercise
+
+  - For type 1 diabetes, insulin
+
+  - For type 2 diabetes, oral antihyperglycemics, non- insulin injectable medications such as glucagon -like peptide-1 (GLP-1) receptor agonists, insulin , or a combination
+
+  - To prevent complications, often renin-angiotensin-aldosterone system blockers (angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers), and statins
+
+For type 2 diabetes, oral antihyperglycemics, non- insulin injectable medications such as glucagon -like peptide-1 (GLP-1) receptor agonists, insulin , or a combination
+
+To prevent complications, often renin-angiotensin-aldosterone system blockers (angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers), and statins
+
+Key elements of treatment for all patients are patient education, diet, exercise, weight loss, and monitoring of glucose control. Patients with type 1 diabetes require insulin . Some patients with type 2 diabetes may be able to avoid or cease treatment with medications if they are able to maintain plasma glucose levels with diet and exercise alone. For detailed discussion, see Medication Treatment of Diabetes .
+
+
+--- Overview of pharmacotherapy ---
+
+
+(See also Medication Treatment of Diabetes .)
+
+All patients with type 1 diabetes require insulin therapy . The goal is to try to replicate the pattern of insulin secretion of a person who does not have diabetes by using basal-bolus insulin therapy. In basal-bolus therapy, a longer-acting insulin (or a continuous subcutaneous infusion of rapid-acting insulin delivered by a pump) is used to simulate basal insulin production that suppresses hepatic glucose production, especially in the fasting state, and a shorter-acting insulin is used before meals to control postprandial glucose excursions.
+
+Sliding-scale insulin is a strategy in which varying doses of rapid-acting insulin are given before meals and at bedtime depending on the patient's plasma glucose level. However, a sliding scale insulin regimen on its own is not an effective strategy for maintaining euglycemia in patients with type 1 diabetes or in most patients with type 2 diabetes.
+
+Patients with type 2 diabetes and mildly elevated plasma glucose may be prescribed a trial of diet and exercise, followed by a non-insulin antihyperglycemic medication (often metformin ) if lifestyle changes are insufficient. Early combination therapy and/or (often metformin) if lifestyle changes are insufficient. Early combination therapy and/or insulin therapy should be initiated in patients with more significant glucose elevations at diagnosis or with HbA1C levels 1.5 to 2.0% above target. There is evidence that early combination medication therapy leads to superior and more durable blood glucose control than a stepwise approach to adding diabetes pharmacotherapy ( 1 ). Goals and monitoring are discussed below.
+
+In patients without atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease, selection of therapy often involves consideration of adverse effects, convenience, cost, and patient preference. Metformin is usually the first oral medication used due to its cost-effectiveness and safety profile. In patients without atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease, selection of therapy often involves consideration of adverse effects, convenience, cost, and patient preference. Metformin is usually the first oral medication used due to its cost-effectiveness and safety profile. Glucagon -like peptide-1 (GLP1) receptor agonists are an effective second-line therapy after metformin and may be more effective than insulin , or as an add-on to insulin therapy in type 2 diabetes. Patients with obesity can also benefit from the weight-lowering effects of GLP-1 receptor agonist therapy or from the use of tirzepatide , a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonist. therapy in type 2 diabetes. Patients with obesity can also benefit from the weight-lowering effects of GLP-1 receptor agonist therapy or from the use of tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonist.
+
+In patients with atherosclerotic cardiovascular disease, a sodium/glucose cotransporter 2 (SGLT2) inhibitor or a GLP-1 receptor agonist may be recommended because of evidence that these medication classes decrease major adverse cardiovascular events (eg, myocardial infarction, stroke) and mortality. In patients with chronic kidney disease ( 2 , 3 ) or heart failure ( 4 ) without contraindications, SGLT2-inhibitors are recommended because they have been shown to decrease disease progression and mortality. GLP-1 receptor agonists and pioglitazone can be used in patients with ) without contraindications, SGLT2-inhibitors are recommended because they have been shown to decrease disease progression and mortality. GLP-1 receptor agonists and pioglitazone can be used in patients with metabolic associated steatotic liver disease (formerly nonalcoholic fatty liver disease) or metabolic associated steatohepatitis (formerly nonalcoholic steatohepatitis) .
+
+Insulin is indicated as initial therapy for women with type 2 diabetes who are pregnant and for patients who present with acute metabolic decompensation, such as hyperosmolar hyperglycemic state or diabetic ketoacidosis (DKA). Insulin should be considered in patients with evidence of ongoing catabolism (weight loss) or symptoms of hyperglycemia (ie, polyuria, polydipsia) and/or with HbA1C levels > 10% and blood glucose levels ≥ 300 mg/dL (16.7 mmol/L). Patients with severe hyperglycemia may respond better to therapy after glucose levels are normalized with insulin treatment.
+
+
+--- Patient education ---
+
+
+Education is crucial to optimizing care. Education should include information about the following:
+
+  - Causes of diabetes
+
+  - Diet
+
+  - Exercise
+
+  - Medications
+
+  - Self-monitoring with fingerstick testing or continuous glucose monitoring
+
+  - Monitoring HbA1C
+
+  - Symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications
+
+Self-monitoring with fingerstick testing or continuous glucose monitoring
+
+Symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications
+
+Most patients with type 1 diabetes can be taught how to adjust their insulin doses based on blood glucose levels and carbohydrate intake. Education should be reinforced at every physician visit and hospitalization. Formal diabetes education programs, generally conducted by diabetes nurses and nutrition specialists, are often very effective and have been shown to improve diabetes outcomes.
+
+
+--- Diet ---
+
+
+Adjusting diet to individual circumstances can help patients control fluctuations in their glucose level and, for patients with type 2 diabetes mellitus, lose weight. Dietary recommendations should be individualized based on patient tastes, preferences, culture, and goals and should be formulated to accommodate requirements posed by comorbid conditions. There are no recommendations on the percentages of calories that should come from carbohydrate, protein, or fat. Patients should be educated on consuming a diet rich in whole foods rather than processed foods. Carbohydrates should be high quality and should contain adequate amounts of fiber, vitamins, and minerals and be low in added sugar, fat, and sodium. Some adults can reduce blood glucose levels and decrease antihyperglycemic medications by following a low- or very-low–carbohydrate eating plan, although maintaining such a diet can be challenging and the benefits may not be sustained long-term.
+
+Patients with type 1 diabetes should use carbohydrate counting or the carbohydrate exchange system to match insulin dose to carbohydrate intake and facilitate physiologic insulin replacement. “Counting” the amount of carbohydrate in the meal is done to calculate the preprandial insulin dose. For example, if a carbohydrate-to- insulin ratio (CIR) of 15 gram:1 unit is used, a patient will require 1 unit of rapid-acting insulin for each 15 g of carbohydrate in a meal. These ratios can vary significantly between patients, depending on their degree of insulin sensitivity and must be tailored to the patient and adjusted over time. Patients should also be educated that meals with higher protein or fat content can increase insulin requirements and dose adjustments may be necessary. This approach requires detailed patient education and is most successful when guided by a dietitian experienced in working with patients with diabetes. Some experts have advised use of the glycemic index (a measure of the impact of an ingested carbohydrate-containing food on the blood glucose level) to delineate between rapid and slowly metabolized carbohydrates, although there is little evidence to support this approach.
+
+For both type 1 diabetes and type 2 diabetes, nutrition consultation with a dietitian should complement physician counseling; the patient and any person who prepares the patient’s meals should be present.
+
+
+--- Exercise ---
+
+
+Physical activity should increase incrementally to whatever level a patient can tolerate. Both aerobic exercise and resistance exercise have been shown to improve glycemic control in type 2 diabetes, and several studies have shown a combination of resistance and aerobic exercise to be superior to either alone ( 5 , 6 , 7 ). In type 1 diabetes, exercise has been shown to decrease mortality although the effect on HbA1C lowering is less clear ( 8 , 9 , 10 ). Adults with diabetes and without physical limitations should exercise for a minimum of 150 minutes/week (divided over at least 3 days). Exercise has a variable effect on blood glucose, depending on the timing of exercise in relation to meals and the duration, intensity, and type of exercise. In patients with type 1 diabetes in particular, exercise can lead to hypoglycemia. Therefore, blood glucose should be monitored immediately before and after exercise. The target range for blood glucose prior to exercise should be between 90 mg/dL and 250 mg/dL (5 mmol/L to 14 mmol/L).
+
+Patients who experience hypoglycemic symptoms during exercise should be advised to test their blood glucose and ingest carbohydrates or lower their insulin dose as needed to get their glucose slightly above normal just before exercise. Hypoglycemia during vigorous exercise may require carbohydrate ingestion during the workout period, typically 5 to 15 g of sucrose or another simple sugar.
+
+Patients with known or suspected cardiovascular disease may benefit from exercise stress testing before beginning an exercise program. Activity goals may need to be modified for patients with complications of diabetes such as neuropathy and retinopathy .
+
+
+--- Weight loss ---
+
+
+In people with diabetes and obesity , physicians should prescribe antihyperglycemic medications that promote weight loss (eg, GLP1 receptor agonists, SGLT-2 inhibitors, or a dual incretin agonist) or are weight-neutral (eg, dipeptidyl peptidase-4 inhibitors, metformin ), if possible (for details, see , physicians should prescribe antihyperglycemic medications that promote weight loss (eg, GLP1 receptor agonists, SGLT-2 inhibitors, or a dual incretin agonist) or are weight-neutral (eg, dipeptidyl peptidase-4 inhibitors, metformin), if possible (for details, see Medication Treatment of Diabetes ). Two GLP-1 receptor agonists that are used for weight loss at higher doses ( semaglutide 2.4 mg, liraglutide 3 mg) are associated with significant weight loss even at doses used for diabetes treatment. ). Two GLP-1 receptor agonists that are used for weight loss at higher doses (semaglutide 2.4 mg, liraglutide 3 mg) are associated with significant weight loss even at doses used for diabetes treatment.
+
+Other weight loss medications, including orlistat , phentermine/topiramate , and naltrexone / bupropion , may be useful in selected patients as part of a comprehensive weight loss program. Orlistat , an intestinal lipase inhibitor, reduces dietary fat absorption; it reduces serum lipids and helps promote weight loss. Phentermine/topiramate is a combination medication that reduces appetite through multiple mechanisms in the brain. Many of these medications also have been shown to decrease HbA1C. Other weight loss medications, including orlistat, phentermine/topiramate, and naltrexone/bupropion, may be useful in selected patients as part of a comprehensive weight loss program. Orlistat, an intestinal lipase inhibitor, reduces dietary fat absorption; it reduces serum lipids and helps promote weight loss. Phentermine/topiramate is a combination medication that reduces appetite through multiple mechanisms in the brain. Many of these medications also have been shown to decrease HbA1C.
+
+An oral hydrogel containing cellulose and citric acid that causes patients to feel full and eat less can induce modest weight loss in patients with prediabetes and diabetes.
+
+Medical devices, including implanted gastric balloons, a vagus nerve stimulator, and gastric aspiration therapy, are also available, but their use remains limited due to high cost and limited data in patients with diabetes.
+
+Surgical treatment for obesity , such as sleeve gastrectomy or gastric bypass, also leads to weight loss and improvement in glucose control (independent of weight loss) and decreased cardiovascular risk in patients who have diabetes mellitus and should be recommended for appropriately selected patients.
+
+
+--- Foot care ---
+
+
+Regular professional podiatric care, including trimming of toenails and calluses, is important for patients with sensory loss or circulatory impairment. Such patients should be advised to inspect their feet daily for cracks, fissures, calluses, corns, and ulcers. Feet should be washed daily in lukewarm water, using mild soap, and dried gently and thoroughly. A lubricant (eg, lanolin ) should be applied to dry, scaly skin. Nonmedicated foot powders should be applied to moist feet. Toenails should be cut, preferably by a podiatrist, straight across and not too close to the skin. Adhesive plasters and tape, harsh chemicals, corn cures, water bottles, and electric pads should not be used on skin. Patients should change socks or stockings daily and not wear constricting clothing (eg, garters, socks, or stockings with tight elastic tops). Regular professional podiatric care, including trimming of toenails and calluses, is important for patients with sensory loss or circulatory impairment. Such patients should be advised to inspect their feet daily for cracks, fissures, calluses, corns, and ulcers. Feet should be washed daily in lukewarm water, using mild soap, and dried gently and thoroughly. A lubricant (eg, lanolin) should be applied to dry, scaly skin. Nonmedicated foot powders should be applied to moist feet. Toenails should be cut, preferably by a podiatrist, straight across and not too close to the skin. Adhesive plasters and tape, harsh chemicals, corn cures, water bottles, and electric pads should not be used on skin. Patients should change socks or stockings daily and not wear constricting clothing (eg, garters, socks, or stockings with tight elastic tops).
+
+Shoes should fit well, be wide-toed without open heels or toes, and be changed frequently. Special shoes should be prescribed to reduce trauma if the foot is deformed (eg, previous toe amputation, hammer toe , bunion ). Walking barefoot should be avoided.
+
+Patients with neuropathic foot ulcers should avoid weight bearing until ulcers heal. If they cannot, they should wear appropriate orthotic protection. Because most patients with these ulcers have little or no macrovascular occlusive disease, debridement and antibiotics frequently result in good healing and may prevent major surgery. After the ulcer has healed, appropriate inserts or special shoes should be prescribed. In refractory cases, especially if osteomyelitis is present, surgical removal of the metatarsal head (the source of pressure), amputation of the involved toe, or transmetatarsal amputation may be required. A neuropathic joint can often be satisfactorily managed with orthopedic devices (eg, short leg braces, molded shoes, sponge-rubber arch supports, crutches, prostheses).
+
+
+--- Vaccination ---
+
+
+All patients with diabetes mellitus should be vaccinated against Streptococcus pneumoniae , influenza virus , hepatitis B , varicella , and SARS-CoV-2 as per standard recommendations.
+
+
+--- Pancreas transplantation ---
+
+
+Pancreas transplantation and transplantation of pancreatic islet cells are alternative means of insulin delivery ( 11 , 12 ); both techniques effectively transplant insulin -producing beta-cells into patients who are insulin deficient (have type 1 diabetes mellitus).
+
+  - 1. Matthews DR, Paldánius PM, Proot P, et al . Glycaemic durability of an early combination therapy with vildagliptin and metformin versus sequential metformin monotherapy in newly diagnosed type 2 diabetes (VERIFY): a 5-year, multicentre, randomised, double-blind trial. Lancet 2019;394(10208):1519-1529. doi:10.1016/S0140-6736(19)32131-2
+
+  - 2. Nuffield Department of Population Health Renal Studies Group; SGLT2 inhibitor Meta-Analysis Cardio-Renal Trialists' Consortium . Impact of diabetes on the effects of sodium glucose co-transporter-2 inhibitors on kidney outcomes: collaborative meta-analysis of large placebo-controlled trials. Lancet 2022;400(10365):1788-1801. doi:10.1016/S0140-6736(22)02074-8
+
+  - 3. Palmer SC, Tendal B, Mustafa RA, et al . Sodium-glucose cotransporter protein-2 (SGLT-2) inhibitors and glucagon -like peptide-1 (GLP-1) receptor agonists for type 2 diabetes: systematic review and network meta-analysis of randomised controlled trials [published correction appears in BMJ 2022 Jan 18;376:o109]. BMJ 2021;372:m4573. Published 2021 Jan 13. doi:10.1136/bmj.m4573
+
+  - 4. Vaduganathan M, Docherty KF, Claggett BL, et al . SGLT-2 inhibitors in patients with heart failure: a comprehensive meta-analysis of five randomised controlled trials [published correction appears in Lancet 2023 Jan 14;401(10371):104]. Lancet 2022;400(10354):757-767. doi:10.1016/S0140-6736(22)01429-5
+
+  - 5. Church TS, Blair SN, Cocreham S, et al . Effects of aerobic and resistance training on hemoglobin A1c levels in patients with type 2 diabetes: a randomized controlled trial [published correction appears in JAMA 2011 Mar 2;305(9):892]. JAMA 2010;304(20):2253-2262. doi:10.1001/jama.2010.1710
+
+  - 6. Colberg SR, Sigal RJ, Yardley JE, et al . Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association. Diabetes Care 2016;39(11):2065-2079. doi:10.2337/dc16-1728
+
+  - 7. Sigal RJ, Kenny GP, Boulé NG, et al . Effects of aerobic training, resistance training, or both on glycemic control in type 2 diabetes: a randomized trial. Ann Intern Med 2007;147(6):357-369. doi:10.7326/0003-4819-147-6-200709180-00005
+
+  - 8. Bohn B, Herbst A, Pfeifer M, et al . Impact of Physical Activity on Glycemic Control and Prevalence of Cardiovascular Risk Factors in Adults With Type 1 Diabetes: A Cross-sectional Multicenter Study of 18,028 Patients. Diabetes Care 2015;38(8):1536-1543. doi:10.2337/dc15-0030
+
+  - 9. Pongrac Barlovic D, Harjutsalo V, Groop PH . Exercise and nutrition in type 1 diabetes: Insights from the FinnDiane cohort. Front Endocrinol (Lausanne) 2022;13:1064185. doi:10.3389/fendo.2022.1064185
+
+  - 10. Shorey S, Ng ED, Law EC, Wong JCM, Loke KY, Tam WWS . Physical Activity and Nutrition Interventions for Type 1 Diabetes: A Meta-analysis. Pediatrics 2022;150(3):e2022056540. doi:10.1542/peds.2022-056540
+
+  - 1 . Dean PG, Kukla A, Stegall MD, et al : Pancreas transplantation. BMJ 3:357, 2017. doi: 10.1136/bmj.j1321
+
+  - 12. Rickels MR, Robertson RP : Pancreatic islet transplantation in humans: Recent progress and future directions. Endocr Rev 40(2):631–668, 2019. doi: 10.1210/er.2018-00154
+
+1. Matthews DR, Paldánius PM, Proot P, et al . Glycaemic durability of an early combination therapy with vildagliptin and metformin versus sequential metformin monotherapy in newly diagnosed type 2 diabetes (VERIFY): a 5-year, multicentre, randomised, double-blind trial. Lancet 2019;394(10208):1519-1529. doi:10.1016/S0140-6736(19)32131-2
+
+2. Nuffield Department of Population Health Renal Studies Group; SGLT2 inhibitor Meta-Analysis Cardio-Renal Trialists' Consortium . Impact of diabetes on the effects of sodium glucose co-transporter-2 inhibitors on kidney outcomes: collaborative meta-analysis of large placebo-controlled trials. Lancet 2022;400(10365):1788-1801. doi:10.1016/S0140-6736(22)02074-8
+
+3. Palmer SC, Tendal B, Mustafa RA, et al . Sodium-glucose cotransporter protein-2 (SGLT-2) inhibitors and glucagon -like peptide-1 (GLP-1) receptor agonists for type 2 diabetes: systematic review and network meta-analysis of randomised controlled trials [published correction appears in BMJ 2022 Jan 18;376:o109]. BMJ 2021;372:m4573. Published 2021 Jan 13. doi:10.1136/bmj.m4573
+
+4. Vaduganathan M, Docherty KF, Claggett BL, et al . SGLT-2 inhibitors in patients with heart failure: a comprehensive meta-analysis of five randomised controlled trials [published correction appears in Lancet 2023 Jan 14;401(10371):104]. Lancet 2022;400(10354):757-767. doi:10.1016/S0140-6736(22)01429-5
+
+5. Church TS, Blair SN, Cocreham S, et al . Effects of aerobic and resistance training on hemoglobin A1c levels in patients with type 2 diabetes: a randomized controlled trial [published correction appears in JAMA 2011 Mar 2;305(9):892]. JAMA 2010;304(20):2253-2262. doi:10.1001/jama.2010.1710
+
+6. Colberg SR, Sigal RJ, Yardley JE, et al . Physical Activity/Exercise and Diabetes: A Position Statement of the American Diabetes Association. Diabetes Care 2016;39(11):2065-2079. doi:10.2337/dc16-1728
+
+7. Sigal RJ, Kenny GP, Boulé NG, et al . Effects of aerobic training, resistance training, or both on glycemic control in type 2 diabetes: a randomized trial. Ann Intern Med 2007;147(6):357-369. doi:10.7326/0003-4819-147-6-200709180-00005
+
+8. Bohn B, Herbst A, Pfeifer M, et al . Impact of Physical Activity on Glycemic Control and Prevalence of Cardiovascular Risk Factors in Adults With Type 1 Diabetes: A Cross-sectional Multicenter Study of 18,028 Patients. Diabetes Care 2015;38(8):1536-1543. doi:10.2337/dc15-0030
+
+9. Pongrac Barlovic D, Harjutsalo V, Groop PH . Exercise and nutrition in type 1 diabetes: Insights from the FinnDiane cohort. Front Endocrinol (Lausanne) 2022;13:1064185. doi:10.3389/fendo.2022.1064185
+
+10. Shorey S, Ng ED, Law EC, Wong JCM, Loke KY, Tam WWS . Physical Activity and Nutrition Interventions for Type 1 Diabetes: A Meta-analysis. Pediatrics 2022;150(3):e2022056540. doi:10.1542/peds.2022-056540
+
+11. Dean PG, Kukla A, Stegall MD, et al : Pancreas transplantation. BMJ 3:357, 2017. doi: 10.1136/bmj.j1321
+
+12. Rickels MR, Robertson RP : Pancreatic islet transplantation in humans: Recent progress and future directions. Endocr Rev 40(2):631–668, 2019. doi: 10.1210/er.2018-00154

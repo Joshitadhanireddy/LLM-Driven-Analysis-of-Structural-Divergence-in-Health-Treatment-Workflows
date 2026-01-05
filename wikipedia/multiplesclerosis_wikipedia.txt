@@ -1,0 +1,82 @@
+--- Multiple Sclerosis Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Multiple_sclerosis
+
+--- Management ---
+
+
+Although no cure for multiple sclerosis has been found, several therapies have proven helpful. Several effective treatments can decrease the number of attacks and the rate of progression.The primary aims of therapy are returning function after an attack, preventing new attacks, and preventing disability. Starting medications is generally recommended in people after the first attack when more than two lesions are seen on MRI.
+
+The first approved medications used to treat MS were modestly effective, though were poorly tolerated and had many adverse effects.Several treatment options with better safety and tolerability profiles have been introduced,improving the prognosis of MS.
+
+As with any medical treatment, medications used in the management of MS have severaladverse effects.Alternative treatmentsare pursued by some people, despite the shortage of supporting evidence of efficacy.
+
+
+--- Initial management of acute flare ---
+
+
+During symptomatic attacks, administration of high doses ofintravenouscorticosteroids, such asmethylprednisolone, is the usual therapy,with oral corticosteroids seeming to have a similar efficacy and safety profile.Although effective in the short term for relieving symptoms, corticosteroid treatments do not appear to have a significant impact on long-term recovery.The long-term benefit is unclear in optic neuritis as of 2020.The consequences of severe attacks that do not respond to corticosteroids might be treatable byplasmapheresis.
+
+
+--- Chronic management ---
+
+
+
+** Relapsing-remitting multiple sclerosis **
+
+
+Multipledisease-modifyingmedications were approved by regulatory agencies for RRMS; they are modestly effective at decreasing the number of attacks.Interferonsandglatiramer acetateare first-line treatmentsand are roughly equivalent, reducing relapses by approximately 30%.Early-initiated long-term therapy is safe and improves outcomes.
+
+Treatment of CIS with interferons decreases the chance of progressing to clinical MS.Efficacy of interferons and glatiramer acetate in children has been estimated to be roughly equivalent to that of adults.The role of some newer agents such asfingolimod,teriflunomide, anddimethyl fumarate,is not yet entirely clear.Making firm conclusions about the best treatment is difficult, especially regarding the long‐term benefit and safety of early treatment, given the lack of studies directly comparing disease-modifying therapies or long-term monitoring of patient outcomes.
+
+The relative effectiveness of different treatments is unclear, as most have only been compared to placebo or a small number of other therapies.Direct comparisons of interferons and glatiramer acetate indicate similar effects or only small differences in effects on relapse rate, disease progression, and MRI measures.There is high confidence thatnatalizumab,cladribine, oralemtuzumabare decreasing relapses over two years for people with RRMS.Natalizumab andinterferon beta-1a(Rebif) may reduce relapses compared to both placebo and interferon beta-1a (Avonex) whileInterferon beta-1b(Betaseron), glatiramer acetate, andmitoxantronemay also prevent relapses.Evidence on relative effectiveness in reducing disability progression is unclear.There is moderate confidence that a two-year treatment with natalizumab slows disability progression for people with RRMS.All medications are associated with adverse effects that may influence their risk-to-benefit profiles.
+
+Ublituximabwas approved for medical use in the United States in December 2022.
+
+
+--- Medications ---
+
+
+Overview of medications available for MS.
+
+
+** Progressive multiple sclerosis **
+
+
+In 2011, mitoxantrone was the first medication approved for secondary progressive MS.In this population, tentative evidence supports mitoxantrone moderately slowing the progression of the disease and decreasing rates of relapses over two years.
+
+New approved medications continue to emerge. In March 2017, the FDA approved ocrelizumab as a treatment for primary progressive MS in adults, the first drug to gain that approval,with requirements for severalPhase IVclinical trials.It is also used for the treatment of relapsing forms of multiple sclerosis, to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease in adults.According to a 2021Cochrane review, ocrelizumab may reduce worsening of symptoms for primary progressive MS and probably increases unwanted effects but makes little or no difference to the number of serious unwanted effects.
+
+In 2019,siponimodandcladribinewere approved in the United States for the treatment of secondary progressive multiple sclerosis (SPMS).Subsequently,ozanimodwas approved in 2020, andponesimodwas approved in 2021, which were both approved for management of CIS, relapsing MS, and SPMS in the U.S., and RRMS in Europe.
+
+Ocrelizumab/hyaluronidasewas approved for medical use in the United States in September 2024.
+
+
+** Adverse effects **
+
+
+Thedisease-modifying treatmentshave several adverse effects. One of the most common is irritation at the injection site for glatiramer acetate and the interferons (up to 90% with subcutaneous injections and 33% with intramuscular injections).Over time, a visible dent at the injection site, due to the local destruction of fat tissue, known aslipoatrophy, may develop.Interferons may produceflu-like symptoms;some people taking glatiramer experience a post-injection reaction with flushing, chest tightness, heart palpitations, and anxiety, which usually lasts less than thirty minutes.More dangerous but much less common areliver damagefrom interferons,systolic dysfunction(12%),infertility, andacute myeloid leukemia(0.8%) from mitoxantrone,andprogressive multifocal leukoencephalopathyoccurring with natalizumab (occurring in 1 in 600 people treated).
+
+Fingolimod may give rise tohypertensionandslowed heart rate,macular edema, elevated liver enzymes, or areduction in lymphocyte levels.Tentative evidence supports the short-term safety of teriflunomide, with common side effects including headaches, fatigue, nausea, hair loss, and limb pain.There have also been reports of liver failure and PML with its use and it isdangerous for fetal development.Most common side effects of dimethyl fumarate are flushing and gastrointestinal problems.While dimethyl fumarate may lead to areduction in the white blood cell countthere were no reported cases of opportunistic infections during trials.
+
+
+--- Associated symptoms ---
+
+
+Both medications and neurorehabilitation have been shown to improve some symptoms, though neither changes the course of the disease.Some symptoms have a good response to medication, such as bladderspasticity, while others are little changed.Equipment such ascathetersforneurogenic bladder dysfunctionor mobility aids can help improve functional status.
+
+Amultidisciplinaryapproach is important for improving quality of life; however, it is difficult to specify a 'core team' as many health services may be needed at different points in time.Multidisciplinary rehabilitation programs increase activity and participation of people with MS but do not influence impairment level.Studies investigating information provision in support of patient understanding and participation suggest that while interventions (written information, decision aids, coaching, educational programmes) may increase knowledge, the evidence of an effect on decision making and quality of life is mixed and low certainty.There is limited evidence for the overall efficacy of individual therapeutic disciplines,though there is good evidence that specific approaches, such as exercise,and psychological therapies are effective.Cognitive training, alone or combined with other neuropsychological interventions, may show positive effects for memory and attention though firm conclusions are not possible given small sample numbers, variable methodology, interventions and outcome measures.The effectiveness ofpalliative approachesin addition to standard care is uncertain, due to lack of evidence.The effectiveness of interventions, including exercise, specifically for the prevention of falls in people with MS is uncertain, while there is some evidence of an effect on balance function and mobility.Cognitive behavioral therapyhas shown to be moderately effective for reducing MS fatigue.The evidence for the effectiveness of non-pharmacological interventions for chronic pain is insufficient to recommend such interventions alone, however their use in combination with medications may be reasonable.
+
+
+--- Non-pharmaceutical ---
+
+
+There is some evidence thataquatic therapyis a beneficial intervention.
+
+The spasticity associated with MS can be difficult to manage because of the progressive and fluctuating course of the disease.Although there is no firm conclusion on the efficacy in reducing spasticity, PT interventions can be a safe and beneficial option for patients with multiple sclerosis. Physical therapy including vibration interventions, electrical stimulation, exercise therapy, standing therapy, and radial shock wave therapy (RSWT), were beneficial for limiting spasticity, helping limit excitability, or increasing range of motion.
+
+
+--- Alternative treatments ---
+
+
+Over 50% of people with MS may usecomplementary and alternative medicine, although percentages vary depending on how alternative medicine is defined.Regarding the characteristics of users, they are more frequently women, have had MS for a longer time, tend to be more disabled and have lower levels of satisfaction with conventional healthcare.The evidence for the effectiveness for such treatments in most cases is weak or absent.Treatments of unproven benefit used by people with MS include dietary supplementation and regimens,vitamin D,relaxation techniquessuch asyoga,herbal medicine(includingmedical cannabis),hyperbaric oxygen therapy,self-infection with hookworms,reflexology,acupuncture,andmindfulness.Evidence suggests vitamin D supplementation, irrespective of the form and dose, provides no benefit for people with MS; this includes for measures such as relapse recurrence, disability, and MRI lesions while effects on health‐related quality of life and fatigue are unclear.There is insufficient evidence supporting high-dosebiotinand some evidence for increased disease activity and higher risk of relapse with its use.A 2022 review found thatnabiximols(tetrahydrocannabinolandcannabidiol) can reduce the severity of spasticity in the short term, but may have unwanted neurological effects.

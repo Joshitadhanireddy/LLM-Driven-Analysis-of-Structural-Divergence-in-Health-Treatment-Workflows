@@ -1,0 +1,33 @@
+GERD (GASTROESOPHAGEAL REFLUX DISEASE) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Lifestyle and positional measures (first-line for uncomplicated GERD)
+   - Elevate head of bed ~15 cm (6 in) using blocks or wedge.
+   - Avoid eating within 3 hours of bedtime.
+   - Avoid strong acid secretagogues: caffeine, alcohol.
+   - Avoid specific foods that worsen symptoms: high-fat meals, chocolate.
+   - Stop smoking.
+   - Review and avoid triggering medications (e.g., anticholinergics) where possible.
+   - Encourage weight loss in overweight/obese patients.
+
+2. Acid suppression
+   - Proton pump inhibitors (PPIs) are mainstay:
+     * Examples: omeprazole, lansoprazole, pantoprazole, esomeprazole.
+     * Typically taken 30 minutes before a meal (often breakfast; twice daily if partial response).
+     * Titrate to minimum effective dose; long-term or intermittent use as needed.
+   - H2 blockers (e.g., famotidine) for mild or intermittent symptoms.
+
+3. Additional pharmacologic options
+   - Potassium-competitive acid blockers (e.g., vonoprazan) in regions where available.
+   - Promotility agents (e.g., metoclopramide 10 mg before meals and at bedtime) as adjunct in selected patients.
+
+4. Surgical/endoscopic therapy
+   - Indications: severe esophagitis (LA grade C/D), large hiatal hernia, hemorrhage, stricture, ulcers, large-volume nonacid reflux, or intolerance/inadequate response to medical therapy.
+   - Standard procedure: laparoscopic fundoplication.
+   - Esophageal strictures: managed primarily with repeated endoscopic dilations.
+
+5. Barrett esophagus management
+   - Continue optimized acid suppression (medical or surgical).
+   - Endoscopic surveillance every 3–5 years for nondysplastic Barrett’s.
+   - For low-grade dysplasia: consider endoscopic ablative therapy; yearly surveillance is an alternative.
+   - For high-grade dysplasia: endoscopic ablative therapy (unless life-limiting comorbidities).
+   - Ablation methods include mucosal resection, photodynamic therapy, cryotherapy, and laser ablation.

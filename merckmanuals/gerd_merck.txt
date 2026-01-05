@@ -1,0 +1,39 @@
+--- GERD Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/gastrointestinal-disorders/esophageal-and-swallowing-disorders/gastroesophageal-reflux-disease-gerd?query=gerd#Treatment_v891786
+
+=== Treatment of GERD ===
+
+  - Head of bed elevated
+
+  - Coffee, alcohol, fats, and smoking avoided
+
+  - Proton pump inhibitors, H2 blockers
+
+Coffee, alcohol, fats, and smoking avoided
+
+Management of uncomplicated GERD consists of elevating the head of the bed about 15 cm (6 inches) by placing about 15- to 20-cm (6- to 8-inch) blocks under the legs at the head of the bed, by using a wedge pillow, or by placing a wedge under the mattress. Also, the following should be avoided:
+
+  - Eating within 3 hours of bedtime
+
+  - Strong stimulants of acid secretion (eg, caffeine , alcohol) Strong stimulants of acid secretion (eg, caffeine, alcohol)
+
+  - Certain medications (eg, anticholinergics)
+
+  - Specific foods (eg, fats, chocolate)
+
+  - Smoking
+
+Eating within 3 hours of bedtime
+
+Strong stimulants of acid secretion (eg, caffeine , alcohol) Strong stimulants of acid secretion (eg, caffeine, alcohol)
+
+Weight loss is recommended for patients who are overweight and those who have gained weight recently.
+
+Medical therapy is often with a proton pump inhibitor; some are more potent than others, but all have been shown to be effective. For example, adults can be given oral omeprazole 20 mg, lansoprazole 30 mg, pantoprazole 40 mg, or esomeprazole 40 mg 30 minutes before a meal (eg, before breakfast, or for twice daily dosing, before breakfast and dinner). In some cases (eg, only partial response to once-a-day dosing), proton pump inhibitors may be given twice daily before meals. Infants and children may be given these medications at an appropriate lower single daily dose (ie, omeprazole 20 mg in children Medical therapy is often with a proton pump inhibitor; some are more potent than others, but all have been shown to be effective. For example, adults can be given oral omeprazole 20 mg, lansoprazole 30 mg, pantoprazole 40 mg, or esomeprazole 40 mg 30 minutes before a meal (eg, before breakfast, or for twice daily dosing, before breakfast and dinner). In some cases (eg, only partial response to once-a-day dosing), proton pump inhibitors may be given twice daily before meals. Infants and children may be given these medications at an appropriate lower single daily dose (ie, omeprazole 20 mg in children > 3 years, 10 mg in children < 3 years; lansoprazole 15 mg in children 3 years; lansoprazole 15 mg in children ≤ 30 kg, 30 mg in children > 30 kg). These medications may be continued long-term, but the dose should be adjusted to the minimum required to prevent symptoms, including intermittent or as-needed dosing.
+
+H2 blockers are also an effective treatment option for mildly symptomatic GERD. Potassium-competitive acid blockers (eg, vonoprazan ) are an emerging therapy available in certain countries but not in the United States. Promotility agents (eg, metoclopramide 10 mg orally 30 minutes before meals and at bedtime) are less effective but may be added to a proton pump inhibitor regimen. H2 blockers are also an effective treatment option for mildly symptomatic GERD. Potassium-competitive acid blockers (eg, vonoprazan) are an emerging therapy available in certain countries but not in the United States. Promotility agents (eg, metoclopramide 10 mg orally 30 minutes before meals and at bedtime) are less effective but may be added to a proton pump inhibitor regimen.
+
+Antireflux surgery (usually fundoplication via laparoscopy) is done in patients with grades C and D esophagitis, large hiatal hernias, hemorrhage, stricture, ulcers, large amounts of symptomatic nonacid reflux, or who cannot tolerate medical therapy. Esophageal strictures are most often managed by repeated endoscopic dilation.
+
+Barrett esophagus may or may not regress with medical or surgical therapy. (See also the American College of Gastroenterology’s updated 2022 guidelines for the diagnosis and management of Barrett’s esophagus .) Because Barrett esophagus is a precursor to adenocarcinoma, endoscopic surveillance for malignant transformation is recommended every 3 to 5 years in nondysplastic disease. The American College of Gastroenterology's 2022 guidelines recommend consideration of endoscopic ablative therapy for patients with confirmed low-grade dysplasia and without life-limiting comorbidity; however, endoscopic surveillance every 12 months is an acceptable alternative. Patients with Barrett esophagus and confirmed high-grade dysplasia should be managed with endoscopic ablative therapy unless they have life-limiting comorbidity. Endoscopic ablative techniques for Barrett esophagus include mucosal resection, photodynamic therapy, cryotherapy, and laser ablation.

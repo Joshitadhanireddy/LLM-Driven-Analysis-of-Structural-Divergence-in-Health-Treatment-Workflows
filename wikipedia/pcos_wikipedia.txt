@@ -1,0 +1,62 @@
+--- PCOS Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome
+
+--- Management ---
+
+
+PCOS has no cure,and management is focused on the relief of symptoms.Treatment usually involves lifestyle changes such as diet and exercise of moderate intensity.Metabolic issues can further be treated withmetforminorGLP-1 receptor agonists. For women with a BMI over 35,bariatric surgerymay be a further option.Combined oral contraceptives are especially effective and used as the first line of treatment to reduce acne and hirsutism and regulate the menstrual cycle.Other typical acne treatments and hair removal techniques may be used.First-line treatment for fertility issues usesovulation inductionwithclomipheneorletrozole.As PCOS is associated with psychological disorders and cardiovascular risk, screening for both is recommended.
+
+
+--- Lifestyle ---
+
+
+Weight managementand ahealthy lifestyleare first-line treatments for PCOS. Weight management includes the prevention of weight gain, losing some weight or maintaining weight loss.Limited weight loss of 5% shows metabolic benefits, and possibly benefits for reproductive health.There is little evidence that one type of healthy diet is better than another in PCOS.In terms of exercise, the general population guidance of 150 minutes of exercise of moderate intensity per week is recommended to prevent weight gain. For weight loss, 250 minutes of moderate exercise is recommended.
+
+Lifestyle changes for people with PCOS have been proven to be difficult due to various factors. Some studies indicate that women with PCOS might have problems with feelingsatedafter eating, making weight loss more challenging. Sleep disorders, more prevalent in women with PCOS, cause fatigue which further makes a healthy lifestyle more difficult. Finally, issues withbody image,eating disorders, depression or lack of intrinsic motivation (not enjoying exercise) may make lifestyle interventions more difficult.
+
+Lifestyle interventions for women with PCOS may include strategies such assetting goals, tracking progress, learningassertiveness, andrelapse prevention. These approaches aim to support weight control, a healthy lifestyle, and emotional wellbeing. Support may also involve usingSMART goals(specific, measurable, achievable, realistic, and timely). Broader behavioural or cognitive behavioural programmes may help increase motivation, continued participation, and long-term healthy habits.
+
+
+--- Medications ---
+
+
+Medications for PCOS include metformin andoral contraceptives. Metformin is a medication commonly used intype 2 diabetes mellitus, and is used frequentlyoff-labelin the management of PCOS.It is recommended for those with a BMI over 25 to treat insulin resistance and normaliselipid profiles, and can also be considered for the treatment of irregular periods in adolescents and for those with a BMI under 25.Metformin is associated with several side effects, includingabdominal pain, metallic taste in the mouth,diarrhoeaand vomiting.It can also be used to help women get pregnant, but is not the most effective drug for it.
+
+Combined oral contraceptives(COCs) can be used to reduce the symptoms of hirsutism and regulatemenstrual periods.They increasesex hormone binding globulinproduction, and reduce levels of androgens. A regular cycle reduces risks of endometrial cancer. Contraceptive pills with only progestogens can be used to improve menstrual regularity, but not for symptoms of androgen excess.Anti-androgenssuch asfinasterideandflutamidedo not show advantages over COCs for treating hirsutism, but can be an option for people for whom COCs are contraindicated or who do not tolerate them.It may take six to twelve months for COCs to be effective for hirsutism.For the treatment ofandrogenic alopecia, a combination of anti-androgens and combined oral contraceptives can be tried,but it is difficult to treat.
+
+GLP-1 receptor agonists, such asliraglutideandsemaglutide, may be more effective than metformin alone in terms of metabolic improvements. Their combination has stronger effects than either therapy alone. Small trials have found positive effects on menstrual regularity and androgen levels. These drugs are not recommended when trying to conceive.There is some evidenceinositolmay have positive effects on metabolic issues in PCOS. However, metformin is recommended aboveinositolsupplements for hirsutism and abdominal fat reduction.
+
+
+--- Infertility ---
+
+
+It can be difficult to become pregnant with PCOS due to irregular ovulation. The first management step is to improve general health of the mother, such as through lifestyle interventions.GLP-1 agonist for weight loss can be used, but should be stopped at least 2 months before conception. As of 2025[update], there is not enough data to know if they are safe in pregnancy.Pregnancy in PCOS is more risky than normal, and treatment is focused on getting a single pregnancy, rather than, for instance, twins (multiple pregnancy).With treatment, the eventual family size of women with PCOS does not seem different to those without.
+
+The first-line medical treatment for infertility in women with PCOS is letrozole (Femara) to induce ovulation.This is in general more effective thanclomiphene citrateto improve both pregnancy rates and live births.Other medications that can be used to treat infertility, listed from more to less effective, are metformin + clomiphene citrate, clomiphene citrate alone and metformin alone.Women may be more likely to experience gastrointestinal side effects with metformin.Gonadotrophintherapy may be effective too, but requires monitoring and increases the risks of multiple pregnancies.
+
+When medication and lifestyle interventions are ineffective, infertility can be treated with a laparoscopic procedure called "ovarian drilling", which involves puncture of 4–10 small follicles withelectrocautery, laser, or biopsy needles.This procedure can induce ovulation, typically leads to a single pregnancy, but other risks may be higher compared to medication.The procedure might lead to lower chance oflive birthscompared to medication alone.Ovarian wedge resection is no longer used as much due to complications such asadhesionsand the presence of frequently effective medications.
+
+As a final treatment option,in vitro fertilisation(IVF) can be considered. IVF does increase the risk ofovarian hyperstimulation syndrome.Using a'freeze all' strategymakes it easier to transfer a single embryo and provides time for the ovaries to recover from hyperstimulation.A less effective alternative, but with much lower risks of ovarian hyperstimulation syndrome, isin vitro maturationinstead of full IVF.This option avoidshigh-dose gonadotropin therapy.
+
+
+--- Hirsutism and acne ---
+
+
+Management of hirsutism involves lowering androgen levels and removing existing hair, for example, bylaser treatmentor shaving.A standard contraceptive pill is frequently effective in reducing hirsutism and acne.Progestogens such asnorgestrelandlevonorgestrelshould be avoided due to their androgenic effects.Metformin combined with an oral contraceptive may be more effective than the oral contraceptive on its own.Although oral contraceptives have shown significant efficacy in clinical trials (60–100% of individuals for treatment of hirsutism), severe acne or hirsutism might require additional treatment.
+
+Other medications with anti-androgen effects includeflutamide, andspironolactone, which can improve hirsutism.Antiandrogensare sometimes used, such asfinasteride, but they are contraindicated in pregnancy. Finasteride inhibits the conversion of testosterone to its stronger formdihydrotestosterone.
+
+
+--- Mental health ---
+
+
+Women with PCOS are far more likely to have depression than women without PCOS. Symptoms of depression might be heightened by certain symptoms of the condition, such as hirsutism or obesity, that can lead to low self-esteem or poor body image.Screening for depression and anxiety disorders is recommended using validated questionnaires, for instance at diagnosis as well as afterwards, based on clinical judgement.For eating disorders and body image distress, screening is only recommended when clinically indicated.For sexually active women who give permission to discuss it,psychosexual dysfunctioncan be assessed too.
+
+Treatment of PCOS shows no to moderate effect on depression or anxiety, and standard therapies (such apsychotherapyandanti-depressants) are recommended instead.Cognitive behaviour therapycan be used for girls and women with low self-esteem, poor body image, disordered eating or psychosexual dysfunction.
+
+
+--- Screening for cardiometabolic issues ---
+
+
+Given the higher risk of cardiometabolic conditions, monitoring is recommended.This includes testing of glucose tolerance, using a two-hour oralglucose tolerance test(GTT) in all women with PCOS. After initial testing at diagnosis, follow-up assessments are advised every one to three years, depending on the presence of diabetes risk factors.Screening for cardiovascular risk factors includeslipid profiletests and yearlyblood pressuremeasurements.

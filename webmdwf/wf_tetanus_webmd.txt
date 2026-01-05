@@ -1,0 +1,30 @@
+TETANUS TREATMENT WORKFLOW (from WebMD-based plan)
+
+1. Diagnosis & care setting
+   - Clinical diagnosis based on symptoms and vaccination history.
+   - Admit to hospital for close monitoring and supportive care.
+
+2. Core acute treatment
+   2.1 Tetanus immune globulin (TIG)
+       - Single IM injection.
+       - Neutralizes unbound tetanus toxin.
+   2.2 Wound care
+       - Thorough cleaning.
+       - Remove dirt, foreign bodies, and dead tissue (debridement) to stop bacterial spread.
+   2.3 Antibiotics
+       - Metronidazole or penicillin to kill C. tetani.
+   2.4 Muscle spasm control
+       - Sedatives such as diazepam.
+       - Magnesium plus sedatives for autonomic instability (BP swings, tachycardia, hypothermia).
+
+3. Supportive management
+   - Airway and breathing support as needed.
+   - High-calorie nutrition via feeding tube.
+   - Minimize stimuli (light, noise, touch) to avoid triggering spasms.
+   - Plan for physical therapy after acute phase to restore function.
+
+4. Vaccination
+   - Give tetanus vaccine even after illness (natural infection does NOT confer immunity).
+   - Booster schedule:
+       * Routine booster every 10 years.
+       * Booster if contaminated wound and ≥5 years since last shot or status unknown.

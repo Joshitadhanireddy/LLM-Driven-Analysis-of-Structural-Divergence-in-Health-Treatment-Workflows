@@ -1,0 +1,24 @@
+GERD MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. First-line: lifestyle + OTC meds
+   - Antacids (calcium carbonate).
+   - H2 blockers (cimetidine, famotidine, nizatidine).
+   - Nonprescription PPIs (omeprazole, lansoprazole, esomeprazole).
+
+2. Prescription medications
+   - Stronger PPIs (rabeprazole, pantoprazole, dexlansoprazole).
+   - Prescription H2 blockers.
+   - P-CABs: vonoprazan, tegoprazan for severe reflux.
+
+3. Non-medication therapy
+   - Diaphragmatic breathing training post-meals.
+
+4. Surgical/procedural options
+   - Fundoplication (Nissen, Toupet).
+   - LINX magnetic bead ring.
+   - TIF (Transoral incisionless fundoplication).
+   - Large hiatal hernia → repair + possible TIF.
+
+5. Special consideration
+   - Weight-loss surgery if obesity contributes to GERD.
+

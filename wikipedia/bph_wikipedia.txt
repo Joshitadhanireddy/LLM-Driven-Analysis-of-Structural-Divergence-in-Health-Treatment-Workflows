@@ -1,0 +1,110 @@
+--- BPH Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia
+
+--- Management ---
+
+
+When treating and managing benign prostatic hyperplasia, the aim is to prevent complications related to the disease and improve or relieve symptoms.Approaches used include lifestyle modifications, medications, catheterization, and surgery.
+
+
+--- Lifestyle ---
+
+
+Lifestyle alterations to address the symptoms of BPH include physical activity,decreasing fluid intake before bedtime, moderating the consumption of alcohol and caffeine-containing products, and following a timed voiding schedule.
+
+Patients can also attempt to avoid products and medications withanticholinergicproperties that may exacerbate urinary retention symptoms of BPH, includingantihistamines,decongestants,opioids, andtricyclic antidepressants; however, changes in medications should be done with input from a medical professional.
+
+
+** Physical activity **
+
+
+Physical activity has been recommended as a treatment for urinary tract symptoms. A 2019 Cochrane review of six studies involving 652 men assessing the effects of physical activity alone, and physical activity as a part of a self-management program, among others.  However, the quality of evidence was very low and therefore it remains uncertain whether physical activity is helpful in men experiencing urinary symptoms caused by benign prostatic hyperplasia.
+
+
+** Voiding position **
+
+
+Voiding position when urinating may influence urodynamic parameters (urinary flow rate, voiding time, and post-void residual volume).Ameta-analysisfound no differences between the standing and sitting positions for healthy males, but that, for elderly males with lower urinary tract symptoms, voiding in the sitting position--
+
+  - decreased the post-void residual volume;
+  - increased the maximum urinary flow, comparable with pharmacological intervention; and
+  - decreased the voiding time.
+
+Thisurodynamicprofile is associated with a lower risk of urologic complications, such ascystitisandbladder stones.
+
+
+--- Medications ---
+
+
+The two main medication classes for BPH management arealpha blockersand5α-reductase inhibitors.
+
+
+** Alpha-blockers **
+
+
+Selective α1-blockersare the most common choice for initial therapy.They includealfuzosin,doxazosin,silodosin,tamsulosin,terazosin, andnaftopidil.They have a small to moderate benefit at improving symptoms.Selective alpha-1 blockers are similar in effectiveness but have slightly different side effect profiles.Alpha blockers relax smooth muscle in the prostate and the bladder neck, thus decreasing the blockage of urine flow. Common side effects of alpha-blockers includeorthostatic hypotension(a head rush or dizzy spell when standing up or stretching),ejaculationchanges,erectile dysfunction,headaches, nasal congestion, and weakness. For men withLUTSdue to an enlarged prostate, the effects of naftopidil, tamsulosin, and silodosin on urinary symptoms and quality of life may be similar.Naftopidil and tamsulosin may have similar levels of unwanted sexual side effects but fewer unwanted side effects than silodosin.
+
+Tamsulosin and silodosin are selective α1 receptor blockers that preferentially bind to the α1A receptor in the prostate instead of the α1B receptor in the blood vessels. Less-selective α1 receptor blockers such as terazosin and doxazosin may lower blood pressure. The older, less selective α1-adrenergic blocker prazosin is not a first-line choice for eitherhigh blood pressureor prostatic hyperplasia; it is a choice for patients who present with both problems at the same time. The older, broadly non-selective alpha-blocker medications such asphenoxybenzamineare not recommended for control of BPH.Non-selective alpha-blockers such as terazosin and doxazosin may also require slow dose adjustments as they can lower blood pressure and causesyncope(fainting) if the response to the medication is too strong.
+
+
+** 5α-reductase inhibitors **
+
+
+The 5α-reductase inhibitorsfinasterideanddutasteridemay also be used in people with BPH.These medications inhibit the5α-reductaseenzyme, which, in turn, inhibits the production ofDHT, a hormone responsible for enlarging the prostate. Effects may take longer to appear than alpha blockers, but they persist for many years.When used together with alpha-blockers, no benefit was reported in short-term trials, but in a longer-term study (3–4 years) there was a greater reduction in BPH progression to acute urinary retention and surgery than with either agent alone, especially in people with more severe symptoms and larger prostates.Other trials have confirmed reductions in symptoms, within 6 months in one trial, an effect that was maintained after withdrawal of the alpha blocker.Side effects include decreasedlibidoand ejaculatory or erectile dysfunction.The 5α-reductase inhibitors are contraindicated in pregnant women because of theirteratogenicitydue to interference with fetal testosterone metabolism, and as a precaution, pregnant women should not handle crushed or broken tablets.
+
+
+** Phosphodiesterase inhibitors (PDE) **
+
+
+A 2018 Cochrane review of studies on men over 60 with moderate to severelower urinary tract symptomsanalyzed the impacts ofphosphodiesterase inhibitors(PDE) in comparison to other drugs.These drugs may improve urinary symptoms slightly and reduce urinary bother but may also cause more side effects than placebo. The evidence in this review found that there is probably no difference between PDE andalpha blockers, however when used in combination they may provide a greater improvement in symptoms (with more side effects). PDE also likely improves symptoms when used with5-alpha reductase inhibitors.
+
+Several phosphodiesterase-5 inhibitors are also effective but may require multiple doses daily to maintain adequate urine flow.Tadalafil, a phosphodiesterase-5 inhibitor, was considered then rejected by NICE in the UK for the treatment of symptoms associated with BPH.In 2011, the U.S. Food and Drug Administration approved tadalafil to treat the signs and symptoms of benign prostatic hyperplasia, and for the treatment of BPH and erectile dysfunction (ED), when the conditions occur simultaneously.
+
+
+** Others **
+
+
+Antimuscarinicssuch astolterodinemay also be used, especially in combination with alpha-blockers.They act by decreasingacetylcholineeffects on the smooth muscle of thebladder, thus helping control symptoms of anoveractive bladder.
+
+
+--- Self-catheterization ---
+
+
+Intermittenturinary catheterizationis used to relieve the bladder in people withurinary retention. Self-catheterization is an option in BPH when it is difficult or impossible to empty the bladder.Urinary tract infectionis the most common complication of intermittent catheterization.Several techniques and types of catheter are available, including sterile (single-use) and clean (multiple use) catheters, but, based on current information, none is superior to others in reducing the incidence of urinary tract infection.
+
+
+--- Surgery ---
+
+
+If medical treatment is not effective, surgery may be performed. Surgical techniques used include the following:
+
+  - Transurethral resection of the prostate(TURP): the gold standard.TURP is thought to be the most effective approach for improving urinary symptoms and urinary flow, however, this surgical procedure may be associated with complications in up to 20% of men.Surgery carries some risk of complications, such asretrograde ejaculation(most commonly),erectile dysfunction,urinary incontinence,urethral strictures.
+  - Transurethral incision of the prostate(TUIP): rarely performed; the technique is similar to TURP but less definitive.
+  - Openprostatectomy: not usually performed nowadays due to its high morbidity, even if the results are excellent.
+
+Other less invasive surgical approaches (requiringspinal anesthesia) include:
+
+  - Holmium laser ablation of the prostate(HoLAP)
+  - Holmium laser enucleation of the prostate(HoLeP)
+  - Thulium laser transurethral vaporesection of the prostate (ThuVARP)
+  - Photoselective vaporization of the prostate (PVP)
+  - Aquablation therapy: a type of surgery using a water jet to remove prostatic tissue.
+
+
+--- Minimally invasive procedures ---
+
+
+Some less invasive procedures are available according to patients' preferences and co-morbidities. These are performed asoutpatient procedureswithlocal anesthesia.
+
+  - Prostatic artery embolization: an endovascular procedure performed ininterventional radiology.Throughcatheters, embolic agents are released in the main branches of the prostatic artery, in order to induce a decrease in the size of the prostate gland, thus reducing the urinary symptoms.
+  - Water vapor thermal therapy(marketed as Rezum): This is a newer office procedure for removing prostate tissue using steam aimed at preserving sexual function.
+  - Prostatic urethral lift(marketed as UroLift): This intervention consists of a system of a device and an implant designed to pull the prostatic lobe away from the urethra.
+  - Transurethral microwave thermotherapy(TUMT) is an outpatient procedure that is less invasive compared to surgery and involves using microwaves (heat) to shrink prostate tissue that is enlarged.
+  - Temporary implantable nitinol device(TIND and iTIND): is a device that is placed in the urethra that, when released, is expanded, reshaping the urethra and the bladder neck.
+
+
+--- Alternative medicine ---
+
+
+Whileherbal remediesare commonly used, a 2016 review found the herbs studied to be no better thanplacebos.Particularly, several reviews found thatsaw palmetto extract, while one of the most commonly used, is no better than a placebo both in symptom relief and in decreasing prostate size.

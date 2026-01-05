@@ -1,0 +1,34 @@
+CHRONIC KIDNEY DISEASE (CKD) MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial Evaluation
+   - Determine CKD stage (eGFR)
+   - Assess albuminuria, BP, diabetes
+
+2. Core Management
+   *Blood Pressure*
+     - ACEIs/ARBs first‑line
+     - Aggressive BP lowering decreases mortality
+   *Diabetes*
+     - SGLT2 inhibitors → kidney & heart protection
+   *Lipids*
+     - Statins for CKD patients (esp. >50 yrs)
+
+3. Diet & Lifestyle
+   - Plant‑dominant, low protein, low salt
+   - Weight management
+   - Salt restriction → ↓ BP & albuminuria
+
+4. Medication Adjustments
+   - Adjust doses of renally cleared drugs
+   - Avoid nephrotoxins
+   - Treat anemia (IV iron → first line; EPO as needed)
+   - Treat mineral bone disease (calcitriol, phosphate binders)
+
+5. Nephrology Referral
+   - Stage 4 CKD (eGFR <30)
+   - Earlier if albuminuria >30 mg/mmol or refractory hypertension.
+
+6. Renal Replacement Therapy
+   - Dialysis or transplant at Stage 5
+   - Dialysis removes toxins incompletely; transplant closer to normal.
+

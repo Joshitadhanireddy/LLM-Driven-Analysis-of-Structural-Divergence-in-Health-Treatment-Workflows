@@ -1,0 +1,40 @@
+TETANUS TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial Assessment
+   - Diagnose severity: mild vs. severe.
+   - Evaluate airway, spasms, autonomic instability.
+
+2. Mild Tetanus Management
+   2.1 Immunotherapy
+       - Tetanus immunoglobulin (TIG) IV or IM.
+   2.2 Antibiotics
+       - Preferred: IV metronidazole.
+   2.3 Control of Spasms
+       - Benzodiazepines: diazepam or lorazepam.
+
+3. Severe Tetanus Management
+   - ICU admission required.
+   - Additional steps:
+     3.1 Intrathecal TIG (improves outcomes).
+     3.2 Airway & Ventilation
+         - Tracheotomy + mechanical ventilation 3–4 weeks.
+     3.3 Spasm & Autonomic Control
+         - Continuous IV diazepam.
+         - IV magnesium sulfate.
+         - Agents for autonomic instability: labetalol, clonidine, magnesium, nifedipine.
+     3.4 Paralytic Agents
+         - Curare‑like drugs if extreme spasms; ventilatory support required.
+
+4. Nutrition Support
+   - High‑calorie (3500–4000 kcal/day) & protein intake ≥150 g/day.
+   - Enteral feeding via PEG or parenteral nutrition.
+
+5. Recovery
+   - Nerve terminal regeneration → 4–6 weeks.
+   - Continue monitoring for respiratory, cardiac complications.
+
+6. Primary Goals
+   - Maintain airway.
+   - Control spasms.
+   - Reduce toxin effects.
+   - Support metabolic demands.

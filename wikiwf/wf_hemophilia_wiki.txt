@@ -1,0 +1,61 @@
+HEMOPHILIA MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Baseline assessment
+   - Confirm type and severity of hemophilia (A: factor VIII, B: factor IX).
+   - Identify mild, moderate, or severe disease.
+   - Screen for existing inhibitors to clotting factors.
+   - Review bleeding history, joint status, and comorbidities.
+
+2. Core treatment principle
+   - There is no long-term cure.
+   - Management is based on replacing missing clotting factors promptly and appropriately.
+
+3. Clotting factor replacement strategy
+   3.1 Mild hemophilia
+       - Factor concentrates usually not needed routinely.
+       - Use factor replacement ONLY around major bleeds or high-risk procedures.
+       - Consider desmopressin (DDAVP) for mild hemophilia A.
+   3.2 Moderate hemophilia
+       - On-demand factor replacement for bleeding episodes and procedures.
+       - Educate on early self-infusion where possible.
+   3.3 Severe hemophilia
+       - Prophylactic factor replacement 2–3 times per week, often lifelong.
+       - Aim: maintain factor levels high enough to prevent spontaneous bleeding.
+       - Rapid treatment of bleeds to prevent joint and tissue damage.
+
+4. Factor products and inhibitors
+   - Use factor VIII (hemophilia A) or IX (hemophilia B):
+     * Plasma-derived, recombinant, or mixed origin.
+   - If inhibitors develop:
+     * Increase dose or switch to non-human factor (e.g., porcine factor VIII).
+     * Consider immune tolerance protocols.
+   - Recombinant factors minimise infection risk but are costly and less available in low-resource settings.
+   - Fitusiran (Qfitlia) is now available as a newer agent in some settings.
+
+5. Adjunctive therapies
+   - Antifibrinolytics: tranexamic acid or epsilon aminocaproic acid to stabilise clots.
+   - Desmopressin (DDAVP) in mild hemophilia A to raise factor VIII levels.
+   - Emicizumab for severe hemophilia A already on FVIII (subcutaneous prophylaxis).
+   - Pain control: analgesics, short courses of steroids, and physical therapy for joint bleeds.
+
+6. Management of acquired hemophilia
+   - Add immunosuppressive therapy:
+     * First line: corticosteroids to remove autoantibodies in ~50% of cases.
+     * Second line: cyclophosphamide and cyclosporine if steroids fail.
+     * Third line: high-dose IV immunoglobulin or immunosorbent therapy.
+
+7. Activity and medication contraindications
+   7.1 Contraindicated medications
+       - Anticoagulants: heparin, warfarin.
+       - Drugs with “blood thinning” effects: aspirin, ibuprofen, naproxen, and similar NSAIDs.
+   7.2 High-risk activities to avoid
+       - Very high trauma/contact sports: American football, hockey, boxing, wrestling, rugby.
+       - High-risk activities: motorcycling, skateboarding.
+   7.3 Activities with caution
+       - Soccer, baseball, basketball: only with specialist advice and appropriate protection.
+
+8. Long-term goals
+   - Prevent joint damage and chronic pain.
+   - Minimise bleeding episodes and hospitalisations.
+   - Preserve function and quality of life.
+   - Provide patient and family education, home infusion training, and psychosocial support.

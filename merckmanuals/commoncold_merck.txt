@@ -1,0 +1,35 @@
+--- Common Cold Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/infectious-diseases/respiratory-viruses/common-cold?query=common%20cold#v1018817
+
+=== Treatment of Common Cold ===
+
+  - Symptomatic treatment
+
+Treatment is supportive. Antipyretics and analgesics may relieve fever and sore throat.
+
+Nasal decongestants may reduce nasal obstruction. Topical nasal decongestants are more effective than oral decongestants, but the use of topical medications for > 3 to 5 days may result in rebound congestion.
+
+Rhinorrhea may be relieved with first-generation antihistamines (eg, chlorpheniramine ) or intranasal ipratropium bromide (2 sprays of a 0.03% solution 2 or 3 times a day); however, these medications offer minimal benefit and should be used with caution in older adults, people with benign prostatic hypertrophy, or angle-closure glaucoma. First-generation antihistamines frequently cause sedation, but second-generation (nonsedating) antihistamines are ineffective for treating the common cold. Rhinorrhea may be relieved with first-generation antihistamines (eg, chlorpheniramine) or intranasal ipratropium bromide (2 sprays of a 0.03% solution 2 or 3 times a day); however, these medications offer minimal benefit and should be used with caution in older adults, people with benign prostatic hypertrophy, or angle-closure glaucoma. First-generation antihistamines frequently cause sedation, but second-generation (nonsedating) antihistamines are ineffective for treating the common cold.
+
+Antihistamines and decongestants are not recommended for children < 4 years.
+
+Zinc ( 1 ), echinacea ( 2 ), and vitamin C ( 3 ) have all been evaluated as common cold therapies, but none has been clearly shown to be beneficial. Although zinc lozenges may reduce the duration of common cold symptoms, that benefit must be balanced against adverse effects, notably a bad taste and nausea ( 1 ). Importantly, there is concern about permanent anosmia with use of intranasal zine ( 4 ).
+
+Antibiotics should not be given unless there is clear evidence of secondary bacterial infection.
+
+  - 1. Singh M, Das RR . Zinc for the common cold. Cochrane Database Syst Rev . 2013;(6):CD001364. Published 2013 Jun 18. doi:10.1002/14651858.CD001364.pub4
+
+  - 2. Karsch-Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand-Woelkart K, Linde K : Echinacea for preventing and treating the common cold. Cochrane Database Syst Rev . 2014;2014(2):CD000530. Published 2014 Feb 20. doi:10.1002/14651858.CD000530.pub3
+
+  - 3. Hemilä H, Chalker E : Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev . 2013;2013(1):CD000980. Published 2013 Jan 31. doi:10.1002/14651858.CD000980.pub4
+
+  - 4. D'Cruze H, Arroll B, Kenealy T : Is intranasal zinc effective and safe for the common cold? A systematic review and meta-analysis. J Prim Health Care . 2009;1(2):134-139.
+
+1. Singh M, Das RR . Zinc for the common cold. Cochrane Database Syst Rev . 2013;(6):CD001364. Published 2013 Jun 18. doi:10.1002/14651858.CD001364.pub4
+
+2. Karsch-Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand-Woelkart K, Linde K : Echinacea for preventing and treating the common cold. Cochrane Database Syst Rev . 2014;2014(2):CD000530. Published 2014 Feb 20. doi:10.1002/14651858.CD000530.pub3
+
+3. Hemilä H, Chalker E : Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev . 2013;2013(1):CD000980. Published 2013 Jan 31. doi:10.1002/14651858.CD000980.pub4
+
+4. D'Cruze H, Arroll B, Kenealy T : Is intranasal zinc effective and safe for the common cold? A systematic review and meta-analysis. J Prim Health Care . 2009;1(2):134-139.

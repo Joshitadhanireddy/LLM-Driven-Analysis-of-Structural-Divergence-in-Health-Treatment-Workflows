@@ -1,0 +1,36 @@
+COMMON COLD MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Supportive Care
+   - Rest, hydration, warm salt‑water gargles
+
+2. Symptomatic Relief
+   *Pain/Fever*
+     - Ibuprofen, acetaminophen
+   *Cough/Congestion*
+     - OTC cough meds: limited evidence; avoid in <6 yrs
+     - Nasal decongestants (small benefit in adults)
+     - Antihistamines → mild benefit first 1–2 days
+     - Ipratropium nasal spray → helpful for runny nose
+     - Vapor rub → some nighttime relief
+
+3. Not Recommended / Limited Evidence
+   - Intranasal steroids
+   - Excess fluids
+   - Heated/humidified air
+   - Garlic, Echinacea, Chinese herbs
+
+4. Antibiotics / Antivirals
+   - Antibiotics not effective (viral)
+   - No proven antivirals
+
+5. Zinc
+   - May reduce duration if started ≤24 hours
+   - Nasal zinc → anosmia risk
+
+6. Vitamins
+   - Vitamin C reduces duration only if taken consistently before illness
+   - Vitamin D not proven effective
+
+7. Exercise
+   - Avoid if systemic symptoms (fever, fatigue)
+   - Light exercise okay if symptoms above neck only

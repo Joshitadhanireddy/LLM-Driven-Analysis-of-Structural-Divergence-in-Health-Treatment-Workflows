@@ -1,0 +1,107 @@
+BENIGN PROSTATIC HYPERPLASIA (BPH) MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial evaluation
+   - Assess lower urinary tract symptoms (LUTS), severity, and impact on quality of life.
+   - Rule out other causes of LUTS (e.g. infection, prostate cancer, neurogenic bladder).
+   - Assess for complications: urinary retention, recurrent infections, bladder stones, renal impairment.
+
+2. Lifestyle and behavioural management (all suitable patients)
+   2.1 Fluid and intake strategies
+       - Reduce evening fluid intake, especially before bedtime.
+       - Moderate alcohol and caffeine consumption.
+   2.2 Voiding strategies
+       - Implement timed voiding schedule (regular planned toileting).
+       - Evaluate and optimise voiding position:
+         * In elderly men with LUTS, sitting position may improve flow and reduce residual volume.
+   2.3 Medication review
+       - Avoid or minimise drugs that worsen urinary retention (with clinician input):
+         * Anticholinergics (e.g. some antihistamines, tricyclic antidepressants).
+         * Decongestants, opioids, and similar agents.
+
+3. Pharmacologic treatment – first-line options
+   3.1 Alpha-1 blockers (initial drug of choice in many patients)
+       - Examples: alfuzosin, doxazosin, silodosin, tamsulosin, terazosin, naftopidil.
+       - Mechanism: relax smooth muscle in prostate and bladder neck → improved urine flow.
+       - Expected impact: small–moderate symptom relief.
+       - Selection:
+         * Tamsulosin/silodosin: more selective for α1A (prostate) with less BP effect.
+         * Terazosin/doxazosin: less selective, more effect on BP (may help if coexisting hypertension).
+       - Monitor side effects:
+         * Orthostatic hypotension, dizziness, headaches.
+         * Ejaculatory changes, erectile dysfunction.
+         * Nasal congestion, weakness.
+   3.2 5α-reductase inhibitors (for larger prostates or progressive disease risk)
+       - Agents: finasteride, dutasteride.
+       - Mechanism: inhibit conversion of testosterone to DHT → reduce prostate size over months/years.
+       - Use:
+         * Monotherapy in men with enlarged prostate and moderate–severe LUTS.
+         * Combination with alpha-blocker when symptoms significant or progression risk high.
+       - Monitor:
+         * Sexual side effects (reduced libido, ejaculatory/erectile dysfunction).
+       - Important precautions:
+         * Contraindicated in pregnancy; women should avoid handling crushed/broken tablets.
+
+4. Combination and alternative pharmacologic strategies
+   4.1 Alpha-blocker + 5α-reductase inhibitor
+       - For moderate–severe LUTS with larger prostates or high risk of progression.
+       - Long-term trials: combination reduces risk of acute urinary retention and surgery more than either alone.
+   4.2 Phosphodiesterase-5 (PDE5) inhibitors
+       - Use in men >60 with moderate–severe LUTS, especially when ED coexists.
+       - Tadalafil is FDA-approved for BPH (alone or with ED).
+       - May be similar in efficacy to alpha-blockers; combination may further improve symptoms but with more side effects.
+   4.3 Antimuscarinics (e.g. tolterodine)
+       - Consider for storage/overactive bladder symptoms refractory to alpha-blocker alone.
+       - Often used in combination with alpha-blocker.
+       - Monitor for urinary retention risk.
+
+5. Catheterisation pathway
+   - Indications: acute or chronic urinary retention, very high post-void residual, or when surgery is delayed.
+   - Intermittent self-catheterisation:
+       - Option for selected patients who cannot empty bladder adequately.
+       - Educate on technique; acknowledge UTI as most common complication.
+       - No clear evidence that any specific catheter technique/material reduces UTI risk.
+
+6. Surgical management (for refractory symptoms or complications)
+   6.1 Standard surgical options
+       - Transurethral resection of the prostate (TURP)
+         * Gold standard for symptom relief and flow improvement.
+         * Complication risk up to ~20%: retrograde ejaculation (most common), ED, incontinence, urethral stricture.
+       - Transurethral incision of the prostate (TUIP)
+         * Less extensive than TURP; used in selected cases (e.g. smaller glands).
+       - Open prostatectomy
+         * Now rarely performed due to high morbidity, reserved for very large prostates or special cases.
+   6.2 Endoscopic laser procedures (less invasive than open)
+       - Holmium laser ablation (HoLAP) and enucleation (HoLeP).
+       - Thulium laser vaporesection (ThuVARP).
+       - Photoselective vaporisation (PVP).
+   6.3 Waterjet-based surgery
+       - Aquablation: resection of prostatic tissue using a robotic water jet system.
+
+7. Minimally invasive office-based procedures
+   - Consider when:
+     * Symptoms significant, medications insufficient or poorly tolerated.
+     * Patient prefers less invasive option with local anaesthesia.
+   - Options:
+     7.1 Prostatic artery embolisation
+         - Interventional radiology procedure to shrink prostate by reducing arterial blood supply.
+     7.2 Water vapour thermal therapy (Rezum)
+         - Injection of steam into prostate tissue; aims to preserve sexual function.
+     7.3 Prostatic urethral lift (UroLift)
+         - Implants that retract prostatic lobes away from urethra.
+     7.4 Transurethral microwave thermotherapy (TUMT)
+         - Microwave-induced heat to shrink prostatic tissue.
+     7.5 Temporary implantable nitinol devices (TIND/iTIND)
+         - Temporarily reshape urethra and bladder neck.
+
+8. Alternative and herbal therapies
+   - Herbal remedies (including saw palmetto) are widely used but:
+     * Current evidence shows no better effect than placebo on symptoms or prostate size.
+   - Not recommended as a replacement for evidence-based medical or surgical therapies.
+
+9. Long-term follow-up and goals
+   - Regularly review symptoms, flow, residual volume, and complications.
+   - Adjust lifestyle and pharmacologic therapy according to response and side effects.
+   - Aim to:
+     * Relieve bothersome LUTS.
+     * Prevent urinary retention, infections, stones, and renal damage.
+     * Maintain sexual function and quality of life as much as possible.

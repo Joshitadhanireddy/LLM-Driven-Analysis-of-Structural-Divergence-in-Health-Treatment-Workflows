@@ -1,0 +1,31 @@
+HEARING LOSS MANAGEMENT WORKFLOW (from WebMD-based plan)
+
+1. Determine type and cause
+   - Conductive vs sensorineural vs mixed hearing loss.
+   - Identify reversible causes (infection, wax, medication, structural problem) vs permanent damage.
+
+2. Treat reversible causes
+   - Infections: appropriate antibiotics.
+   - Earwax blockage: removal with suction or curette by clinician.
+   - Medication‑related: review and adjust ototoxic medicines with prescriber.
+   - Structural or middle‑ear issues (otosclerosis, scar tissue, some Ménière’s disease):
+       * Consider surgery or targeted medical therapy.
+
+3. Long‑term amplification and assistive options
+   3.1 Hearing aids
+       - Primary treatment for permanent hearing loss.
+       - Fit in or behind ear; tuned to individual hearing profile.
+       - Set realistic expectations about sound quality changes.
+   3.2 Assistive listening devices
+       - Personal listening systems to focus on desired sounds.
+       - TV‑listening systems to hear clearly without raising volume.
+       - Phone amplifiers and captioned phones for landline and mobile use.
+
+4. Cochlear implants
+   - Consider for profound hearing loss with limited benefit from hearing aids.
+   - Used in children and increasingly in adults.
+   - Surgically implanted device bypasses damaged inner ear to stimulate auditory nerve.
+
+5. Ongoing management
+   - Regular audiologic follow‑up to adjust devices and monitor progression.
+   - Counseling and rehabilitation to optimize communication strategies and quality of life.

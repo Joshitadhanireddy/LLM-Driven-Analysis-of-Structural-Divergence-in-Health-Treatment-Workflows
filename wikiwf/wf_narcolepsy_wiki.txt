@@ -1,0 +1,57 @@
+NARCOLEPSY MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Overall approach
+   - No definitive cure; aim to improve daytime alertness and control cataplexy/REM-related symptoms.
+   - Combine behavioural strategies with medication.
+   - Monitor for comorbid sleep disorders (e.g., obstructive sleep apnoea) and psychosocial issues.
+
+2. Emerging orexin/hypocretin replacement
+   - Experimental gene and cell therapies:
+     * Prepro-orexin gene editing to induce orexin production in other neurons.
+     * Stem-cell–derived hypocretin neuron transplantation.
+   - Future pharmacologic strategies:
+     * Hypocretin agonists (e.g., danavorexton).
+     * Hypocretin 1 replacement (IV, intracisternal, or high-dose intranasal).
+   - Currently research-stage, not routine clinical care.
+
+3. Behavioural and educational management
+   - Provide education for patient and family on disease mechanisms and safety (driving, machinery).
+   - Optimise sleep hygiene: regular schedule, adequate nocturnal sleep.
+   - Plan scheduled daytime naps (especially longer ~120-minute naps for sustained benefit).
+   - Address medication adherence and side effects at regular follow-up visits.
+   - Maintain open communication about school/work accommodations and psychosocial impact.
+
+4. Pharmacologic treatment – Excessive Daytime Sleepiness (EDS)
+   4.1 First-line wake-promoting agents
+       - Modafinil, armodafinil.
+       - Pitolisant (H3 antagonist increasing histamine release).
+       - Solriamfetol (dopamine and norepinephrine reuptake inhibitor).
+       - Monitor for side effects (e.g., skin reactions with modafinil).
+   4.2 Traditional stimulants (second-/third-line)
+       - Methylphenidate, amphetamine, dextroamphetamine.
+       - Used when newer agents insufficient or unavailable.
+
+5. Pharmacologic treatment – Cataplexy and REM-related symptoms
+   5.1 Sodium oxybate formulations
+       - Twice-nightly sodium oxybate.
+       - Twice-nightly mixed salts oxybate.
+       - Once-nightly extended-release sodium oxybate.
+       - Taken at night; improve cataplexy and EDS.
+   5.2 REM-suppressing antidepressants
+       - Tricyclics: clomipramine, imipramine, protriptyline.
+       - SSRIs, SNRIs: venlafaxine and others.
+       - NRIs: atomoxetine, viloxazine, reboxetine.
+       - Other agents: mazindol, selegiline in selected cases.
+
+6. Paediatric narcolepsy
+   - Behavioural:
+     * Sleep hygiene, scheduled naps, physical exercise.
+   - Medications (carefully dosed):
+     * Stimulants: methylphenidate, modafinil, amphetamine, dextroamphetamine.
+     * Sodium oxybate or atomoxetine for sleepiness.
+     * Sodium oxybate, venlafaxine, fluoxetine, or clomipramine for cataplexy.
+
+7. Long-term goals
+   - Maximise daytime function and safety.
+   - Reduce frequency and severity of cataplexy.
+   - Maintain school/work performance and psychosocial well-being.

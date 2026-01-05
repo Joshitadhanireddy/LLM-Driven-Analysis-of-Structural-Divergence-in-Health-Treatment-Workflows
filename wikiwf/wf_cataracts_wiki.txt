@@ -1,0 +1,31 @@
+CATARACTS TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial Evaluation
+   - Confirm cataract and assess functional impairment.
+   - Surgery based on functional needs—not cataract “ripeness.”
+
+2. Indications for Surgery
+   - Significant functional disability.
+   - Activities of daily living affected.
+   - Visual function score (e.g., VF‑14) more accurate than acuity.
+
+3. Surgical Options
+   *Phacoemulsification (standard)*
+     - Anesthesia (topical/subtenon)
+     - Corneal incisions
+     - Capsulorhexis
+     - Ultrasonic lens emulsification
+     - Irrigation/aspiration
+     - Foldable IOL insertion
+
+   *Alternatives*
+     - ECCE (larger incision; used for hard cataracts)
+     - MSICS (common in developing regions)
+     - ICCE (rare, high complication rate)
+
+4. Expected Outcome
+   - ~90% patients achieve 20/40 or better with correction.
+
+5. Postoperative Care
+   - Topical antibiotics/steroids.
+   - Monitor for infection, inflammation, retinal detachment.

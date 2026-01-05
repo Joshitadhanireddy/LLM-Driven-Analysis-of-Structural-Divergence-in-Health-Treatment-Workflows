@@ -1,0 +1,40 @@
+--- Narcolepsy Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Narcolepsy
+
+--- Treatment ---
+
+
+
+--- Orexin replacement ---
+
+
+People with narcolepsy can be substantially helped, but not cured, currently. However, the technology exists in early form such as experiments in using theprepro-orexintransgene via gene editing restored normal function in mice models by making other neurons produce orexin after the original set have been destroyed, or replacing the missing orexinergic neurons with hypocretin stem cell transplantation, are both steps in that direction for fixing the biology effectively permanently once applied in humans.Additionally effective ideal non-gene editing and chemical-drug methods involve hypocretin treatments methods such as future drugs like hypocretin agonists (such asdanavorexton)or hypocretin replacement, in the form ofhypocretin 1givenintravenous(injected into the veins),intracisternal(direct injection into the brain), andintranasal(sprayed through the nose), the latter being low in efficacy, at the low amount used in current experiments but may be effective at very high doses in the future.
+
+
+--- Behavioral ---
+
+
+General strategies like people and family education, sleep hygiene, medication adherence, and discussion of safety issues, for example driving license, can be useful. Potential side effects of medication can also be addressed.Regular follow-up is useful to be able to monitor the response to treatment, to assess the presence of other sleep disorders like obstructive sleep apnea, and to discuss psychosocial issues.
+
+In many cases, planned regular short naps can reduce the need for pharmacological treatment of the EDS, but only improve symptoms for a short duration. A 120-minute nap provided benefit for 3 hours in the person's alertness whereas a 15-minute nap provided no benefit.Daytime naps are not a replacement for night time sleep. Ongoing communication between the health care provider, the person, and their family members is important for optimal management of narcolepsy.
+
+
+--- Medications ---
+
+
+As described above, medications used to treat narcolepsy primarily target EDS and/or cataplexy. Internationally, there are differences in the availability of medications as well as guidelines for treatment. The alerting agents are medications typically used to improve wakefulness and includemodafinil,armodafinil,pitolisant, andsolriamfetol. In late 2007, an alert for severe adverse skin reactions to modafinil was issued by theFDA.Solriamfetolis a new molecule indicated for narcolepsy of type 1 and 2.Solriamfetol works by inhibiting the reuptake of the monoamines via the interaction with both the dopamine transporter and the norepinephrine transporter. This mechanism differs from that of the wake-promoting agents modafinil and armodafinil. These are thought to bind primarily at the dopamine transporter to inhibit the reuptake of dopamine. Solriamfetol also differs from amphetamines as it does not promote the release of norepinephrine in the brain.Uniquely,Pitolisanthas a novel mechanism of action as anH3 antagonists, which promotes the release of the wakefulness-promoting molecule amine histamine. It was initially available in France, United Kingdom's (NHSas of September 2016[update]) after being given marketing authorisation by European Commission on the advice of theEuropean Medicines Agencyand then in the United States by the approval of theFood and Drug Administration(FDA) as of August 2019[update].Pemolinewas previously used but was withdrawn due to toxicity.
+
+Traditional stimulants, such asmethylphenidate,amphetamine, anddextroamphetaminecan be used, but are commonly considered second- or third-line therapy.
+
+Sodium oxybate,also known as sodiumgamma-hydroxybutyrate(GHB), can be used forcataplexyassociated with narcolepsy andexcessive daytime sleepinessassociated with narcolepsy.There are now three formulations of oxybate medications (twice-nightlysodium oxybate, twice nightly mixed salts oxybate, and once-nightly extended-release sodium oxybate). This class of medication is taken once or twice during the night, as opposed to other medications for EDS and cataplexy that are typically taken during the day.
+
+Other medications that suppress REM sleepmay also be used for the treatment of cataplexy as well as potentially other REM dissociative symptoms.Tricyclic antidepressants(clomipramine,imipramine, orprotriptyline),selective serotonin reuptake inhibitors(SSRIs), and selective norepinephrine reuptake inhibitors (SNRIs) (Venlafaxine) are used for the treatment of cataplexy.Atomoxetine, anon-stimulantand anorepinephrine reuptake inhibitor(NRI), which has no addiction liability or recreational effects, has been used with variable benefit.Other NRIs likeviloxazineandreboxetinehave also been used in the treatment of narcolepsy.Additional related medications includemazindolandselegiline.
+
+
+--- Children ---
+
+
+Common behavioral treatments for childhood narcolepsy include improved sleep hygiene, scheduled naps, and physical exercise.
+
+Many medications are used to treat adults and may be used to treat children. These medications include central nervous system stimulants such as methylphenidate, modafinil, amphetamine, and dextroamphetamine.Other medications, such assodium oxybateoratomoxetine, may also be used to counteract sleepiness. Medications such as sodium oxybate,venlafaxine,fluoxetine, andclomipraminemay be prescribed if the child presents with cataplexy.

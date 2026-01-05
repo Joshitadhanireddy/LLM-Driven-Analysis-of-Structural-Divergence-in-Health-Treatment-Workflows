@@ -1,0 +1,44 @@
+--- Multiple Sclerosis Treatment Plan (Extracted from Cleveland Clinic) ---
+
+Source URL: https://my.clevelandclinic.org/health/diseases/17248-multiple-sclerosis
+
+=== Management and Treatment ===
+
+There isn’t currently a cure for MS.
+
+Multiple sclerosis treatment focuses on minimizing further damage, managing symptoms and preventing complications. Your treatment plan may include:
+
+  - Medications
+  - Physical, occupational or speech therapy
+  - Mental health counseling
+
+Other types of symptom management vary based on how the condition affects you. Management may include:
+
+  - Wearing glasses or taking medications for vision symptoms
+  - Deep brain stimulation for muscle spasms (tremors)
+  - Using assistive mobility devices like a cane, walker or wheelchair
+  - Antiseizure medications or antispasmodic medications ( gabapentin or nortriptyline ) for pain
+  - Medications like donepezil for cognitive symptoms
+  - Alternative therapies like acupuncture and yoga
+
+Your healthcare provider may recommend plasma exchange ( plasmapheresis ) if your body doesn’t respond well to certain medications during an MS attack. This is more effective in minimizing damage from an ongoing attack as opposed to preventing additional attacks in the long term.
+
+Your provider can also discuss if any clinical trials are available to participate in. Clinical trials are tests of new medications or uses of existing medications on humans to find new treatment options for MS and other conditions.
+
+
+** Multiple sclerosis medications **
+
+
+Medications for multiple sclerosis can reduce relapses (periods when symptoms worsen or new symptoms develop) and the development of new lesions/scars, and slow the disease’s progression. Common types of medications for MS include:
+
+  - Disease-modifying therapies (DMTs). DMTs reduce how often you have relapses, slow down MS progression, and prevent new lesions from forming on your brain and spinal cord. Several medications have U.S. Food and Drug Administration (FDA) approval for long-term MS treatment.
+  - Relapse management medications. For severe symptom attacks, corticosteroids (like methylprednisolone ) quickly reduce inflammation by suppressing your immune system. These medications can speed up your recovery time after an attack. They also slow damage to the myelin sheath surrounding your nerve cells. Your provider may give you this medication into a vein in your arm through an IV (intravenously). Other short-term treatments for severe attacks include IV immunoglobulin therapy or plasma exchange.
+
+DMTs for MS
+
+Common disease-modifying therapies (DMTs) for MS and their administration types include:
+
+  - Injections into your skin : Beta interferon , glatiramer acetate or ofatumumab
+  - Infusions into a vein (IV) : Alemtuzumab , natalizumab , rituximab, ocrelizumab or ublituximab
+  - Oral medications (taken by mouth) : Cladribine , dimethyl fumarate , diroximel fumarate , monomethyl fumarate, fingolimod , siponimod , ponesimod, ozanimod or teriflunomide
+  - Stem cell transplant

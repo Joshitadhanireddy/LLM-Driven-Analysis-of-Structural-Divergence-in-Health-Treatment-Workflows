@@ -1,0 +1,72 @@
+BELL'S PALSY MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial evaluation
+   - Confirm diagnosis of acute, unilateral lower motor neuron facial palsy.
+   - Exclude alternative causes (stroke, tumours, Lyme disease, trauma) based on history and exam.
+   - Document ability to close eyelids and presence of corneal exposure.
+   - Note special populations: pregnancy (overall management is similar to non-pregnant).
+
+2. Core early treatment (within first 72 hours of onset)
+   2.1 Start oral corticosteroids (first-line, unless contraindicated)
+       - Example: prednisone regimen as per local guidelines.
+       - Aim: initiate within 3 days of symptom onset to maximise recovery benefit.
+       - Expected benefit: ~14% greater probability of recovery at 6 months.
+   2.2 Consider antivirals as add-on (optional, evidence mixed)
+       - Agents: aciclovir/valaciclovir.
+       - Evidence:
+         * Limited/uncertain added benefit beyond steroids, particularly in mild–moderate disease.
+         * Some reviews suggest possible small benefit; use is often based on theoretical viral aetiology.
+       - Reserve for:
+         * Severe paresis or complete paralysis, or
+         * Clinical suspicion of herpes simplex/varicella zoster involvement (e.g. vesicles).
+
+3. Eye protection (for incomplete eye closure)
+   - Assess blink reflex and corneal exposure.
+   - If eye cannot close completely:
+     3.1 Daytime protection
+         - Frequent lubricating eye drops (artificial tears).
+         - Protective glasses or moisture chambers if needed.
+     3.2 Night-time protection
+         - Lubricating ointment.
+         - Patching or taping eyelids closed during sleep/rest.
+   - Refer urgently to ophthalmology if corneal damage is suspected.
+
+4. Physiotherapy and rehabilitation
+   - Consider early physiotherapy in patients with more severe or prolonged weakness.
+   - Components:
+     * Facial muscle re-education exercises.
+     * Soft tissue techniques to maintain muscle tone and reduce risk of contractures.
+   - Use local heat to reduce pain on the affected side if needed.
+   - Electrical stimulation currently lacks high-quality evidence and is not routinely recommended.
+
+5. Monitoring and follow-up
+   - Short-term (first weeks)
+     * Reassess facial function, pain, ability to close eye.
+     * Ensure adherence to eye protection and steroid course.
+   - Medium-term (3–6 months)
+     * Monitor for recovery; many patients recover substantially.
+     * If no or minimal recovery by 3–6 months, consider further evaluation.
+   - Screen for psychosocial impact (appearance, speech, eating) and provide support.
+
+6. Consideration of surgical options (for persistent palsy or sequelae)
+   - Indications:
+     * Long-standing facial nerve paralysis with incomplete recovery.
+   - Possible interventions:
+     * Various facial nerve and muscle transfer procedures.
+     * “Smile surgery”/smile reconstruction to restore dynamic facial movement.
+   - Risks:
+     * Possible hearing loss (reported in ~3–15% in some procedures).
+   - Evidence:
+     * As of available reviews, benefits of early decompression surgery remain uncertain;
+       some professional bodies do not recommend routine decompression.
+
+7. Alternative therapies (currently not standard of care)
+   - Acupuncture: efficacy remains unclear due to low-quality evidence.
+   - Hyperbaric oxygen therapy: tentative evidence suggests possible benefit in severe disease,
+     but not established as routine therapy.
+
+8. Long-term goals
+   - Protect the eye from exposure keratopathy.
+   - Maximise spontaneous and aided recovery of facial nerve function.
+   - Minimise permanent disfigurement, synkinesis, and disability.
+   - Support psychological adjustment and social functioning.

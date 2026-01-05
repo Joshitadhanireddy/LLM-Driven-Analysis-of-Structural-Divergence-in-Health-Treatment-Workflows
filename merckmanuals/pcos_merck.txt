@@ -1,0 +1,115 @@
+--- PCOS Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/gynecology-and-obstetrics/abnormal-uterine-bleeding/polycystic-ovary-syndrome-pcos?query=pcos#Treatment_v1062554
+
+=== Treatment of PCOS ===
+
+  - Usually estrogen/progestin contraceptives or progestins
+
+  - Sometimes metformin or other insulin sensitizers
+
+  - Management of hirsutism and, in adult women, long-term risks of hormonal abnormalities
+
+  - Infertility treatments in women who desire pregnancy
+
+Sometimes metformin or other Sometimes metformin or other insulin sensitizers
+
+Management of hirsutism and, in adult women, long-term risks of hormonal abnormalities
+
+Infertility treatments in women who desire pregnancy
+
+  - Manage hormonal and metabolic abnormalities and thus reduce risks of estrogen excess (eg, endometrial hyperplasia) and androgen excess (eg, diabetes, cardiovascular disorders)
+
+  - Relieve symptoms (irregular menses, acne, excess facial and body hair)
+
+  - Treat infertility
+
+Manage hormonal and metabolic abnormalities and thus reduce risks of estrogen excess (eg, endometrial hyperplasia) and androgen excess (eg, diabetes, cardiovascular disorders)
+
+Relieve symptoms (irregular menses, acne, excess facial and body hair)
+
+Hormonal medications are used to cause regular shedding of the endometrium and/or to provide progestins to oppose the proliferative effect of estrogens on the endometrium. This reduces the risk of endometrial hyperplasia and cancer. Estrogen-progestin contraceptives are often first-line, and result in regular menses, reduce acne and hirsutism, and provide contraception. These treatments also reduce circulating androgens, which may decrease acne and hirsutism. Other options include cyclic oral progestins (eg, medroxyprogesterone 5 to 10 mg orally once a day for 10 to 14 days every 1 to 2 months) or a levonorgestrel intrauterine device is also an option. Antiandrogenic progestins include drosperinone and dienogest. Estrogen-progestin contraceptives are often first-line, and result in regular menses, reduce acne and hirsutism, and provide contraception. These treatments also reduce circulating androgens, which may decrease acne and hirsutism. Other options include cyclic oral progestins (eg, medroxyprogesterone 5 to 10 mg orally once a day for 10 to 14 days every 1 to 2 months) or a levonorgestrel intrauterine device is also an option. Antiandrogenic progestins include drosperinone and dienogest.
+
+Lifestyle changes and pharmacologic approaches are used to manage insulin insensitivity . If obesity is present, weight loss and regular exercise are encouraged. These measures may help induce ovulation (which makes menstrual cycles more regular and many improve fertility), increase insulin sensitivity, and reduce acanthosis nigricans and hirsutism. Weight loss may also help improve fertility. Bariatric surgery may be an option for some women with PCOS ( 1 ). However, weight loss is unlikely to benefit women with PCOS who do not have obesity.
+
+Metformin 500 to 1000 mg twice a day may be used to help increase Metformin 500 to 1000 mg twice a day may be used to help increase insulin sensitivity in women with PCOS, if lifestyle modifications are ineffective or if they cannot take or cannot tolerate hormonal medications. Metformin can also reduce free sensitivity in women with PCOS, if lifestyle modifications are ineffective or if they cannot take or cannot tolerate hormonal medications. Metformin can also reduce free testosterone levels. When metformin is used, serum glucose should be measured, and kidney and liver function tests should be done periodically. Metformin helps correct metabolic and glycemic abnormalities and makes menstrual cycles more regular, but it has little or no beneficial effect on hirsutism, acne, or infertility. Because metformin may induce ovulation, contraception is needed if pregnancy is not desired. levels. When metformin is used, serum glucose should be measured, and kidney and liver function tests should be done periodically. Metformin helps correct metabolic and glycemic abnormalities and makes menstrual cycles more regular, but it has little or no beneficial effect on hirsutism, acne, or infertility. Because metformin may induce ovulation, contraception is needed if pregnancy is not desired.
+
+Insulin sensitizers (eg, glucagon -like peptide-1 receptor agonists or thiazolidinediones) combined with metformin are being studied ( -like peptide-1 receptor agonists or thiazolidinediones) combined with metformin are being studied ( 2 ). A study of PCOS patients with obesity (n = 27) treated with semaglutide for 6 months found that almost 80% had at least a 5% decrease in body weight, which was often associated with normalization of menstrual cycles ( ). A study of PCOS patients with obesity (n = 27) treated with semaglutide for 6 months found that almost 80% had at least a 5% decrease in body weight, which was often associated with normalization of menstrual cycles ( 3 ). Other studies are evaluating the role of microbiota treatments for PCOS ( 4 ).
+
+
+--- Management of hirsutism ---
+
+
+For hirsutism , physical measures (eg, bleaching, electrolysis, plucking, waxing, depilation) can be used ( 5 ). Eflornithine cream 13.9% twice a day may help remove unwanted facial hair. ). Eflornithine cream 13.9% twice a day may help remove unwanted facial hair.
+
+Weight reduction decreases androgen production in women with obesity and thus may slow hair growth.
+
+Estrogen-progestin contraceptives decrease androgen levels. Spironolactone (50 to 100 mg twice a day) is also effective, but because this medication may have teratogenic effects, effective contraception is needed. Cyproterone, an antiandrogen (not available in the United States), reduces the amount of unwanted body hair in 50 to 75% of affected women. Estrogen-progestin contraceptives decrease androgen levels. Spironolactone (50 to 100 mg twice a day) is also effective, but because this medication may have teratogenic effects, effective contraception is needed. Cyproterone, an antiandrogen (not available in the United States), reduces the amount of unwanted body hair in 50 to 75% of affected women.
+
+GnRH agonists and antagonists are being studied as treatment for unwanted body hair due to hyperandrogenism. Both types of medications inhibit the production of sex hormones by the ovaries. But both can cause bone loss and lead to osteoporosis.
+
+Acne can be treated with the usual medications (eg, benzoyl peroxide , tretinoin cream, topical and oral antibiotics). Systemic isotretinoin is used only for severe cases. can be treated with the usual medications (eg, benzoyl peroxide, tretinoin cream, topical and oral antibiotics). Systemic isotretinoin is used only for severe cases.
+
+
+--- Management of infertility ---
+
+
+Many patients with PCOS have infertility. Clomiphene is first-line therapy for infertility in patients with PCOS. The aromatase inhibitor letrozole can also be used to induce ovulation. Other fertility medications may also be used. They include follicle-stimulating hormone (FSH) to stimulate the ovaries, a gonadotropin-releasing hormone (GnRH) agonist to stimulate the release of FSH, and human chorionic gonadotropin (hCG) to trigger ovulation. Many patients with PCOS have infertility. Clomiphene is first-line therapy for infertility in patients with PCOS. The aromatase inhibitor letrozole can also be used to induce ovulation. Other fertility medications may also be used. They include follicle-stimulating hormone (FSH) to stimulate the ovaries, a gonadotropin-releasing hormone (GnRH) agonist to stimulate the release of FSH, and human chorionic gonadotropin (hCG) to trigger ovulation.
+
+If clomiphene and other medications are unsuccessful or if there are other indications for laparoscopy, laparoscopic ovarian drilling may be considered; however possible long-term complications of drilling (eg, adhesions, ovarian insufficiency) must be considered. Ovarian drilling involves using electrocautery or a laser to drill holes in small areas of the ovaries that produce androgens. Ovarian wedge resection is not recommended. If clomiphene and other medications are unsuccessful or if there are other indications for laparoscopy, laparoscopic ovarian drilling may be considered; however possible long-term complications of drilling (eg, adhesions, ovarian insufficiency) must be considered. Ovarian drilling involves using electrocautery or a laser to drill holes in small areas of the ovaries that produce androgens. Ovarian wedge resection is not recommended.
+
+Weight loss may also be helpful in women with PCOS-associated obesity. Obesity is associated with a higher risk of pregnancy complications (including gestational diabetes , preterm delivery , and preeclampsia ); preconception or early prenatal assessment of body mass index, blood pressure, and oral glucose tolerance is recommended.
+
+
+--- Management of comorbidities ---
+
+
+PCOS is associated with an increased risk of depression and anxiety, and women and adolescents with PCOS should be screened for these problems and referred to a mental health care professional and/or treated as needed.
+
+Patients with PCOS and overweight or obesity should be screened for symptoms of obstructive sleep apnea using polysomnography and treated as needed.
+
+Because PCOS can increase the risk of cardiovascular disorders, early screening, prevention, and/or referral to a cardiologist is necessary for women with PCOS and any of the following:
+
+  - Family history of early-onset cardiovascular disorders
+
+  - Cigarette smoking
+
+  - Obesity
+
+  - Diabetes mellitus
+
+  - Hypertension
+
+  - Dyslipidemia
+
+  - Sleep apnea
+
+Family history of early-onset cardiovascular disorders
+
+Weight reduction with glucagon -like peptide-1 (GLP-1) receptor agonists may improve insulin resistance and fertility ( 6 ).
+
+Women with abnormal uterine bleeding and chronic ovulatory dysfunction should be evaluated for endometrial hyperplasia or carcinoma.
+
+  - 1. Yue W, Huang X, Zhang W, et al . Metabolic surgery on patients with polycystic ovary syndrome: A systematic review and meta-analysis. Front Endocrinol (Lausanne) 13:848947, 2022. doi: 10.3389/fendo.2022.848947
+
+  - 2. Xing C, Li C, He B . Insulin Sensitizers for Improving the Endocrine and Metabolic Profile in Overweight Women With PCOS. . Insulin Sensitizers for Improving the Endocrine and Metabolic Profile in Overweight Women With PCOS. J Clin Endocrinol Metab . 2020;105(9):2950-2963. doi:10.1210/clinem/dgaa337
+
+  - 3. Carmina E, Longo RA . Semaglutide Treatment of Excessive Body Weight in Obese PCOS Patients Unresponsive to Lifestyle Programs. . Semaglutide Treatment of Excessive Body Weight in Obese PCOS Patients Unresponsive to Lifestyle Programs. J Clin Med . 2023;12(18):5921. Published 2023 Sep 12. doi:10.3390/jcm12185921
+
+  - 4. Batra M, Bhatnager R, Kumar A, et al . Interplay between PCOS and microbiome: The road less travelled. Am J Reprod Immunol . 2022;88(2):e13580. doi:10.1111/aji.13580
+
+  - 5. Martin KA, Chang RJ, Ehrmann,DA, et al . Evaluation and treatment of hirsutism in premenopausal women: an endocrine society clinical practice guideline [published correction appears in J Clin Endocrinol Metab . 2021 Jun 16;106(7):e2845. doi: 10.1210/clinem/dgab308.]. J Clin Endocrinol Metab . 2008;93(4):1105-1120. doi:10.1210/jc.2007-2437
+
+  - 6. Cena H, Chiovato L, Nappi RE . Obesity, Polycystic Ovary Syndrome, and Infertility: A New Avenue for GLP-1 Receptor Agonists. J Clin Endocrinol Metab . 2020;105(8):e2695-e2709. doi:10.1210/clinem/dgaa285
+
+1. Yue W, Huang X, Zhang W, et al . Metabolic surgery on patients with polycystic ovary syndrome: A systematic review and meta-analysis. Front Endocrinol (Lausanne) 13:848947, 2022. doi: 10.3389/fendo.2022.848947
+
+2. Xing C, Li C, He B . Insulin Sensitizers for Improving the Endocrine and Metabolic Profile in Overweight Women With PCOS. . Insulin Sensitizers for Improving the Endocrine and Metabolic Profile in Overweight Women With PCOS. J Clin Endocrinol Metab . 2020;105(9):2950-2963. doi:10.1210/clinem/dgaa337
+
+3. Carmina E, Longo RA . Semaglutide Treatment of Excessive Body Weight in Obese PCOS Patients Unresponsive to Lifestyle Programs. . Semaglutide Treatment of Excessive Body Weight in Obese PCOS Patients Unresponsive to Lifestyle Programs. J Clin Med . 2023;12(18):5921. Published 2023 Sep 12. doi:10.3390/jcm12185921
+
+4. Batra M, Bhatnager R, Kumar A, et al . Interplay between PCOS and microbiome: The road less travelled. Am J Reprod Immunol . 2022;88(2):e13580. doi:10.1111/aji.13580
+
+5. Martin KA, Chang RJ, Ehrmann,DA, et al . Evaluation and treatment of hirsutism in premenopausal women: an endocrine society clinical practice guideline [published correction appears in J Clin Endocrinol Metab . 2021 Jun 16;106(7):e2845. doi: 10.1210/clinem/dgab308.]. J Clin Endocrinol Metab . 2008;93(4):1105-1120. doi:10.1210/jc.2007-2437
+
+6. Cena H, Chiovato L, Nappi RE . Obesity, Polycystic Ovary Syndrome, and Infertility: A New Avenue for GLP-1 Receptor Agonists. J Clin Endocrinol Metab . 2020;105(8):e2695-e2709. doi:10.1210/clinem/dgaa285

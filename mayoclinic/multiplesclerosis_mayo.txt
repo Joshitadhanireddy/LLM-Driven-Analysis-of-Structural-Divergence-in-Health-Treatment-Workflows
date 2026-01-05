@@ -1,0 +1,117 @@
+--- Multiple Sclerosis Treatment Plan (Extracted from Mayo Clinic) ---
+
+There is no cure for multiple sclerosis. Treatment typically focuses on speeding recovery from attacks, reducing relapses, slowing the progression of the disease and managing MS symptoms. Some people have such mild symptoms that no treatment is necessary.
+
+
+## Treatments for MS attacks
+
+
+During an MS attack, you may be treated with:
+
+
+Corticosteroids.
+These medicines reduce nerve inflammation. For MS, the corticosteroids used are oral prednisone and intravenous methylprednisolone. Side effects may include insomnia, increased blood pressure, increased blood glucose levels, mood swings and fluid retention.
+Plasma exchange.
+This treatment involves removing the liquid part of your blood, called plasma, and separating it from your blood cells. The blood cells are then mixed with a protein solution called albumin and put back into your body. Plasma exchange may be used if your symptoms are new, severe and haven't responded to steroids. Plasma exchange also is known as plasmapheresis.
+
+
+
+## Treatments to modify progression
+
+
+There are several disease-modifying therapies (DMTs) for relapsing-remitting MS. Some of these DMTs can be of benefit for secondary-progressive MS. One is available for primary-progressive MS.
+
+Much of the immune response linked to MS happens in the early stages of the disease. Aggressive treatment with these medicines as early as possible can lower the relapse rate and slow the formation of new lesions. These therapies may reduce the risk of lesions and worsening disability.
+
+Many of the disease-modifying therapies used to treat MS carry serious health risks. Selecting the right therapy for you depends on many factors. Factors include how long you've had the disease and your symptoms. Your healthcare team also looks at whether previous MS treatments have worked and your other health issues. Cost and whether you plan on having children in the future also are factors when deciding on treatment.
+
+Treatment options for relapsing-remitting MS include injectable, oral and infusions medicines.
+
+Injectable treatments include:
+
+
+Interferon beta medicines.
+These medicines work by interfering with diseases that attack the body. They may decrease inflammation and increase nerve growth. Interferon beta medicines are injected under the skin or into muscle. They can reduce the number of relapses and make them less severe.
+Side effects of interferons may include flu-like symptoms and injection-site reactions. You'll need blood tests to monitor your liver enzymes because liver damage is a possible side effect of interferon use. People taking interferons may develop antibodies that can reduce how well the medicine works.
+Glatiramer acetate (Copaxone, Glatopa).
+This medicine may help block your immune system's attack on myelin. Glatiramer acetate is injected beneath the skin. Side effects may include skin irritation at the injection site and swelling.
+Ofatumumab (Kesimpta, Arzerra).
+This medicine targets cells that damage the nervous system. These cells are called B cells. Ofatumumab is given by an injection under the skin. It can decrease the risk of new lesions and new or worsening symptoms. Possible side effects are infections, local reactions to the injection site and headaches.
+
+
+Oral treatments include:
+
+
+Teriflunomide (Aubagio).
+This once-daily oral medicine can reduce relapses. Teriflunomide can cause liver damage, hair loss and other side effects. This medicine is linked to birth defects when taken by both men and women. Use birth control when taking this medicine and for up to two years afterward. Couples who wish to become pregnant can talk to their healthcare professional about ways to remove the medicine from the body faster. Teriflunomide requires blood testing on a regular basis.
+Dimethyl fumarate (Tecfidera).
+This twice-daily oral medicine can reduce relapses. Side effects may include flushing, diarrhea, nausea and lowered white blood cell count. Dimethyl fumarate requires blood testing on a regular basis.
+Diroximel fumarate (Vumerity).
+This twice-daily capsule is similar to dimethyl fumarate but typically causes fewer side effects. It's approved for the treatment of relapsing forms of MS.
+Monomethyl fumarate (Bafiertam)
+was approved by the U.S. Food and Drug Administration, also called the FDA, as a delayed release medicine that has a slow and steady action. The time release of the medication may help to decrease side effects. Possible side effects are flushing, liver damage, abdominal pain and infections.
+Fingolimod (Gilenya).
+This once-daily oral medicine reduces relapse rate. Your heart rate and blood pressure are monitored for six hours after the first dose because your heart rate may be slowed. Fingolimod is harmful to a developing baby. Use birth control when taking this medicine and for at least three days after stopping the medicine. Other side effects include infections that may be rare but serious, headaches, high blood pressure and blurred vision.
+Siponimod (Mayzent).
+This once-daily oral medicine can reduce relapse rates and help slow progression of MS. It's also approved for secondary-progressive MS. Possible side effects include viral infections, liver damage and low white blood cell count. Other possible side effects include changes in heart rate, headaches and trouble with vision. Siponimod is harmful to a developing baby. Use birth control when taking this medicine and for at least three days after stopping the medicine. Some people need to have their heart rate and blood pressure monitored for six hours after the first dose. This medicine requires blood testing on a regular basis.
+Ozanimod (Zeposia).
+This once-daily oral medicine decreases the relapse rate of MS. Possible side effects are elevated blood pressure, infections and liver inflammation. Ozanimod is harmful to a developing baby. Use birth control when taking this medicine and for at least three days after stopping the medicine.
+Ponesimod (Ponvory).
+This oral medicine is taken once a day with a gradually increasing dosing schedule. The possible side effects are respiratory tract infections, high blood pressure, liver irritation, and changes in heart rate and rhythm. Ponesimod is harmful to a developing baby. Use birth control when taking this medicine and for at least three days after stopping the medicine.
+Cladribine (Mavenclad).
+This medicine is generally prescribed as a second-line treatment for those with relapsing-remitting MS. It's also approved for secondary-progressive MS. It is given in two treatment courses, spread over a two-week period, over the course of two years. Side effects include upper respiratory infections, headaches, tumors, serious infections and reduced levels of white blood cells. People who have active long-lasting infections or cancer should not take this medicine. People who are pregnant or breastfeeding also should not take this medicine. Use birth control when taking cladribine and for the following six months. You may need blood tests on a regular basis while taking cladribine.
+
+
+Infusion treatments include:
+
+
+Natalizumab (Tysabri).
+This is a monoclonal antibody that has been shown to decrease relapse rates and slow down the risk of disability.
+Natalizumab is designed to block the movement of potentially damaging immune cells from your bloodstream to your brain and spinal cord. It may be considered a first-line treatment for some people with relapsing-remitting MS or as a second-line treatment in others.
+This medicine increases the risk of a potentially serious viral infection of the brain called progressive multifocal leukoencephalopathy (PML). Risk increases in people who are positive for antibodies that cause the PML JC virus. People who don't have the antibodies have extremely low risk of PML.
+Ocrelizumab (Ocrevus).
+This medicine is approved by the FDA to treat both the relapsing-remitting and primary-progressive forms of MS. This treatment reduces the relapse rate and the risk of disabling progression in relapsing-remitting multiple sclerosis. It also slows the progression of the primary-progressive form of multiple sclerosis.
+Clinical trials showed that it reduced the relapse rate in relapsing disease and slowed worsening of disability in both forms of the disease.
+Ocrelizumab is given via an IV infusion by a medical professional. Side effects may include irritation at the injection site, low blood pressure, a fever and nausea, among others. Some people may not be able to take ocrelizumab, including those with a hepatitis B infection. Ocrelizumab also may increase the risk of infections and some types of cancer, particularly breast cancer.
+Ublituximab (Briumvi).
+This treatment is a monoclonal antibody used to treat relapsing forms of MS. Ublituximab is given via an IV infusion while being monitored. Ublituximab may be used for people who can't take ocrelizumab. Side effects include infusion reactions, increased risk of infections and higher risk of fetal harm.
+Alemtuzumab (Campath, Lemtrada).
+This treatment is a monoclonal antibody that decreases annual relapse rates and demonstrates MRI benefits.
+This medicine helps reduce relapses of MS by targeting a protein on the surface of immune cells and depleting white blood cells. This effect can limit nerve damage caused by the white blood cells. But it also increases the risk of infections and autoimmune conditions, including a high risk of thyroid autoimmune diseases and rare immune-mediated kidney disease.
+Treatment with alemtuzumab involves five consecutive days of infusions followed by another three days of infusions a year later. Infusion reactions are common with alemtuzumab.
+Alemtuzumab is only available from registered healthcare professionals. People treated with the medicine must be registered in a special medicine safety monitoring program. Alemtuzumab is usually recommended for those with aggressive MS or as second-line treatment if other MS medicines didn't work.
+
+
+
+## Treatments for MS symptoms
+
+
+These treatments can help relieve some of the symptoms of MS.
+
+
+Therapy.
+A physical or occupational therapist can teach you stretching and strengthening exercises. The therapist also can show you how to use devices to make it easier to perform daily tasks.
+Physical therapy and a mobility aid, when necessary, also can help manage leg weakness and help improve walking.
+Muscle relaxants.
+You may experience muscle stiffness or spasms, particularly in your legs. Muscle relaxants such as baclofen (Lioresal, Gablofen), tizanidine (Zanaflex) and cyclobenzaprine (Amrix, Fexmid) may help. Onabotulinumtoxin A (Botox) treatment is another option for muscle contractions.
+Medicines to reduce fatigue.
+Amantadine (Gocovri), modafinil (Provigil) and methylphenidate (Ritalin, Concerta) have been used to reduce MS-related fatigue. However, a recent study did not find these medicines to be better than a placebo in improving MS-related fatigue and caused more side effects. Some medicines used to treat depression, including fluoxetine (Prozac) and bupropion (Wellbutrin), may be recommended.
+Medicine to increase walking speed.
+Dalfampridine (Ampyra) may help to slightly increase walking speed in some people. Possible side effects are urinary tract infections, vertigo, insomnia and headaches. People with a history of seizures or kidney dysfunction should not take this medicine.
+Other medicines.
+Medicines also may be prescribed for depression, pain, sexual dysfunction, insomnia, and bladder or bowel control troubles that are linked to MS.
+
+
+
+## Recent developments or emerging therapies
+
+
+Bruton's tyrosine kinase (BTK) inhibitor is a therapy being studied in relapsing-remitting multiple sclerosis and secondary-progressive multiple sclerosis. It works by altering the function of B cells, which are immune cells in the central nervous system.
+
+Another therapy being studied in people with MS is stem cell transplantation. This treatment destroys the immune system of someone with MS and then replaces it with transplanted healthy stem cells. Researchers are still investigating whether this therapy can decrease inflammation in people with MS and help to "reset" the immune system. Possible side effects are fever and infections.
+
+A type of protein called CD40L found in T cells has been shown to play a role in MS. Recent studies have shown that blocking this protein can help manage MS.
+
+A new medicine called a phosphodiesterase inhibitor also is being studied. This medicine works to reduce inflammation by changing damaging immune system responses seen in MS.
+
+Researchers also are learning more about how existing disease-modifying therapies work to lessen relapses and reduce multiple sclerosis-related lesions in the brain. Further studies are needed to determine whether treatment can delay disability caused by the disease.

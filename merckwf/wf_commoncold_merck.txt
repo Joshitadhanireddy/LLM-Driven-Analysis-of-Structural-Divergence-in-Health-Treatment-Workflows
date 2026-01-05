@@ -1,0 +1,26 @@
+COMMON COLD TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Overall approach
+   - Viral self-limited illness → treatment is symptomatic/supportive.
+   - Antibiotics are NOT indicated unless clear secondary bacterial infection.
+
+2. Symptom relief
+   - Fever/sore throat: antipyretics and analgesics (e.g., acetaminophen, NSAIDs if appropriate).
+   - Nasal obstruction: topical or oral decongestants.
+     * Topical nasal decongestants more effective but limit use to ≤3–5 days to avoid rebound congestion.
+
+3. Rhinorrhea management
+   - First-generation antihistamines (e.g., chlorpheniramine) OR intranasal ipratropium may reduce runny nose, but benefits are modest.
+   - Use caution in older adults and those with BPH or angle-closure glaucoma.
+   - Second-generation (non-sedating) antihistamines are NOT effective for common cold symptoms.
+
+4. Pediatric considerations
+   - Antihistamines and decongestants are NOT recommended for children <4 years.
+
+5. Supplements and alternative agents
+   - Zinc, echinacea, and vitamin C have not shown clear benefit overall.
+   - Zinc lozenges may slightly shorten cold duration but can cause bad taste and nausea.
+   - Avoid intranasal zinc due to risk of permanent anosmia.
+
+6. Follow-up
+   - Reassess if high fever, dyspnea, chest pain, or persistent/worsening symptoms suggest secondary bacterial infection or another diagnosis.

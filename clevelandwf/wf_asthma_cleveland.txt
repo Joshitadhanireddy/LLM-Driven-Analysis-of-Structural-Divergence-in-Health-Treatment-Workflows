@@ -1,0 +1,28 @@
+ASTHMA MANAGEMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Core strategy
+   - Avoid known triggers.
+   - Use controller medicines to keep airways open and reliever medicines for attacks.
+   - Create a written asthma action plan with your provider.
+
+2. Long-term control
+   - Daily maintenance inhalers:
+     * Inhaled corticosteroids, often combined with long-acting bronchodilators.
+   - Leukotriene modifiers as add-on pills for symptom reduction and attack prevention.
+   - Biologic therapies (monoclonal antibodies) for severe asthma not controlled on standard therapy.
+
+3. Quick-relief treatment
+   - Rescue inhaler with fast-acting bronchodilator (e.g., albuterol) for acute symptoms.
+   - Nebulizer delivery when inhaler technique is difficult or higher doses are required.
+   - Short course of oral steroids for significant flare-ups on provider’s advice.
+
+4. Allergy-focused management
+   - Oral antihistamines for allergic asthma.
+   - Allergen avoidance and immunotherapy when appropriate.
+
+5. Refractory severe asthma
+   - Bronchial thermoplasty: bronchoscopic procedure using heat to thin airway smooth muscle layer in selected adults.
+
+6. Asthma action plan & emergencies
+   - Plan specifies daily medicines, how to step up during worsening symptoms and when to seek urgent/emergency care.
+   - In a severe attack with signs such as persistent coughing, severe wheezing, chest pain, difficulty talking or bluish lips/fingernails → use rescue inhaler and call emergency services.

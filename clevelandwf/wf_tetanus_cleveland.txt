@@ -1,0 +1,26 @@
+TETANUS TREATMENT WORKFLOW (from Cleveland Clinic-based plan)
+
+1. Immediate management (start on clinical suspicion)
+   - Do not wait for confirmatory tests.
+   - Admit for close monitoring, often in an intensive care setting.
+
+2. Wound care
+   - Clean and debride the wound thoroughly.
+   - Remove devitalized tissue to reduce bacterial load and toxin production.
+
+3. Medications
+   - Tetanus antitoxin to neutralize circulating toxin and prevent further effect.
+   - Antibiotics, typically metronidazole, to eradicate remaining Clostridium tetani.
+   - Muscle relaxants, benzodiazepines and other agents to control spasms and autonomic symptoms.
+
+4. Environmental control and rest
+   - Place patient in dim, quiet room.
+   - Avoid stimuli (light, sound, touch) that can trigger spasms.
+
+5. Airway and respiratory support
+   - Monitor airway closely.
+   - Intubation and mechanical ventilation if breathing is compromised or to protect airway during severe spasms.
+
+6. Recovery
+   - Explain that illness may take weeks to run its course and months for full recovery.
+   - Plan rehabilitation after acute phase to restore strength and function.

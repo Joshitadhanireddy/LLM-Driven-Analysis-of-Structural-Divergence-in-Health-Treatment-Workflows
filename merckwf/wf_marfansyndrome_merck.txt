@@ -1,0 +1,38 @@
+MARFAN SYNDROME MANAGEMENT WORKFLOW (from Merck-based plan)
+
+1. Global goals
+   - Prevent aortic dissection/rupture.
+   - Monitor and treat eye, skeletal, and other systemic complications.
+   - Provide genetic counseling and pregnancy planning.
+
+2. Lifelong surveillance
+   - At least yearly review of cardiovascular, musculoskeletal, and ocular status.
+   - Serial echocardiography (and other imaging as needed) to track aortic root size.
+
+3. Medical therapy
+   - Beta-blocker (atenolol, propranolol) and/or ARB (losartan, irbesartan) at maximally tolerated doses.
+     * Start in adults routinely.
+     * In children: start when aortic root Z-score ≥2 or absolute root ≥3.5 cm (depending on age).
+   - Aim to slow aortic root dilation and lower dissection risk.
+
+4. Elective aortic and valve surgery
+   - Offer prophylactic aortic root replacement when diameter >5.0 cm (or >4.5 cm with high-risk features).
+   - Repair or replace leaking aortic/mitral valves as needed.
+   - Consider personalized external aortic root support (PEARS) in selected patients.
+
+5. Skeletal and ocular management
+   - Scoliosis: bracing as long as possible; spinal surgery if curvature reaches ~40–50°.
+   - Eye disease (lens dislocation, retinal detachment, glaucoma):
+     * Correct with glasses/contacts, lensectomy + IOL, or other ocular surgeries as indicated.
+
+6. Physical activity guidance
+   - Encourage low-to-moderate, non-contact exercise.
+   - Avoid high-intensity, collision sports and heavy isometric activities (e.g., powerlifting), especially with aortic dilation.
+
+7. Pregnancy counseling
+   - Discuss pregnancy risks in all patients with Marfan + aortopathy.
+   - Consider pre-pregnancy aortic root repair for enlarged roots.
+   - Delivery plan based on aortic diameter:
+     * <4.0 cm: vaginal delivery usually acceptable.
+     * 4.0–4.5 cm: individualized plan (assisted vaginal vs cesarean).
+     * >4.5 cm: cesarean delivery recommended.

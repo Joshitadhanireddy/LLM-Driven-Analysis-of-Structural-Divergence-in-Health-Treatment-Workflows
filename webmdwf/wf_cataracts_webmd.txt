@@ -1,0 +1,40 @@
+CATARACTS TREATMENT WORKFLOW (from WebMD-based plan)
+
+1. Indication for surgery
+   - Cataracts causing blurred, dim, or faded vision; glare, halos, or night driving difficulty.
+   - Visual symptoms interfering with daily tasks, work, or driving tests.
+   - Sometimes needed to allow evaluation/treatment of other eye diseases or relieve crowding/pressure.
+
+2. Pre‑operative preparation
+   - Comprehensive eye exam and biometry to select intraocular lens (IOL) power and type.
+   - Discuss IOL options: monofocal, multifocal, EDOF, accommodative, toric, light‑adjustable.
+   - Review medications; stop or adjust some before surgery.
+   - Stop contact lenses in advance per type.
+   - Fasting instructions and arrange transport home.
+
+3. Surgical procedure (outpatient)
+   - Local anesthesia via numbing eye drops ± sedative; patient awake but sees only light/motion.
+   - Lens removal methods:
+       * Phacoemulsification (small incision, ultrasound to break up lens, suction removal).
+       * Extracapsular extraction (larger incision; used for very hard cataracts).
+   - Implant chosen IOL into remaining capsule.
+   - No sutures usually required; wounds self‑seal.
+
+4. Post‑operative care
+   - Short observation then discharge with:
+       * Eye shield or special glasses.
+       * Prescribed eye drops (antibiotic/anti‑inflammatory).
+   - Activity restrictions: avoid rubbing eye, heavy lifting, bending, swimming, eye makeup until cleared.
+   - Wear sunglasses outdoors; follow eye‑shield instructions at night.
+   - Vision initially blurry; often improves over days to weeks.
+
+5. Follow‑up & recovery
+   - Scheduled visits within days, at 1–2 weeks, and ~1 month.
+   - Full recovery typically 4–8 weeks.
+   - New glasses prescription usually given 1–3 months post‑op.
+
+6. Complications & late issues
+   - Watch for: pain, vision loss, increased redness, eyelid swelling, flashes/floaters, discharge.
+   - Posterior capsule opacification (PCO):
+       * Clouding of capsule holding IOL; may occur months/years later.
+       * Treat with outpatient YAG laser capsulotomy to restore clarity.

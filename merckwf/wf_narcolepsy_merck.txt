@@ -1,0 +1,38 @@
+NARCOLEPSY TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Non-drug foundation
+   - Ensure adequate nocturnal sleep.
+   - Schedule brief daytime naps (<30 minutes), ideally at consistent times.
+   - Avoid triggers of cataplexy (e.g., intense laughter, anger, fear) when possible.
+
+2. Type 1 narcolepsy (with cataplexy)
+   - First-line for cataplexy: oxybates or pitolisant.
+   - If excessive daytime sleepiness (EDS) persists:
+     * Add modafinil (or armodafinil) as a wake-promoting agent.
+
+3. Type 2 narcolepsy (without cataplexy)
+   - First-line for EDS: modafinil.
+   - Second-line: solriamfetol if EDS not controlled.
+   - Pitolisant can also be used for EDS.
+
+4. Wake-promoting agents
+   - Modafinil / armodafinil:
+     * Morning dosing (± small midday dose for modafinil).
+     * Monitor for headache, nausea, rare severe rash; avoid in pregnancy.
+   - Solriamfetol:
+     * Norepinephrine–dopamine reuptake inhibitor; adjust dose for renal impairment.
+   - Pitolisant:
+     * Histamine-3 inverse agonist; adjust for renal/hepatic disease; monitor QT interval.
+
+5. Oxybates
+   - Night-time medication (one or two doses per night depending on formulation).
+   - Improves both cataplexy and EDS.
+   - Monitor for adverse effects (nausea, dizziness, enuresis, sleepwalking) and abuse potential.
+
+6. Other agents
+   - Consider SSRIs or tricyclic antidepressants only if pitolisant/oxybates are ineffective for cataplexy and REM phenomena.
+   - Traditional stimulants (methylphenidate, amphetamines) are later-line options after modafinil, armodafinil, solriamfetol, and pitolisant, with careful cardiovascular screening in older patients.
+
+7. Safety and follow-up
+   - Counsel on driving, workplace safety, and contraception interactions with some drugs.
+   - Regularly reassess symptom control, side effects, and comorbid sleep or mood disorders.

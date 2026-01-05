@@ -1,0 +1,18 @@
+--- Progeria Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Progeria
+
+--- Treatment ---
+
+
+In November 2020, the U.S.Food and Drug Administrationapprovedlonafarnib, which helps prevent buildup of defective progerin and similar proteins.A clinical trial in 2018 points to significantly lower mortality rates – treatment with lonafarnib alone compared with no treatment (3.7% vs. 33.3%) – at a median post-trial follow-up time span of 2.2 years.The drug, givenorphan drugstatus and Pediatric Disease Priority Review Voucher, is taken twice daily in the form of capsules and may cost US$650,000 per year, making it prohibitive for the vast majority of families. It is unclear how it will be covered by health insurance in the United States. Common side effects of the drug include "nausea, vomiting, diarrhea, infections, decreased appetite, and fatigue".
+
+Other treatment options have focused on reducing complications (such ascardiovascular disease) withcoronary artery bypass surgeryand low-doseacetylsalicylic acid.Growth hormone treatmenthas been attempted.The use ofMorpholinoshas also been attempted in mice and cell cultures in order to reduce progerin production. Antisense Morpholino oligonucleotides specifically directed against the mutated exon 11–exon 12 junction in the mutated pre-mRNAs were used.
+
+A type of anticancer drug, thefarnesyltransferase inhibitors(FTIs), has been proposed, but their use has been mostly limited toanimal models.A Phase II clinical trial using the FTIlonafarnibbegan in May 2007.In studies on the cells another anti-cancer drug,rapamycin, caused removal of progerin from the nuclear membrane throughautophagy.It has been proved thatpravastatinandzoledronateare effective drugs when it comes to the blocking of farnesyl group production.[citation needed]
+
+Farnesyltransferase inhibitors (FTIs) are drugs that inhibit the activity of an enzyme needed to make a link betweenprogerinproteins and farnesyl groups. This link generates the permanent attachment of the progerin to the nuclear rim. In progeria, cellular damage can occur because that attachment occurs, and the nucleus is not in a normal state. Lonafarnib is an FTI, which means it can avoid this link, so progerin can not remain attached to the nucleus rim, and it now has a more normal state.[citation needed]
+
+Studies ofsirolimus, anmTOR Inhibitor, demonstrate that it can minimize the phenotypic effects of progeria fibroblasts. Other observed consequences of its use are abolishing nuclearblebbing, degradation of progerin in affected cells, and reducing insoluble progerin aggregates formation. These results have been observed onlyin vitroand are not the results of any clinical trial, although it is believed that the treatment might benefit HGPS patients.
+
+Recently, it has been demonstrated that theCRM1protein (a key component of thenuclear exportmachinery in mammalian) is upregulated in HGPS cells, which drives to the abnormal localization ofNEScontaining proteins from the nucleus to the cytoplasm.Moreover, the inhibition ofCRM1in HGPS alleviates the associated-senescence phenotypeas well as themitochondrialfunction (an important determinant insenescence) andlysosomecontent.These results are underin vivovalidation with selinexor (a more suitable CRM1 inhibitor for human use).

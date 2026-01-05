@@ -1,0 +1,29 @@
+AGE‑RELATED HEARING LOSS (PRESBYCUSIS) MANAGEMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Initial Evaluation
+   - Confirm sensorineural age‑related hearing loss.
+   - No curative or preventive pharmacologic therapy.
+   - Categorize severity: mild/moderate/severe/profound.
+
+2. Non‑Surgical Management
+   2.1 Hearing Aids
+       - First-line for most patients.
+       - Tune to individualized frequency-specific deficits.
+   2.2 Aural Rehabilitation
+       - Communication strategies.
+       - Face speaker directly, improve lighting, reduce background noise.
+       - Teach partners supportive speaking behaviors.
+
+3. Surgical Management
+   3.1 Cochlear Implant (for severe/profound cases)
+       - External processor + implanted electrode array.
+       - Electrodes stimulate cochlear nerve via tonotopic mapping.
+       - Improves speech/environmental sound recognition.
+   3.2 Middle Ear Implants
+       - Implanted device vibrates ossicles directly.
+       - Hidden cosmetic profile; for selected patients.
+
+4. Long‑Term Goals
+   - Improve communication, reduce disability.
+   - Maintain social interaction & safety.
+   - Annual reassessment of hearing function.

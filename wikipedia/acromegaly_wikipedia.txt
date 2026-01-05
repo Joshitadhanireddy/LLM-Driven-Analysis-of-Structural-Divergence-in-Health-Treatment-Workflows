@@ -1,0 +1,53 @@
+--- Acromegaly Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Acromegaly
+
+--- Treatment ---
+
+
+Treatment options includesurgeryto remove the tumor, medications, andradiation therapy. Surgery is usually the preferred treatment; the smaller the tumor, the more likely surgery will be curative. If surgery is contraindicated or not curative,somatostatin analoguesorGH receptor antagonistsmay be used. Radiation therapy may be used if neither surgery nor medications are completely effective.Without treatment, life expectancy is reduced by 10 years; with treatment, life expectancy is not reduced.
+
+
+--- Medications ---
+
+
+
+** Somatostatin analogues **
+
+
+The primary current medical treatment of acromegaly is to use somatostatin analogues –octreotide(Sandostatin) orlanreotide(Somatuline).
+These somatostatin analogues are synthetic forms of a brain hormone,somatostatin, which stops GH production. The long-acting forms of these drugs must be injected every 2 to 4 weeks for effective treatment. Most people with acromegaly respond to this medication. In many people with acromegaly, GH levels fall within one hour and headaches improve within minutes after the injection. Octreotide and lanreotide are effective for long-term treatment. Octreotide and lanreotide have also been used successfully to treat people with acromegaly caused by non-pituitary tumors.[citation needed]
+
+Somatostatin analogues are also sometimes used to shrink large tumors before surgery.
+
+Because octreotide inhibits gastrointestinal and pancreatic function, long-term use causes digestive problems such as loose stools, nausea, and gas in one-third of people. In addition, approximately 25 percent of people with acromegaly developgallstones, which are usually asymptomatic.In some cases, octreotide treatment can causediabetesbecausesomatostatinand its analogues can inhibit the release ofinsulin.[citation needed]With an aggressive adenoma that is not able to be operated on, there may be a resistance to octreotide in which case a second-generation SSA, pasireotide, may be used for tumor control. However, insulin and glucose levels should be carefully monitored as pasireotide has been associated with hyperglycemia by reducing insulin secretion.
+
+
+** Dopamine agonists **
+
+
+For those who are unresponsive to somatostatin analogues, or for whom they are otherwise contraindicated, it is possible to treat usingcabergoline. As tablets rather than injections, they cost considerably less. These drugs can also be used as an adjunct to somatostatin analogue therapy. They are most effective in those whose pituitary tumours also secreteprolactin. Side effects of these dopamine agonists include gastrointestinal upset, nausea, vomiting, light-headedness when standing, and nasal congestion. These side effects can be reduced or eliminated if medication is started at a very low dose at bedtime, taken with food, and gradually increased to the full therapeutic dose.[citation needed]
+
+
+** Growth hormone receptor antagonists **
+
+
+The latest development in the medical treatment of acromegaly is the use ofgrowth hormone receptorantagonists. The only available member of this family ispegvisomant(Somavert). By blocking the action of the endogenous growth hormone molecules, this compound is able to control the disease activity of acromegaly in virtually everyone with acromegaly. Pegvisomant has to be administered subcutaneously by daily injections. Combinations of long-acting somatostatin analogues and weekly injections of pegvisomant seem to be equally effective as daily injections of pegvisomant.[citation needed]
+
+Paltusotine(Palsonify) was approved for medical use in the United States in September 2025.
+
+
+--- Surgery ---
+
+
+Surgical removal of the pituitary tumor is usually effective in lowering growth hormone levels. Two surgical procedures are available for use. The first is endonasal transsphenoidal surgery, which involves the surgeon reaching the pituitary through an incision in thenasal cavitywall. The wall is reached by passing through thenostrilswithmicrosurgicalinstruments. The second method is transsphenoidal surgery during which an incision is made into the gum beneath the upper lip. Further incisions are made to cut through theseptumto reach the nasal cavity, where the pituitary is located. Endonasal transsphenoidal surgery is a less invasive procedure with a shorter recovery time than the older method of transsphenoidal surgery, and the likelihood of removing the entire tumor is greater with reduced side effects. Consequently, endonasal transsphenoidal surgery is the more common surgical choice.[citation needed]
+
+These procedures normally relieve the pressure on the surrounding brain regions and lead to a lowering of GH levels. Surgery is most successful in people with blood GH levels below 40 ng/ml before the operation and with pituitary tumors no larger than 10 mm in diameter. Success depends on the skill and experience of the surgeon. The success rate also depends on what level of GH is defined as a cure. The best measure of surgical success is the normalization of GH and IGF-1 levels. Ideally, GH should be less than 2 ng/ml after an oral glucose load. Complications of surgery may includecerebrospinal fluidleaks,meningitis, or damage to the surrounding normal pituitary tissue, requiring lifelong pituitaryhormone replacement.[citation needed]
+
+Even when surgery is successful and hormone levels return to normal, people must be carefully monitored for years for possible recurrence. More commonly, hormone levels may improve, but not return completely to normal. These people may then require additional treatment, usually with medications.[citation needed]
+
+
+--- Radiation therapy ---
+
+
+Radiation therapy is usually reserved for people who have tumours remaining after surgery. These people often also receive medication to lower GH levels. Radiation therapy is given in divided doses over four to six weeks. This treatment lowers GH levels by about 50 percent over 2 to 5 years. People monitored for more than 5 years show significant further improvement. Radiation therapy causes a gradual loss of production of other pituitary hormones with time. Loss of vision and brain injury, which have been reported, are very rare complications of radiation treatments.[citation needed]

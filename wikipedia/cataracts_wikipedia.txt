@@ -1,0 +1,27 @@
+--- Cataracts Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Cataract
+
+--- Treatment ---
+
+
+
+--- Surgical ---
+
+
+The appropriateness of surgery depends on a person's particular functional and visual needs and other risk factors.Cataract removal can be performed at any stage and no longer requires ripening of the lens.[clarification needed]Surgery is usuallyoutpatientand usually performed usinglocal anesthesia. About 9 of 10 patients can achieve a corrected vision of 20/40 or better after surgery.
+
+Several recent evaluations found that cataract surgery can meet expectations only when significant functional impairment due to cataracts exists before surgery. Visual function estimates such as VF-14 have been found to give more realistic estimates than visual acuity testing alone.In some developed countries, a trend to overuse cataract surgery has been noted, which may lead to disappointing results.
+
+Phacoemulsificationis the most widely used cataract surgery in the developed world.This procedure uses ultrasonic energy to emulsify the cataract lens. Phacoemulsification typically comprises six steps:
+
+  - Anaesthetic – The eye is numbed with either a subtenon injection around the eye (see:retrobulbar block) or topical anesthetic eye drops. The former also provides paralysis of the eye muscles.
+  - Corneal incision – Two cuts are made at the margin of the clear cornea to allow insertion of instruments into the eye.
+  - Capsulorhexis– A needle or small pair of forceps is used to create a circular hole in the capsule in which the lens sits.
+  - Phacoemulsification– A handheld ultrasonic probe is used to break up and emulsify the lens into liquid using the energy of ultrasound waves. The resulting 'emulsion' is sucked away.
+  - Irrigation and aspiration – The cortex, which is the soft outer layer of the cataract, is aspirated or sucked away. Fluid removed is continually replaced with a saline solution to prevent collapse of the structure of the anterior chamber (the front part of the eye).
+  - Lens insertion – A plastic, foldable lens is inserted into the capsular bag that formerly contained the natural lens. Some surgeons also inject an antibiotic into the eye to reduce the risk of infection. The final step is to inject salt water into the corneal wounds to cause the area to swell and seal the incision.
+
+ACochrane reviewfound little to no difference in visual acuity as a function of the size of incisions made for phacoemulsification in the range from ≤ 1.5 mm to 3.0 mm.Extracapsular cataract extraction (ECCE) consists of removing the lens manually, but leaving the majority of the capsule intact.The lens is expressed through a 10- to 12-mm incision which is closed withsuturesat the end of surgery. ECCE is less frequently performed than phacoemulsification, but can be useful when dealing with very hard cataracts or other situations where emulsification is problematic. Manual small incision cataract surgery (MSICS) has evolved from ECCE. In MSICS, the lens is removed through a self-sealing scleral tunnel wound in thesclerawhich, ideally, is watertight and does not require suturing. Although "small", the incision is still markedly larger than the portal in phacoemulsification. This surgery is increasingly popular in the developing world where access to phacoemulsification is still limited.[citation needed]
+
+Intracapsular cataract extraction (ICCE) is rarely performed.The lens and surrounding capsule are removed in one piece through a large incision while pressure is applied to thevitreous membrane.[clarification needed]The surgery has a high rate of complications.[clarification needed][citation needed]

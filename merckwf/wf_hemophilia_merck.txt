@@ -1,0 +1,41 @@
+HEMOPHILIA TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Immediate management of suspected bleed
+   - If bleeding is suspected (e.g., headache, joint pain, trauma), treat first, investigate later.
+   - Give factor replacement without waiting for imaging or labs when serious bleeding is possible.
+
+2. Factor replacement (core therapy)
+   - Hemophilia A: factor VIII concentrate (recombinant preferred; plasma-derived only if needed).
+     * Target trough levels:
+       - ~50%: minor procedures (e.g., dental extraction) or early joint bleed.
+       - 50–80%: severe joint/muscle bleeding and post-op days after major surgery.
+       - 100%: life-threatening bleeds (intracranial, cardiac, ocular) and before major surgery.
+   - Hemophilia B: factor IX concentrate (recombinant or viral-inactivated).
+     * Same target levels as hemophilia A, but higher doses (factor IX has wider distribution).
+   - Use extended–half-life products when appropriate to reduce dosing frequency.
+
+3. Adjunct and alternative hemostatic therapies
+   - Non-factor prophylaxis for hemophilia A and/or B (with or without inhibitors):
+     * Emicizumab (bispecific antibody mimicking factor VIII activity).
+     * Fitusiran, concizumab, marstacimab (target natural anticoagulant pathways).
+   - Antifibrinolytics (aminocaproic acid, tranexamic acid):
+     * Use as adjunct for mucosal procedures (e.g., dental extraction, tongue lacerations).
+
+4. DDAVP (desmopressin) for mild hemophilia A
+   - Test response beforehand.
+   - Use for minor trauma or dental work in responsive patients (baseline FVIII ≥5%).
+   - Avoid in hemophilia B.
+
+5. Backup products (only if factor concentrates unavailable)
+   - Cryoprecipitate for factor VIII.
+   - Fresh frozen plasma for factor VIII/IX.
+   - Reserve for emergencies because they are not reliably virally inactivated.
+
+6. Long-term prophylaxis and gene therapy
+   - Regular factor or non-factor prophylaxis to prevent spontaneous bleeds and protect joints.
+   - Consider AAV-based gene therapy where available to provide sustained factor VIII/IX expression.
+
+7. Monitoring and follow-up
+   - Track factor trough levels during major bleeds/surgery with planned dose adjustments.
+   - Screen for inhibitors to factor VIII/IX.
+   - Educate patients on early recognition of bleeds and home treatment protocols.

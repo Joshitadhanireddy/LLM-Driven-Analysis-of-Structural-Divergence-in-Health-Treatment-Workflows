@@ -1,0 +1,86 @@
+--- Atopic Dermatitis Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Atopic_dermatitis
+
+--- Treatments ---
+
+
+No cure for AD is known, although treatments may reduce the severity and frequency of flares.The most commonly used topical treatments for AD are topical corticosteroids (to get control of flare-ups) andmoisturisers(emollients) to help keep control.Clinical trials often measure the efficacy of treatments with a severity scale such as theSCORADindex or theEczema Area and Severity Index.
+
+
+--- Moisturisers ---
+
+
+Daily basic care stabilizes the barrier function of the skin to mitigate its sensitivity to irritation and penetration of allergens. Affected persons often report that improvement in skin hydration parallels improvement in AD symptoms.Moisturisers(or emollients) can improve skin comfort and may reduce disease flares.They can be used as leave-on treatments, bath additives, orsoap substitutes. There are many different products, but the majority of leave-on treatments (least to most greasy) arelotions,creams,gelsorointments. All of the different types of moisturisers are equally effective, so people need to choose one or more products based on what suits them, according to their age, body site affected, climate/season, and personal preference.Non-medicated prescription moisturisers may also be no more effective thanover-the-countermoisturisers.
+
+The use of emollient bath additives does not provide any additional benefits.
+
+
+--- Medication ---
+
+
+
+** Topical **
+
+
+Creams and ointments containingcorticosteroidsapplied directly on skin (topical) are effective in managing atopic dermatitis.Newer (second generation) corticosteroids, such asfluticasone propionateandmometasone furoate, are more effective and safer than older ones. Strong and moderate corticosteroids are more effective than weaker ones. They are also generally safe and do not causeskin thinningwhen used intermittently to treat AD flare-ups. They are also safe when used twice a week for preventing flares (also known as weekend treatment).Applying once daily is as effective as twice or more daily application.
+
+In addition to topical corticosteroids, topicalcalcineurin inhibitors, such astacrolimusorpimecrolimus, are also recommended as first-line therapies for managing atopic dermatitis.Both tacrolimus and pimecrolimus are effective and safe to use in AD.Crisaborole, an inhibitor ofPDE-4, is also effective and safe as a topical treatment for mild-to-moderate AD.Ruxolitinib, aJanus kinase inhibitor, has uncertain efficacy and safety.
+
+
+** Systemic **
+
+
+When topical (on skin) treatments fail to control severe AD flares, medications taken by mouth (systemic treatment) can be used.
+
+Conventional oral medications for AD include systemicimmunosuppressants, such asciclosporin,methotrexate,azathioprine, andmycophenolate.Antidepressantsandantihistaminemay be used to control pruritus (itchiness).
+
+Newer medications, such asmonoclonal antibodiesandJAK inhibitors, are highly effective for managing atopic dermatitis, but modestly increase the risk ofconjunctivitis. These includedupilumab(Dupixent),tralokinumab(Adtralza, Adbry),abrocitinib(Cibinqo),baricitinib(Olumiant) andupadacitinib(Rinvoq).Among monoclonal antibodies,dupilumabandtralokinumabare approved to treat moderate-to-severe eczema in the US and the EU.Lebrikizumabis also approved in the EU for treating moderate-to-severe ADbut in the US its approval was declined due to manufacturing issues.Abrocitinibandupadacitinibhave also been approved in the US for the treatment of moderate-to-severe eczema.Nemolizumab(Nemluvio) was approved to treat atopic dermatitis in December 2024.
+
+Allergen immunotherapymay be effective in relieving symptoms of AD, but it also comes with an increased risk ofadverse events.This treatment consists of a series of injections or drops under the tongue of a solution containing the allergen.
+
+The skin of people with AD can easily get infected, most commonly by the bacteriaStaphylococcus aureus. Signs of this include oozing fluid, a yellow crust on the skin, worsening eczema symptoms, and fever. Antibiotics are commonly used to target overgrowth ofS. aureus, but their benefit is limited, and they increase the risk ofantimicrobial resistance. For these reasons, they are only recommended for people who not only present symptoms on the skin but also feel systemically unwell.
+
+
+--- Diet ---
+
+
+The role ofvitamin Don atopic dermatitis is not clear, but vitamin D supplementation may improve its symptoms.
+
+There is no clear benefit for pregnant mothers takingomega 3 long-chain polyunsaturated fatty acid(LCPUFA) in preventing the development of AD in their child.
+
+Severalprobioticsseem to have a positive effect, with a roughly 20% reduction in the rate of AD.Probiotics containing multiplestrainsof bacteria seem to work the best.
+
+In people withceliac diseaseornonceliac gluten sensitivity, a gluten-free diet improves their symptoms and prevents the occurrence of new outbreaks.
+
+Use of blood-specificIgEorskin prick teststo guide dietary exclusions to improve disease severity or control is controversial. Clinicians vary in their use of these tests for this purpose, and there is very limited evidence of any benefit.
+
+
+--- Lifestyle ---
+
+
+Health professionals often recommend that people with AD bathe regularly in lukewarm baths, especially in saltwater, to moisten their skin.Dilutebleach bathsmay be helpful for people with moderate and severe eczema, but only for people with Staphylococcus aureus.
+
+Avoiding large-diameterwoolenclothing or scratchy fibres is usually recommended for people with AD as they can trigger a flare.Safe alternatives are clothes made from fabrics with smaller diameters and smooth fibers. These include super- and ultrafinemerino wooland fabrics with anti-microbial textile finishes. Wearingsilkis also safe but does not improve symptoms of AD.
+
+
+--- Self-management ---
+
+
+Living with AD requires a high level of self-management (for example, avoiding triggers) andadherenceto treatments (regularly applying medication). Good self-management contributes to better disease outcomes and quality of life.However, worries about topical treatments, misconceptions about the condition, unclear information, and unsuitable communication from doctors can make living with AD more difficult.
+
+People with AD often do not regard eczema as a long-term condition and hope they will outgrow or cure it. This can cause worse adherence to the necessary long-term treatment. Doctors should not imply that it is a short-term condition and should emphasise that even though it cannot be cured, it can be controlled effectively.
+
+Appropriate communication from doctors can support self-management. Doctors need to address concerns about treatments and provide clear and consistent information about the condition.Treatment regimens can be confusing, and written action plans may support people in knowing which treatments to use where and when.A website supporting self-management has been shown to improve AD symptoms for parents, children, adolescents and young adults.
+
+
+--- Light ---
+
+
+Phototherapictreatment involves exposure to broad- or narrow-bandultraviolet(UV) light. UV radiation exposure has been found to have a localized immunomodulatory effect on affected tissues and may be used to decrease the severity and frequency of flares.Among the different types of phototherapies only narrowband (NB) ultraviolet B (UVB) exposure might help with the severity of AD and ease itching.However, UV radiation has also been implicated in various types of skin cancer, and thus UV treatment is not without risk.UV phototherapyis not indicated in young adults and children due to this risk ofskin cancerwith prolonged use or exposure.
+
+
+--- Alternative medicine ---
+
+
+While severalChinese herbal medicinesare intended for treating atopic eczema, there is no evidence showing that these treatments, taken by mouth or applied topically, reduce the severity of eczema in children or adults.Research into microbiome-based approaches to restoring the skin barrier has also been explored, including formulations developed by companies such asCodex Labs, which focus on supportingskin microbiotabalance in atopic dermatitis.

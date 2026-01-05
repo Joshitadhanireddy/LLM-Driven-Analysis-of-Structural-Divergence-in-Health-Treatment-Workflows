@@ -1,0 +1,40 @@
+GERD (GASTROESOPHAGEAL REFLUX DISEASE) TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Lifestyle & Nutrition Therapy
+   - Avoid triggers: chocolate, mint, alcohol, high‑fat foods
+   - Weight loss if overweight
+   - No meals within 2–3 hrs of bed; elevate head of bed
+   - Avoid tight clothing & smoking
+   - Increase fiber; reduce sugars
+   - Breathing exercises may help
+
+2. Medications
+   *PPIs (e.g., omeprazole)*
+     - Most effective
+     - Take 30–60 minutes before meals
+     - Use lowest effective long‑term dose
+   *H2 Blockers*
+     - ~40% improvement
+   *Antacids + alginic acid*
+     - ~60% improvement
+   *Other*
+     - Sucralfate: effective but frequent dosing
+     - Baclofen: effective but many side effects
+     - Avoid metoclopramide
+
+3. Surgical Options
+   - Nissen fundoplication (standard for refractory GERD)
+   - LINX magnetic sphincter (fewer bloat-related complications)
+   - TIF (endoscopic): lasts up to 6 years
+   - Esophagogastric dissociation: for neurologically impaired children
+
+4. Pregnancy Management
+   - Lifestyle modifications first
+   - Calcium‑based antacids preferred
+   - Sucralfate, cimetidine, PPIs considered safe
+
+5. Infant Management
+   - Smaller, frequent feeds; upright positioning
+   - Avoid leg‑lift diaper changes → use log‑roll technique
+   - PPIs/H2 blockers not effective in infants
+

@@ -1,0 +1,91 @@
+--- Acromegaly Treatment Plan (Extracted from Mayo Clinic) ---
+
+Acromegaly is not always curable, but treatment can often control the disease. The goal of treatment is to improve symptoms, prevent complications, and bring growth hormone (GH) and insulin-like growth factor 1 (IGF-1) levels back to healthy levels. Keeping these hormone levels under control can improve quality of life and lower long-term health risks.
+
+Treatment options for acromegaly include:
+
+
+Pituitary tumor surgery to remove the tumor causing the symptoms. This is often the first treatment when acromegaly is due to a pituitary tumor.
+Medicines that lower GH or block its effects. These may be used if surgery doesn't bring hormone levels within the healthy range.
+Radiation therapy
+to target the tumor and reduce hormone production. This may be recommended if surgery isn't possible, if it can't remove the whole tumor or if medicines don't help enough.
+
+
+Some people need a mix of these treatments. Your treatment plan depends on factors such as tumor size and location, the severity of symptoms, and your age and overall health.
+
+Treatment can improve some physical features, such as swelling of soft tissues or changes in skin. However, bone enlargement usually cannot be reversed.
+
+If you also have other health conditions related to acromegaly, such as
+diabetes
+,
+sleep apnea
+or
+heart disease
+, you may need additional treatments to manage them.
+
+
+## Pituitary tumor surgery or other procedures
+
+
+The main surgical treatment for acromegaly is
+transsphenoidal surgery
+. In this procedure, a neurosurgeon removes the pituitary tumor through the nose and a hollow space behind the nasal passages, called the sphenoid sinus. This approach avoids opening the skull and is the most common way surgeons treat acromegaly. If the tumor causing symptoms isn't located on the pituitary gland, the surgeon may recommend another type of surgery to remove the tumor.
+
+Pituitary surgery for acromegaly often returns growth hormone to the right level, especially if the tumor is small. If the tumor was putting pressure on the tissues around the pituitary gland, removing the tumor also can help relieve headaches and vision changes.
+
+Sometimes surgeons can't remove the whole tumor, especially if it has grown close to important nerves or blood vessels. When this happens, growth hormone levels may still be too high after surgery. Additional treatment with another surgery, medicines or radiation therapy may be needed.
+
+
+## Medicines
+
+
+Medicines for acromegaly can help lower growth hormone (GH) and insulin-like growth factor 1 (IGF-1) levels. Some medicines may block the effects of these hormones. Your healthcare professional may recommend one or more of the following:
+
+
+Somatostatin analogues.
+Somatostatin is a natural brain hormone that limits GH production. The medicines octreotide (Mycapssa, Sandostatin) and lanreotide (Somatuline Depot) lower GH and IGF-1 levels and may shrink the tumor. Taking one of these medicines signals the pituitary gland to make less growth hormone. Mycapssa is a capsule taken by mouth twice a day. The others are monthly injections. In September 2025, the Food and Drug Administration in the U.S. approved a new somatostatin called paltusotine (Palsonify) for the treatment of acromegaly. This is a capsule taken by mouth once a day. Unlike octreotide or lanreotide, which are peptides, paltusotine is not a peptide. That means it is not made of amino acids like proteins are. Instead, it is a small molecule designed to mimic somatostatin's action, with a chemical structure that makes it easier to absorb and able to stay in the bloodstream longer than peptide medicines. Somatostatins are the first line treatment for acromegaly if surgery doesn't improve symptoms.
+Dopamine agonists.
+Cabergoline and bromocriptine (Cycloset, Parlodel) are medicines taken by mouth that may help lower GH and IGF-1 levels, especially when levels are only slightly high. They also may shrink the tumor. Because higher doses are often needed, side effects such as nausea, tiredness, dizziness, sleep problems or mood changes can occur.
+Growth hormone receptor antagonist.
+Pegvisomant (Somavert) blocks the effect of growth hormone on the body's tissues, which lowers IGF-1 levels. It does not shrink tumors or reduce GH levels. Pegvisomant is given as a daily shot and may be used when other medicines do not work well enough. Because pegvisomant may affect the liver, regular blood tests are needed to monitor liver function.
+
+
+
+## Therapies
+
+
+Radiation therapy for acromegaly is usually used after surgery to destroy leftover tumor cells. It also gradually lowers growth hormone levels, but it may take months or even years before you notice improvement.
+
+Radiation also can lower levels of other pituitary hormones, not just growth hormone levels. If you receive radiation, you'll need lifelong follow-up to monitor your hormone levels and pituitary function.
+
+Types of radiation therapy include:
+
+
+Stereotactic radiosurgery
+.
+This approach uses 3D imaging to deliver a high dose of radiation precisely to the tumor while limiting exposure to healthy tissue. It is usually given in a single dose. Growth hormone levels may return to a healthy range within several years. The most common technique is called Gamma Knife. This radiosurgery technique does not involve a surgical knife.
+Proton beam radiation.
+This type of radiation uses tiny particles called protons that target the tumor. It may cause less damage to the pituitary gland and the tissue that surrounds it than does conventional radiosurgery.
+Conventional
+radiation therapy
+.
+This type of radiation involves receiving small doses of radiation over 4 to 6 weeks. The risk of damage to the pituitary gland is higher than it is with proton beam radiation and stereotactic radiosurgery. The full effect of the treatment may take 10 years or more to appear.
+
+
+
+## Acromegaly prognosis and life expectancy
+
+
+
+## What is the life expectancy of people with acromegaly?
+
+
+In the past, people with untreated acromegaly often had a shorter life expectancy because of complications such as heart disease, diabetes, sleep apnea and cancer. Today, with earlier diagnosis and better treatments, the life expectancy with treatment for acromegaly is close to that of people without acromegaly. Many people with acromegaly can live a typical lifespan if their GH and IGF-1 levels are lowered and maintained at healthy levels with treatment.
+
+
+## What is the prognosis for acromegaly?
+
+
+The prognosis for acromegaly depends on how early the condition is diagnosed and how well the treatment controls hormone levels. Surgery used to completely remove small pituitary tumors may cure acromegaly. Large tumors are harder to remove completely. But medicines and radiation therapy can usually bring GH and IGF-1 levels down to safe ranges.
+
+Even after treatment, some physical changes — such as bone growth in the jaw, hands or feet — may not fully reverse. But controlling hormone levels improves symptoms and reduces the risk of serious complications. Regular follow-up is important to keep hormone levels in check and monitor for any return of tumor growth.

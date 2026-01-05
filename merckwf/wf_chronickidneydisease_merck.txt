@@ -1,0 +1,43 @@
+CHRONIC KIDNEY DISEASE (CKD) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Control underlying cause and comorbidities
+   - Tight control of diabetes and hypertension to slow GFR decline.
+   - Use ACE inhibitors or ARBs for most CKD with proteinuria (avoid combined ACEi + ARB).
+   - Consider SGLT2 inhibitors for proteinuric CKD (with or without diabetes).
+   - Add finerenone (NSMRA) in T2DM with albuminuric CKD despite ACE/ARB + SGLT2, if eGFR >25 and no hyperkalemia.
+
+2. Nutrition and fluid management
+   - Moderate protein restriction (~0.8 g/kg/day) once eGFR <60; stricter restriction only with dietitian supervision.
+   - Limit sodium to <2 g/day, especially with volume overload or hypertension.
+   - Restrict phosphate and use phosphate binders if hyperphosphatemic.
+   - Individualize potassium restriction based on serum K, eGFR, and meds.
+   - Treat metabolic acidosis: oral sodium bicarbonate or alkaline-ash diet to keep serum HCO₃⁻ >18 mmol/L.
+
+3. Mineral and bone disorder management
+   - Monitor Ca, phosphate, PTH, vitamin D, alkaline phosphatase from CKD stage 3a.
+   - Dietary phosphate restriction + binders (calcium or non–calcium) as needed.
+   - Correct vitamin D deficiency with cholecalciferol/ergocalciferol.
+   - If PTH remains markedly elevated despite correction of phosphate and vitamin D → consider active vitamin D analog or calcimimetic.
+
+4. Anemia management
+   - Treat when Hb <10 g/dL with ESAs (epoetin alfa, etc.) using lowest dose to keep Hb ~10–11 g/dL.
+   - Replace iron (often IV) to keep TSAT >20% and ferritin >100 ng/mL in non-dialysis CKD.
+   - Reserve transfusion for severe or symptomatic anemia (e.g., Hb <8 g/dL).
+
+5. Cardiovascular and heart failure management
+   - Sodium restriction, diuretics, and standard HF medications (ACE/ARB, beta-blockers, aldosterone antagonists, SGLT2i) with dose adjustments for CKD.
+   - Careful combination of loop + thiazide diuretics if needed, with monitoring.
+
+6. Medication dosing and avoidance
+   - Adjust doses for renally cleared drugs (e.g., many antibiotics, digoxin).
+   - Avoid or minimize NSAIDs and other nephrotoxic agents.
+   - Avoid certain drugs when eGFR <60 (e.g., nitrofurantoin, phenazopyridine).
+
+7. Dialysis planning and initiation
+   - Begin preparation for dialysis, transplant, or conservative care in early–mid stage 4 CKD.
+   - Start dialysis for uremic symptoms or when fluid overload, hyperkalemia, or acidosis cannot be controlled medically.
+   - Typical GFR threshold: ≤10 mL/min (no diabetes) or ≤15 mL/min (with diabetes).
+
+8. Transplantation
+   - Refer early for transplant evaluation.
+   - Living donor transplant before dialysis yields best outcomes.

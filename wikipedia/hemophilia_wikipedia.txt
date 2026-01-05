@@ -1,0 +1,40 @@
+--- Hemophilia Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Haemophilia
+
+--- Management ---
+
+
+There is no long-term cure. Treatment and prevention of bleeding episodes is done primarily by replacing the missing blood clotting factors.
+
+
+--- Clotting factors ---
+
+
+Clotting factors are usually not needed in mild haemophilia.In moderate haemophilia clotting factors are typically only needed when bleeding occurs or to prevent bleeding with certain events.In severe haemophiliapreventive useis often recommended two or three times a week and may continue for life.Rapid treatment of bleeding episodes decreases damage to the body.
+
+Factor VIII is used in haemophilia A and factor IX in haemophilia B. Factor replacement can be either isolated fromhuman plasma,recombinant, or a combination of the two. Some people developantibodies(inhibitors) against the replacement factors given to them, so the amount of the factor has to be increased or non-human replacement products must be given, such asporcinefactor VIII.
+
+If a person becomes refractory to replacement coagulation factor as a result of high levels of circulating inhibitors, this may be partially overcome with recombinant humanfactor VIII.
+
+In 2008, the USFood and Drug Administration(FDA) approved an anti-haemophilic drug completely free of albumin, which made it the first anti-haemophilic drug in the US to use an entirely synthetic purification process.Since 1993 recombinant factor products (which are typically cultured inChinese hamster ovary(CHO) tissue culture cells and involve little, if anyhuman plasmaproducts) have been available and have been widely used in wealthier western countries. While recombinant clotting factor products offer higher purity and safety, they are, like concentrate, extremely expensive, and not generally available in the developing world. In many cases, factor products of any sort are difficult to obtain in developing countries.
+
+Clotting factors are either given preventively or on-demand. Preventive use involves the infusion of clotting factor on a regular schedule in order to keep clotting levels sufficiently high to prevent spontaneous bleeding episodes. On-demand (or episodic) treatment involves treating bleeding episodes once they arise. In 2007, a trial comparing on-demand treatment of boys (< 30 months) with haemophilia A withprophylactic treatment(infusions of 25 IU/kg body weight of Factor VIII every other day) in respect to its effect on the prevention of joint-diseases. When the boys reached 6 years of age, 93% of those in the prophylaxis group and 55% of those in the episodic-therapy group had a normal index joint-structure onMRI.Preventative treatment, however, resulted in averagecostsof$300,000 per year. The author of an editorial published in the same issue of theNEJMsupports the idea that prophylactic treatment not only is more effective than on demand treatment but also suggests that starting after the first serious joint-related haemorrhage may be more cost effective than waiting until the fixed age to begin.Most haemophiliacs in third world countries have limited or no access to commercial blood clotting factor products.
+
+Fitusiran(Qfitlia) was approved for medical use in the United States in March 2025.
+
+
+--- Other ---
+
+
+Desmopressin(DDAVP) may be used in those with mild haemophilia A.Tranexamic acidorepsilon aminocaproic acidmay be given along with clotting factors to prevent breakdown of clots.
+
+Pain medicines,steroids, andphysical therapymay be used to reduce pain and swelling in an affected joint.In those with severe haemophilia A already receiving FVIII,emicizumabmay provide some benefit.Different treatments are used to help those with an acquired form of haemophilia in addition to the normal clotting factors. Often the most effective treatment is corticosteroids which remove the auto-antibodies in half of people. As a secondary route of treatment, cyclophosphamide and cyclosporine are used and are proven effective for those who did not respond to the steroid treatments. In rare cases a third route or treatment is used, high doses of intravenous immunoglobulin or immunosorbent that works to help control bleeding instead of battling the auto-antibodies.
+
+
+--- Contraindications ---
+
+
+Anticoagulantssuch asheparinandwarfarinarecontraindicatedfor people with haemophilia as these can aggravate clotting difficulties. Also contraindicated are those drugs which have "blood thinning"side effects. For instance, medicines which containaspirin,ibuprofen, ornaproxen sodiumshould not be taken because they are well known to have theside effectof prolonged bleeding.
+
+Also contraindicated are activities with a high likelihood of trauma, such asmotorcyclingandskateboarding. Popular sports with very high rates of physical contact and injuries such asAmerican football,hockey,boxing,wrestling, andrugbyshould be avoided by people with haemophilia.Other active sports likesoccer,baseball, andbasketballalso have a high rate of injuries, but have overall less contact and should be undertaken cautiously and only in consultation with a doctor.

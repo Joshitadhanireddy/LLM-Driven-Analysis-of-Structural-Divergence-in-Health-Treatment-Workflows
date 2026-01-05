@@ -1,0 +1,76 @@
+TYPE 2 DIABETES MANAGEMENT WORKFLOW (from Mayo Clinic-based plan)
+
+1. Core components
+   - Diabetes education.
+   - Healthy eating.
+   - Regular physical activity.
+   - Weight loss if needed.
+   - Glucose monitoring.
+   - Medications ± insulin as required.
+
+2. Nutrition management
+   - Emphasize:
+       * Regular meal schedule and healthy snacks.
+       * Smaller portions and fewer total calories.
+       * High-fibre foods: fruits, nonstarchy vegetables, whole grains.
+       * Lean proteins and low-fat dairy.
+       * Healthy fats (olive, canola oil).
+   - Limit:
+       * Refined grains, starchy vegetables, sweets.
+   - Dietitian support:
+       * Individualized plans, carb counting, habit change coaching.
+
+3. Physical activity
+   - Aerobic exercise: ≥150 minutes/week moderate activity (e.g., walking, swimming).
+   - Strength training: ≥2 sessions/week for all major muscle groups.
+   - Reduce sitting time: brief light activity every ~30 minutes.
+
+4. Weight management
+   - Initial target: ≥5% body weight loss (greater loss gives more benefit).
+   - Structured goals and lifestyle changes supported by care team.
+
+5. Glucose monitoring
+   - Self-monitoring frequency guided by treatment plan.
+   - Options:
+       * Fingerstick meter.
+       * Continuous glucose monitoring (CGM) with mobile alerts.
+   - Keep logs for dose and lifestyle adjustment.
+
+6. Oral and injectable medications
+   6.1 First-line
+       - Metformin: reduces hepatic glucose output and improves insulin sensitivity.
+   6.2 Insulin secretagogues
+       - Sulfonylureas: glipizide, glimepiride, glyburide.
+       - Glinides: repaglinide, nateglinide.
+   6.3 Insulin sensitizers
+       - Thiazolidinediones: pioglitazone, rosiglitazone.
+   6.4 Incretin-based & enzyme therapies
+       - DPP-4 inhibitors: sitagliptin, saxagliptin, linagliptin, alogliptin.
+       - GLP-1 receptor agonists (injectable): dulaglutide, exenatide, liraglutide, semaglutide.
+   6.5 SGLT2 inhibitors
+       - Canagliflozin, dapagliflozin, empagliflozin.
+       - Promote urinary glucose excretion; provide CV benefits but have specific risks.
+   6.6 Additional therapies
+       - BP- and lipid-lowering meds.
+       - Low-dose aspirin in selected high-risk patients.
+
+7. Insulin therapy
+   - Start when lifestyle + oral/injectable meds insufficient.
+   - Use long-acting basal insulin ± short-acting mealtime doses.
+   - Adjust regimen based on CGM or fingerstick patterns.
+   - Educate on hypoglycemia recognition and rapid treatment.
+
+8. Weight-loss (bariatric) surgery
+   - Consider for BMI ≥35 (or sometimes slightly lower) with difficult-to-control diabetes.
+   - Requires lifelong changes and nutritional monitoring.
+
+9. Special situation: pregnancy with type 2 diabetes
+   - Adjust diet and switch to pregnancy-safe medications.
+   - Insulin usually needed.
+   - Frequent eye exams for diabetic retinopathy during and after pregnancy.
+
+10. Recognizing emergencies
+   - Hyperglycemia and HHNS (BG >600 mg/dL).
+   - Diabetic ketoacidosis: abdominal pain, vomiting, rapid breathing, fruity breath.
+   - Hypoglycemia: sweating, tremor, confusion, drowsiness → treat with fast-acting carbs.
+

@@ -1,0 +1,78 @@
+--- Type 2 Diabetes Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Type_2_diabetes
+
+--- Management ---
+
+
+Management of type 2 diabetes focuses on lifestyle interventions, lowering other cardiovascular risk factors, and maintainingblood glucose levelsin the normal range.Self-monitoring of blood glucose for people with newly diagnosed type 2 diabetes may be used in combination with education,although the benefit of self-monitoring in those not using multi-dose insulin is questionable.In those who do not want to measure blood levels, measuring urine levels may be done.Managing other cardiovascular risk factors, such ashypertension,high cholesterol, andmicroalbuminuria, improves a person's life expectancy.Decreasing the systolic blood pressure to less than 140 mmHg is associated with a lower risk of death and better outcomes.Intensive blood pressure management (less than 130/80 mmHg) as opposed to standard blood pressure management (less than 140–160 mmHg systolic to 85–100 mmHg diastolic) results in a slight decrease in stroke risk but no effect on overall risk of death.
+
+Intensive blood sugar lowering (HbA1c< 6%) as opposed to standard blood sugar lowering (HbA1cof 7–7.9%) does not appear to change mortality.The goal of treatment is typically an HbA1cof 7 to 8% or a fasting glucose of less than 7.2 mmol/L (130 mg/dL); however these goals may be changed after professional clinical consultation, taking into account particular risks ofhypoglycemiaand life expectancy.Hypoglycemia is associated with adverse outcomes in older people with type 2 diabetes.Despite guidelines recommending that intensive blood sugar control be based on balancing immediate harms with long-term benefits, many people – for example people with a life expectancy of less than nine years who will not benefit, areover-treated.
+
+It is recommended that all people with type 2 diabetes get regulareye examinations.There is moderate evidence suggesting that treatinggum diseasebyscaling and root planingresults in an improvement in blood sugar levels for people with diabetes.
+
+
+--- Lifestyle ---
+
+
+
+** Exercise **
+
+
+A proper diet and regularexerciseare foundations of diabetic care,with one review indicating that a greater amount of exercise improved outcomes.Regular exercise may improve blood sugar control, decrease body fat content, and decrease blood lipid levels.
+
+
+** Diet **
+
+
+Calorie restrictionto promote weight loss is generally recommended.Around 80 percent of obese people with type 2 diabetes achieve complete remission with no need for medication if they sustain a weight loss of at least 15 kilograms (33 lb),but most patients are not able to achieve or sustain significant weight loss.Even modest weight loss can produce significant improvements in glycemic control and reduce the need formedication.
+
+Several diets may be effective such as theDASH diet,Mediterranean diet,low-fat diet, ormonitored carbohydrate dietssuch as alow carbohydrate diet.Other recommendations include emphasizing intake of fruits, vegetables, reduced saturated fat and low-fat dairy products, and with a macronutrient intake tailored to the individual, to distribute calories and carbohydrates throughout the day.A 2021 review showed that consumption of tree nuts (walnuts,almonds, andhazelnuts) reduced fasting blood glucose in diabetic people.As of 2015[update], there is insufficient data to recommend nonnutritive sweeteners, which may help reduce caloric intake.An elevated intake ofmicrobiota-accessible carbohydratescan help reducing the effects of T2D.Viscous fiber supplementsmay be useful in those with diabetes.
+
+Culturally appropriate education may help people with type 2 diabetes control their blood sugar levels for up to 24 months.There is not enough evidence to determine if lifestyle interventions affect mortality in those who already have type 2 diabetes.
+
+
+** Stress management **
+
+
+Although psychological stress is recognized as a risk factor for type 2 diabetes,the effect ofstress managementinterventions on disease progression are not established.ACochrane reviewis under way to assess the effects ofmindfulness‐based interventions for adults with type 2 diabetes.
+
+
+--- Medications ---
+
+
+
+** Blood sugar control **
+
+
+There are several classes ofdiabetes medicationsavailable.Metforminis generally recommended as a first line treatment as there is some evidence that it decreases mortality;however, this conclusion is questioned.Metformin should not be used in those with severe kidney or liver problems.TheAmerican Diabetes AssociationandEuropean Association for the Study of Diabetesrecommend using aGLP-1 receptor agonistorSGLT2 inhibitoras the first-line treatment in patients who have or are at high risk foratherosclerotic cardiovascular disease,heart failure, orchronic kidney disease.The higher cost of these drugs compared to metformin has limited their use.
+
+Other classes of medications include:sulfonylureas,thiazolidinediones,dipeptidyl peptidase-4 inhibitors,SGLT2 inhibitors, andGLP-1 receptor agonists.A 2018 review found that SGLT2 inhibitors and GLP-1 agonists, but not DPP-4 inhibitors, were associated with lower mortality than placebo or no treatment.Rosiglitazone, a thiazolidinedione, has not been found to improve long-term outcomes even though it improves blood sugar levels.Additionally it is associated with increased rates of heart disease and death.
+
+Injections of insulinmay either be added to oral medication or used alone.Most people do not initially need insulin.When it is used, a long-acting formulation is typically added at night, with oral medications being continued.Doses are then increased to effect (blood sugar levels being well controlled).When nightly insulin is insufficient, twice daily insulin may achieve better control.The long acting insulinsglargineanddetemirare equally safe and effective,and do not appear much better thanNPH insulin, but as they are significantly more expensive, they are not cost effective as of 2010.In those who arepregnant, insulin is generally the treatment of choice.
+
+
+** Blood pressure lowering **
+
+
+Many international guidelines recommend blood pressure treatment targets that are lower than 140/90 mmHg for people with diabetes.However, there is only limited evidence regarding what the lower targets should be. A 2016 systematic review found potential harm to treating to targets lower than 140 mmHg,and a subsequent review in 2019 found no evidence of additional benefit from blood pressure lowering to between 130 and 140 mmHg, although there was an increased risk of adverse events.2023 European Society of Cardiology guidelines recommend systolic blood pressure lowering to 130 mmHg in most people with diabetes.
+
+In people with diabetes andhypertensionand eitheralbuminuriaorchronic kidney disease, an inhibitor of the renin-angiotensin system (such as anACE inhibitororangiotensin receptor blocker) to reduce the risks of progression of kidney disease and present cardiovascular events.There is some evidence thatangiotensin converting enzyme inhibitors(ACEIs) are superior to other inhibitors of the renin-angiotensin system such asangiotensin receptor blockers(ARBs),oraliskirenin preventing cardiovascular disease.Although a 2016 review found similar effects of ACEIs and ARBs on major cardiovascular and renal outcomes.There is no evidence that combining ACEIs and ARBs provides additional benefits.
+
+
+** Other **
+
+
+The use ofstatinsin diabetes to preventcardiovascular diseaseshould be considered after evaluating the person's total risk for cardiovascular disease.
+
+The use ofaspirin(acetylsalicylic acid) to prevent cardiovascular disease in diabetes is controversial.Aspirin is recommended in people with previous cardiovascular disease, however routine use of aspirin has not been found to improve outcomes in uncomplicated diabetes.Aspirin asprimary preventionmay have greater risk than benefit, but could be considered in people aged 50 to 70 with another significant cardiovascular risk factor and low risk of bleeding after information about possible risks and benefits as part of shared-decision making.
+
+Vitamin Dsupplementation to people with type 2 diabetes may improve markers of insulin resistance and HbA1c.
+
+Sharing theirelectronic health recordswith people who have type 2 diabetes helps them to reduce their blood sugar levels. It is a way of helping people understand their own health condition and involving them actively in its management.
+
+
+--- Surgery ---
+
+
+Weight loss surgeryin those who areobeseis an effective measure to treat diabetes.Many are able to maintain normal blood sugar levels with little or no medication following surgeryand long-term mortality is decreased.There however is some short-term mortality risk of less than 1% from the surgery.Thebody mass indexcutoffs for when surgery is appropriate are not yet clear.It is recommended that this option be considered in those who are unable to get both their weight and blood sugar under control.

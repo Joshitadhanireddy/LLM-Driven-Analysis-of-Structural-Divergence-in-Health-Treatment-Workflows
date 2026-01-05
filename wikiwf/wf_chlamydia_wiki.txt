@@ -1,0 +1,19 @@
+CHLAMYDIA TREATMENT WORKFLOW (from Wikipedia-based plan)
+
+1. Diagnosis Confirmation
+   - NAAT test (urine or swab)
+   - Assess pregnancy status & coinfections.
+
+2. First‑Line Antibiotic Treatment
+   - Doxycycline 100 mg BID x 7 days (more effective in men)
+   - Azithromycin 1 g single dose
+   - Alternatives: erythromycin, levofloxacin, ofloxacin
+   - Pregnancy: erythromycin or amoxicillin
+
+3. Partner Management
+   - PDPT (Patient‑Delivered Partner Therapy)
+   - Provide medication/prescription to treat partners.
+
+4. Follow‑Up
+   - Retest at 3 months (reinfection check)
+   - Avoid early test of cure (NAAT can be false‑positive temporarily).

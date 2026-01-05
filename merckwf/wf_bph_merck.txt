@@ -1,0 +1,31 @@
+BENIGN PROSTATIC HYPERPLASIA (BPH) TREATMENT WORKFLOW (from Merck-based plan)
+
+1. Initial steps
+   - Identify and stop contributory drugs (anticholinergics, sympathomimetics, opioids).
+   - Treat urinary infection if present.
+   - Assess symptom severity, retention, complications.
+
+2. Acute urinary retention
+   - Immediate bladder decompression with urethral catheter (standard, then coudé if needed).
+   - If unsuccessful → flexible cystoscopy or suprapubic catheterization.
+
+3. Pharmacologic therapy (partial obstruction with bothersome symptoms)
+   - Alpha‑adrenergic blockers: terazosin, doxazosin, tamsulosin, alfuzosin, silodosin – rapid symptom relief.
+   - 5‑alpha‑reductase inhibitors: finasteride, dutasteride – shrink large prostates over months.
+   - Combination alpha‑blocker + 5‑ARI superior to either alone in many patients.
+   - Tadalafil once daily if concomitant erectile dysfunction.
+   - For overactive bladder symptoms on BPH meds: add beta‑3 agonist vibegron.
+
+4. Surgical management
+   - Indications: failed meds or complications (recurrent UTI, stones, severe bladder dysfunction, upper tract dilation).
+   - Standard: TURP – durable relief with known risk profile.
+   - Large glands (>75 g): simple open or robotic prostatectomy, or endoscopic enucleation (eg, HoLEP, DiLEP).
+
+5. Minimally invasive surgical technologies (MIST)
+   - Options: laser ablation, microwave thermotherapy, radiofrequency, steam injection, water‑jet therapy, urethral lift, temporary devices, prostatic artery embolization (PAE).
+   - Provide modest improvement but fewer side effects (less incontinence, retrograde ejaculation).
+   - Often office‑based with local anesthesia; do not preclude later definitive surgery.
+
+6. Follow‑up
+   - Monitor symptoms, flow, and complications.
+   - Reassess medications and consider escalation to procedures if quality of life remains impaired.

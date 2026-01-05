@@ -1,0 +1,99 @@
+--- Marfan Syndrome Treatment Plan (Extracted from Merck Manuals) ---
+
+Source URL: https://www.merckmanuals.com/professional/pediatrics/connective-tissue-disorders-in-children/marfan-syndrome?query=marfan%20syndrome#Treatment_v1094071
+
+=== Treatment of Marfan Syndrome ===
+
+  - Beta-blockers and/or angiotensin II receptor blockers 
+
+  - Elective aortic repair and valve repair
+
+  - Bracing and surgery for scoliosis
+
+  - Vision correction, lensectomy, and laser surgery
+
+  - Sports and exercise guidance
+
+Beta-blockers and/or angiotensin II receptor blockers Beta-blockers and/or angiotensin II receptor blockers
+
+Elective aortic repair and valve repair
+
+Vision correction, lensectomy, and laser surgery
+
+Treatment of Marfan syndrome is focused on prevention and treatment of complications, particularly aortic root dissection.
+
+Cardiovascular, musculoskeletal, and ocular findings should be reevaluated annually.
+
+Appropriate genetic counseling is indicated for reproductive purposes.
+
+
+--- Medications ---
+
+
+All adult patients should routinely be given beta-blockers (eg, atenolol , propranolol ), or angiotensin II receptor blockers (eg, losartan , irbesartan ), or a combination of both at a maximally tolerated dose to help slow aortic dilation and prevent cardiovascular complications ( All adult patients should routinely be given beta-blockers (eg, atenolol, propranolol), or angiotensin II receptor blockers (eg, losartan, irbesartan), or a combination of both at a maximally tolerated dose to help slow aortic dilation and prevent cardiovascular complications ( 1 ).
+
+For children, monotherapy is started when aortic root diameter is abnormal (Z-score ≥ 2 for patients < 16 years old, and absolute diameter ≥ 3.5 cm for patients ≥ 16 years old); dual therapy is started as dilation progresses ( 2 ).
+
+These medications lower myocardial contractility and blood pressure, potentially affect signalling pathways that are implicated in the pathogenesis of disease, and reduce progression of aortic root dilation and risk of dissection ( 3 ).
+
+
+--- Surgeries ---
+
+
+Prophylactic surgery (aortic root replacement) is offered to adults when the aortic diameter is > 5.0 cm (> 4.5 cm in patients with certain high-risk features) ( 1 ). For children, the threshold diameter is based on age as well as risk profile ( 2 ). Pregnant patients are at especially high risk of aortic complications; elective aortic repair before conception should be discussed. Severe valve regurgitation is also surgically repaired.
+
+Personalized external aortic root support (PEARS) is a surgical option that reinforces but does not require replacement of the aortic root ( 4 ).
+
+Scoliosis is managed with bracing as long as possible, but surgical intervention is encouraged in patients with spinal curvature of 40 to 50°.
+
+Ocular manifestations, such as lens dislocation, retinal detachment, and glaucoma, require surgical correction. For a dislocated lens, correction may involve removal of the lens (lensectomy) followed by a replacement intraocular lens, or vision correction if the lens is not replaced. These interventions are highly successful because of advancements in ocular technologies.
+
+
+--- Physical activity ---
+
+
+Sports and exercise guidance for patients with Marfan syndrome is focused on risk assessment and shared decision making ( 2 , 5 ).
+
+For older adolescents and adults with Marfan syndrome, particularly those with aortic root dilation, exercising at peak intensity, training requiring a forceful Valsalva maneuver (such as heavy weightlifting), and sports with a risk of collision or bodily contact are discouraged. These risks are balanced with the benefits of sports participation and physical activity.
+
+Joint hypermobility and ocular complications are additional considerations for individualized sports and exercise counseling.
+
+
+--- Pregnancy ---
+
+
+The risks of pregnancy, labor, and delivery should be discussed with all patients with Marfan syndrome and aortopathy who might become pregnant, ideally before conception. For some, prepregnancy elective aortic repair may be offered.
+
+Specific recommendations for delivery are based on aortic diameter ( 1 ):
+
+  - Aortic diameter < 4.0 cm: Vaginal delivery (when otherwise appropriate)
+
+  - Aortic diameter 4.0 to 4.5 cm: Consider regional anesthesia for vaginal delivery, expedited second stage, assisted delivery, or cesarean delivery
+
+  - Aortic diameter > 4.5 cm: Cesarean delivery
+
+Aortic diameter < 4.0 cm: Vaginal delivery (when otherwise appropriate)
+
+Aortic diameter 4.0 to 4.5 cm: Consider regional anesthesia for vaginal delivery, expedited second stage, assisted delivery, or cesarean delivery
+
+Aortic diameter > 4.5 cm: Cesarean delivery
+
+  - 1. Writing Committee Members, Isselbacher EM, Preventza O, et al . 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol . 2022;80(24):e223-e393. doi:10.1016/j.jacc.2022.08.004
+
+  - 2. Morris SA, Flyer JN, Yetman AT, et al . Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association. Circulation . 2024;150(11):e228-e254. doi:10.1161/CIR.0000000000001265
+
+  - 3. Mullen M, Jin XY, Child A, et al . Irbesartan in Marfan syndrome (AIMS): a double-blind, placebo-controlled randomised trial. Lancet . 2019;394(10216):2263-2270. doi:10.1016/S0140-6736(19)32518-8
+
+  - 4. Izgi C, Newsome S, Alpendurada F, et al . External Aortic Root Support to Prevent Aortic Dilatation in Patients With Marfan Syndrome. J Am Coll Cardiol. 2018;72(10):1095-1105. doi:10.1016/j.jacc.2018.06.053
+
+  - 5. Kim JH, Baggish AL, Levine BD, et al . Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities: A Scientific Statement From the American Heart Association and American College of Cardiology [published correction appears in Circulation . 2025 Apr;151(13):e864. doi: 10.1161/CIR.0000000000001326.]. Circulation . 2025;151(11):e716-e761. doi:10.1161/CIR.0000000000001297
+
+1. Writing Committee Members, Isselbacher EM, Preventza O, et al . 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol . 2022;80(24):e223-e393. doi:10.1016/j.jacc.2022.08.004
+
+2. Morris SA, Flyer JN, Yetman AT, et al . Cardiovascular Management of Aortopathy in Children: A Scientific Statement From the American Heart Association. Circulation . 2024;150(11):e228-e254. doi:10.1161/CIR.0000000000001265
+
+3. Mullen M, Jin XY, Child A, et al . Irbesartan in Marfan syndrome (AIMS): a double-blind, placebo-controlled randomised trial. Lancet . 2019;394(10216):2263-2270. doi:10.1016/S0140-6736(19)32518-8
+
+4. Izgi C, Newsome S, Alpendurada F, et al . External Aortic Root Support to Prevent Aortic Dilatation in Patients With Marfan Syndrome. J Am Coll Cardiol. 2018;72(10):1095-1105. doi:10.1016/j.jacc.2018.06.053
+
+5. Kim JH, Baggish AL, Levine BD, et al . Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities: A Scientific Statement From the American Heart Association and American College of Cardiology [published correction appears in Circulation . 2025 Apr;151(13):e864. doi: 10.1161/CIR.0000000000001326.]. Circulation . 2025;151(11):e716-e761. doi:10.1161/CIR.0000000000001297

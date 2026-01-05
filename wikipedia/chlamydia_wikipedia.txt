@@ -1,0 +1,12 @@
+--- Chlamydia Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Chlamydia
+
+--- Treatment ---
+
+
+C. trachomatisinfection can be effectively cured withantibiotics. Guidelines recommendazithromycin,doxycycline,erythromycin,levofloxacin, orofloxacin.In men, doxycycline (100 mg twice a day for 7 days) is probably more effective than azithromycin (1 g single dose) but evidence for the relative effectiveness of antibiotics in women is very uncertain.Agents recommended during pregnancy include erythromycin oramoxicillin.
+
+An option for treating sexual partners of those with chlamydia orgonorrheaincludespatient-delivered partner therapy(PDT or PDPT), which is the practice of treating the sex partners of index cases by providing prescriptions or medications to the patient to take to his/her partner without the health care provider first examining the partner.
+
+Following treatment people should be tested again after three months to check for reinfection.Test of cure may befalse-positivedue to the limitations of NAAT in a bacterial (rather than a viral) context, since targeted genetic material may persist in the absence of viable organisms.

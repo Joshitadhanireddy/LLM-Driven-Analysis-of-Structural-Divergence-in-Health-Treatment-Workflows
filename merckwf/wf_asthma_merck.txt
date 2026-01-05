@@ -1,0 +1,38 @@
+ASTHMA MANAGEMENT WORKFLOW (from Merck-based plan)
+
+1. Goals
+   - Minimize day/night symptoms and exacerbations.
+   - Maintain near‑normal lung function and activity.
+   - Avoid treatment side effects.
+
+2. Trigger control
+   - Reduce allergens: dust mites, pets, cockroaches, mold (bedding covers, hot‑water washing, HEPA, dehumidifiers).
+   - Avoid smoke, strong odors, irritant fumes, cold air, high humidity.
+   - Manage viral exposure; do NOT avoid exercise – use pre‑exercise SABA instead.
+   - Avoid nonselective beta‑blockers and offending NSAIDs; use acetaminophen or COX‑2 selective agents in aspirin‑sensitive asthma.
+
+3. Controller and reliever drug classes
+   - Bronchodilators: beta‑2 agonists, anticholinergics.
+   - Inhaled and systemic corticosteroids.
+   - Leukotriene modifiers.
+   - Mast cell stabilizers.
+   - Methylxanthines.
+   - Biologic/immunomodulators (eg, anti‑IgE, anti‑IL5/IL5R, anti‑IL4/13).
+
+4. Stepwise chronic therapy (examples)
+   - Step 1 (intermittent): low‑dose ICS–formoterol as needed, or SABA + low‑dose ICS.
+   - Step 2 (mild persistent): daily low‑dose ICS + SABA PRN.
+   - Step 3–4 (moderate): low‑/medium‑dose ICS–formoterol used daily and as needed; or ICS + LABA.
+   - Step 5 (severe): high‑dose ICS + LABA ± LAMA, consider biologics; some need oral steroids.
+   - Always review adherence, triggers, and comorbidities before step‑up; step‑down after ≥3 months of good control.
+
+5. Monitoring & education
+   - Office spirometry every 1–2 years or with control change.
+   - Home peak‑flow plus symptom diary for moderate–severe disease.
+   - Written asthma action plan based on personal best PEF.
+   - Teach inhaler/spacer technique and early steroid use in exacerbations.
+
+6. Acute exacerbation treatment
+   - Inhaled SABA ± anticholinergic.
+   - Systemic corticosteroids.
+   - Escalate per severity; hospitalize if needed.

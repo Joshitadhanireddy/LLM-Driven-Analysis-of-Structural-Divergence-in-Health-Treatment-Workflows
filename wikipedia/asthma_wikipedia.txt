@@ -1,0 +1,107 @@
+--- Asthma Treatment Plan (Extracted from Wikipedia) ---
+
+Source URL: https://en.wikipedia.org/wiki/Asthma
+
+--- Management ---
+
+
+While there is no cure for asthma, symptoms can typically be improved.The most effective treatment for asthma is identifying triggers, such ascigarette smoke, use ofelectronic cigarettes, pets or other allergens, and eliminating exposure to them.If trigger avoidance is insufficient, the use of medication is recommended. Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories.The medications listed below have demonstrated efficacy in improving asthma symptoms; however, real world use-effectiveness is limited as around half of people with asthma worldwide remain sub-optimally controlled, even when treated.People with asthma may remain sub-optimally controlled either because optimum doses of asthma medications do not work (called "refractory" asthma) or because individuals are either unable (e.g. inability to afford treatment, poor inhaler technique) or unwilling (e.g., wish to avoid side effects of corticosteroids) to take optimum doses of prescribed asthma medications (called "difficult to treat" asthma). In practice, it is not possible to distinguish "refractory" from "difficult to treat" categories for patients who have never taken optimum doses of asthma medications. A related issue is that the asthma efficacy trials upon which the pharmacological treatment guidelines are based have systematically excluded the majority of people with asthma.For example, asthma efficacy treatment trials always exclude otherwise eligible people who smoke, and smoking diminishes the efficacy of inhaled corticosteroids, the mainstay of asthma control management.
+
+Bronchodilatorsare recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present (more than two attacks a week), low-dose inhaled corticosteroids or alternatively, aleukotriene antagonistor amast cell stabilizerby mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments.
+
+People with asthma have higher rates ofanxiety,psychological stress, anddepression.This is associated with poorer asthma control.Cognitive behavioural therapymay improve quality of life, asthma control, and anxiety levels in people with asthma.
+
+Improving people's knowledge about asthma and using a written action plan has been identified as an important component of managing asthma.Providing educational sessions that include information specific to a person's culture is likely effective.More research is necessary to determine if increasing preparedness and knowledge of asthma among school staff and families using home-based and school interventions results in long-term improvements in safety for children with asthma.[needs update]School-based asthma self-management interventions, which attempt to improve knowledge of asthma, its triggers, and the importance of regular practitioner review, may reduce hospital admissions and emergency department visits. These interventions may also reduce the number of days children experience asthma symptoms and may lead to small improvements in asthma-related quality of life.More research is necessary to determine ifshared decision-makinghelps manage adults with asthmaor if a personalized asthma action plan is effective and necessary.Some people with asthma usepulse oximetersto monitor their own blood oxygen levels during an asthma attack. However, there is no evidence regarding the use in these instances.
+
+
+--- Lifestyle modification ---
+
+
+Avoidance of triggers is a key component of improving control and preventing attacks. The most common triggers includeallergens, smoke (from tobacco or other sources), air pollution,nonselective beta-blockers, and sulfite-containing foods.Cigarette smoking andsecond-hand smoke(passive smoke) may reduce the effectiveness of medications such as corticosteroids.Laws that limit smokingdecrease the number of people hospitalized for asthma.Dust mite control measures, including air filtration, chemicals to kill mites, vacuuming, mattress covers, and other methods, did not affect asthma symptoms.There is insufficient evidence to suggest that dehumidifiers help control asthma.
+
+Overall, exercise is beneficial in people with stable asthma.Yogacould provide small improvements in quality of life and symptoms in people with asthma.More research is necessary to determine how effective weight loss is in improving quality of life, the usage of health care services, and adverse effects for people of all ages with asthma.
+
+Findings suggest that theWim HofMethod may reduce inflammation in healthy and non-healthy participants as it increases epinephrine levels, causing an increase in interleukin-10 and a decrease in pro-inflammatory cytokines.
+
+
+--- Medications ---
+
+
+Medications used to treat asthma are divided into two general classes: quick-relief medications used to treat acute symptoms, and long-term control medications used to prevent further exacerbation.Antibioticsare generally not needed for sudden worsening of symptoms or for treating asthma at any time.
+
+
+** Medications for asthma exacerbations **
+
+
+  - Short-actingbeta2-adrenoceptor agonists(SABAs), such assalbutamol(albuterolUSAN) are the first-line treatment for asthma symptoms.They are recommended before exercise in those with exercise-induced symptoms.
+  - Anticholinergicmedications, such asipratropium, provide additional benefit when used in combination with SABA in those with moderate or severe symptoms and may prevent hospitalizations.Anticholinergic bronchodilators can also be used if a person cannot tolerate a SABA.If a child requires admission to hospital additional ipratropium does not appear to help over a SABA.For children over 2 years old with acute asthma symptoms, inhaled anticholinergic medications taken alone is safe but is not as effective as inhaled SABA or SABA combined with inhaled anticholinergic medication.Adults who receive combined inhaled medications, which include short-acting anticholinergics and SABA, may be at risk for increased adverse effects such as experiencing a tremor, agitation, and heart beatpalpitationscompared to people who are treated with SABAs alone.
+  - Older, less selectiveadrenergic agonists, such as inhaledepinephrine, have similar efficacy to SABAs.They are, however, not recommended due to concerns regarding excessive cardiac stimulation.
+  - Corticosteroids can also help with the acute phase of an exacerbation because of their antiinflammatory properties. The benefit of systemic and oral corticosteroids is well established. Inhaled or nebulized corticosteroids can also be used.For adults and children who are in the hospital due to acute asthma, systemic (IV) corticosteroids improve symptoms.A short course of corticosteroids after an acute asthma exacerbation may help prevent relapses and reduce hospitalizations.
+  - Other remedies, less established, are intravenous or nebulized magnesium sulfate and helium mixed with oxygen. Aminophylline could be used with caution as well.
+  - Mechanical ventilation is the last resort in case of severe hypoxemia.
+  - Intravenous administration of the drugaminophyllinedoes not provide an improvement in bronchodilation when compared to standard inhaled beta2agonist treatment.Aminophylline treatment is associated with more adverse effects compared to inhaled beta2agonist treatment.
+
+
+** Long–term control **
+
+
+  - Corticosteroids are generally considered the most effective treatment available for long-term control.Inhaled forms are usually used except in the case of severe persistent disease, in which oral corticosteroids may be needed.Dosage depends on the severity of symptoms.High dosage and long-term use might lead to the appearance of common adverse effects which are growth delay, adrenal suppression, and osteoporosis.Continuous (daily) use of an inhaled corticosteroid, rather than its intermitted use, seems to provide better results in controlling asthma exacerbations.Commonly used corticosteroids arebudesonide,fluticasone,mometasoneandciclesonide.
+  - Long-acting beta-adrenoceptor agonists(LABA) such assalmeterolandformoterolcan improve asthma control, at least in adults, when given in combination with inhaled corticosteroids.In children this benefit is uncertain.When used without steroids they increase the risk of severeside-effects,and with corticosteroids they may slightly increase the risk.Evidence suggests that for children who have persistent asthma, a treatment regime that includes LABA added to inhaled corticosteroids may improve lung function but does not reduce the amount of serious exacerbations.Children who require LABA as part of their asthma treatment may need to go to the hospital more frequently.
+  - Leukotriene receptor antagonists(anti-leukotriene agents such asmontelukastandzafirlukast) may be used in addition to inhaled corticosteroids, typically also in conjunction with a LABA.For adults or adolescents who have persistent asthma that is not controlled very well, the addition of anti-leukotriene agents along with daily inhaled corticosteriods improves lung function and reduces the risk of moderate and severe asthma exacerbations.Anti-leukotriene agents may be effective alone for adolescents and adults; however, there is no clear research suggesting which people with asthma would benefit from anti-leukotriene receptor alone.In those under five years of age, anti-leukotriene agents were the preferred add-on therapy after inhaled corticosteroids.A 2013Cochranesystematic review concluded that anti-leukotriene agents appear to be of little benefit when added to inhaled steroids for treating children.A similar class of drugs,5-LOXinhibitors, may be used as an alternative in the chronic treatment of mild to moderate asthma among older children and adults.As of 2013[update]there is one medication in this family known aszileuton.
+  - Mast cell stabilizers(such ascromolyn sodium) are safe alternatives to corticosteroids but not preferred because they have to be administered frequently.
+  - Oraltheophyllinesare sometimes used for controlling chronic asthma, but their use is minimized due to side effects.
+  - Omalizumab, a monoclonal antibody against IgE, is a novel way to lessen exacerbations by decreasing the levels of circulating IgE that play a significant role in allergic asthma.
+  - Anticholinergic medications such as ipratropium bromide are not beneficial for treating chronic asthma in children over 2 years old,and are not suggested for routine treatment of chronic asthma in adults.
+  - There is no strong evidence to recommendchloroquinemedication as a replacement for taking corticosteroids by mouth (for those who are not able to tolerate inhaled steroids).Methotrexateis not suggested as a replacement for taking corticosteroids by mouth ("steroid-sparing") due to the adverse effects associated with taking methotrexate and the minimal relief provided for asthma symptoms.
+  - Macrolideantibiotics, particularly the azalide macrolideazithromycin, are a recently addedGlobal Initiative for Asthma(GINA)-recommended treatment option for both eosinophilic and non-eosinophilic severe, refractory asthma based on azithromycin's efficacy in reducing moderate and severe exacerbations combined.Azithromycin's mechanism of action is not established, and could involve pathogen- and/or host-directed anti-inflammatory activities.Limited clinical observations suggest that some patients with new-onset asthma and with "difficult-to-treat" asthma (including those with the asthma-COPD overlap syndrome – ACOS) may respond dramatically to azithromycin.However, these groups of asthma patients have not been studied in randomized treatment trials and patient selection needs to be carefully individualized.
+  - A 2024 study indicates that commonly used diabetes medications may lower asthma attacks by up to 70%.The research examinedmetforminand GLP-1 drugs such as Ozempic (semaglutide), Mounjaro (tirzepatide), and Saxenda (liraglutide). Among nearly 13,000 participants with both diabetes and asthma, metformin reduced the risk of asthma attacks by 30%, with an additional 40% reduction when combined with aGLP-1 drug.
+
+For children with asthma that is well-controlled on combination therapy ofinhaled corticosteroids(ICS) and long-acting beta2-agonists (LABA), the benefits and harms of stopping LABA and stepping down to ICS-only therapy are uncertain.In adults who have stable asthma while they are taking a combination of LABA and inhaled corticosteroids (ICS), stopping LABA may increase the risk of asthma exacerbations that require treatment with corticosteroids by mouth.Stopping LABA probably makes little or no important difference to asthma control or asthma-related quality of life.Whether or not stopping LABA increases the risk of serious adverse events or exacerbations requiring an emergency department visit or hospitalization is uncertain.
+
+
+** Delivery methods **
+
+
+Medications are typically provided asmetered-dose inhalers(MDIs) in combination with aninhaler spaceror as adry powder inhaler. The spacer is a plastic cylinder that mixes the medication with air, making it easier to receive a full dose of the drug. Anebulizermay also be used. Nebulizers and spacers are equally effective in those with mild to moderate symptoms. However, insufficient evidence is available to determine whether a difference exists in those with severe disease.For delivering short-acting beta-agonists in acute asthma in children, spacers may have advantages compared to nebulisers, but children with life-threatening asthma have not been studied.There is no strong evidence for the use of intravenous LABA for adults or children who have acute asthma.There is insufficient evidence to directly compare the effectiveness of a metered-dose inhaler attached to a homemade spacer compared to a commercially available spacer for treating children with asthma.
+
+
+** Adverse effects **
+
+
+Long-term use of inhaled corticosteroids at conventional doses carries a minor risk of adverse effects.Risks includethrush, the development ofcataracts, and a slightly slowed rate of growth.Rinsing the mouth after the use of inhaled steroids can decrease the risk of thrush.Higher doses of inhaled steroids may result in lowerbone mineral density.
+
+
+--- Others ---
+
+
+Inflammation in the lungs can be estimated by the level of exhalednitric oxide.The use of exhaled nitric oxide levels (FeNO) to guide asthma medication dosing may have small benefits for preventing asthma attacks but the potential benefits are not strong enough for this approach to be universally recommended as a method to guide asthma therapy in adults or children.
+
+When asthma is unresponsive to usual medications, other options are available for both emergency management and prevention of flare-ups. Additional options include:
+
+  - Humidifiedoxygento alleviatehypoxiaifsaturationsfall below 92%.
+  - Corticosteroids by mouth, with five days ofprednisonebeing the same two days ofdexamethasone.One review recommended a seven-day course of steroids.
+  - Magnesium sulfateintravenous treatment increases bronchodilation when used in addition to other treatment in moderate to severe acute asthma attacks.In adults, intravenous treatment results in a reduction of hospital admissions.Low levels of evidence suggest that inhaled (nebulized) magnesium sulfate may have a small benefit for treating acute asthma in adults.Overall, high-quality evidence do not indicate a large benefit for combining magnesium sulfate with standard inhaled treatments for adults with asthma.
+  - Heliox, a mixture of helium and oxygen, may also be considered in severe unresponsive cases.
+  - Intravenous salbutamol is not supported by available evidence and is thus used only in extreme cases.
+  - Methylxanthines(such astheophylline) were once widely used, but do not add significantly to the effects of inhaled beta-agonists.Their use in acute exacerbations is controversial.
+  - The dissociative anaestheticketamineis theoretically useful ifintubationandmechanical ventilationis needed in people who are approaching respiratory arrest; however, there is no evidence from clinical trials to support this.A 2012 Cochrane review found no significant benefit from the use of ketamine in severe acute asthma in children.
+  - For those with severe, persistent asthma not controlled by inhaled corticosteroids and LABAs,bronchial thermoplastymay be an option.It involves the delivery of controlled thermal energy to the airway wall during a series ofbronchoscopies.While it may increase exacerbation frequency in the first few months it appears to decrease the subsequent rate. Effects beyond one year are unknown.
+  - Monoclonal antibodyinjections such asmepolizumab,dupilumab,oromalizumabmay be useful in those with poorly controlled atopic asthma.However, as of 2019[update]these medications are expensive and their use is therefore reserved for those with severe symptoms to achieve cost-effectiveness.Monoclonal antibodies targetinginterleukin-5(IL-5) or its receptor (IL-5R), includingmepolizumab,reslizumaborbenralizumab, in addition to standard care in severe asthma is effective in reducing the rate of asthma exacerbations. There is limited evidence for improved health-related quality of life and lung function.
+  - Evidence suggests thatsublingual immunotherapyin those with bothallergic rhinitisand asthma improve outcomes.
+  - It is unclear ifnon-invasive positive pressure ventilationin children is of use, as it has not been sufficiently studied.
+
+
+--- Adherence to asthma treatments ---
+
+
+Staying with a treatment approach for preventing asthma exacerbations can be challenging, especially if the person is required to take medicine or treatments daily.Reasons for lowadherencerange from a conscious decision to not follow the suggested medical treatment regime for various reasons including avoiding potentialside effects,misinformation, or other beliefs about the medication.Problems accessing the treatment and problems administering the treatment effectively can also result in lower adherence. Various approaches have been undertaken to try and improve adherence to treatments to help people prevent serious asthma exacerbations, including digital interventions.
+
+
+--- Alternative medicine ---
+
+
+Many people with asthma, like those with other chronic disorders, usealternative treatments; surveys show that roughly 50% use some form of unconventional therapy.There is little data to support the effectiveness of most of these therapies.
+
+Evidence is insufficient to support the usage ofvitamin Corvitamin Efor controlling asthma.There is tentative support for use of vitamin C in exercise induced bronchospasm.Fish oildietary supplements (marine n-3 fatty acids)and reducing dietary sodiumdo not appear to help improve asthma control. In people with mild to moderate asthma, treatment withvitamin Dsupplementation or its hydroxylated metabolites does not reduce acute exacerbations or improve control.There is no strong evidence to suggest that vitamin D supplements improve day-to-day asthma symptoms or a person's lung function.There is no strong evidence to suggest that adults with asthma should avoid foods that containmonosodium glutamate(MSG).There have not been enough high-quality studies performed to determine if children with asthma should avoid eating food that contains MSG.
+
+Acupunctureis not recommended for the treatment as there is insufficient evidence to support its use.Air ionizersshow no evidence that they improve asthma symptoms or benefit lung function; this applied equally to positive and negative ion generators.Manual therapies, includingosteopathic,chiropractic,physiotherapeuticandrespiratory therapeuticmanoeuvres, have insufficient evidence to support their use in treating asthma.Pulmonary rehabilitation, however, may improve quality of life and functional exercise capacity when compared to usual care for adults with asthma.TheButeyko breathing techniquefor controlling hyperventilation may result in a reduction in medication use; however, the technique does not have any effect on lung function.Thus an expert panel felt that evidence was insufficient to support its use.There is no clear evidence that breathing exercises are effective for treating children with asthma.
